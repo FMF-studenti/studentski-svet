@@ -7,7 +7,7 @@
     {
 ?>
                         <div class="linkItem">
-                            <div class="linkTitle"><a class="titlelink" title="<?php echo $title; ?>" href="<?php echo $link; ?>"><?php echo $title; ?></a></div>
+                            <div class="linkTitle"><a class="titlelink" title="<?php echo $title; ?>" href="http://forum.fmf.si/t/<?php echo $link; ?>"><?php echo $title; ?></a></div>
                             <div class="linkDate">(<?php echo $date; ?>)</div>
                         </div>
 <?php
@@ -29,7 +29,7 @@
     foreach ($topics as $topic) {
         $date = date_create($topic->updated);
         $date->setTimezone(new DateTimeZone('Europe/Ljubljana'));
-        phpbb_display_topic_svet($topic->title, date_format($date, "j. n. Y, H:i"), 'http://forum.fmf.si/t/' + $topic->slug);
+        phpbb_display_topic_svet($topic->title, date_format($date, "j. n. Y, H:i"), $topic->slug);
     }
 ?>
                     </div>
