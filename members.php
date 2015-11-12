@@ -8,26 +8,48 @@
 
                 <h2>Člani Študentskega sveta FMF</h2>
                 <ul>
-                    <li>Ana Smerdu – matematika, 1. stopnja, 3. letnik - <strong>predsednica</strong></li>
-                    <li>Rok Grah – fizika, 2. stopnja, 2. letnik - <strong>podpredsednik</strong></li>
-                    <li>Jasna Urbančič – fizika, 1. stopnja, 3. letnik - <strong>tajnica</strong></li>
-                    <li>Nejc Čeplak – fizika, 1. stopnja, 2. letnik</li>
-                    <li>Jure Česen – fizika, 1. stopnja, 1. letnik</li>
-                    <li>Miha Jejčič – matematika in fizika, 3. stopnja, 3. letnik</li>
-                    <li>Rok Kaufman – fizika, 1. stopnja, 3. letnik</li>
-                    <li>Jasna Kolar – fizika, 1. stopnja, 1. letnik</li>
-                    <li>Marion Antonia van Midden – fizika, 2. stopnja, 1. letnik</li>
-                    <li>Andraž Pirnovar – finančna matematika, 1. stopnja, 1. letnik</li>
+                    <li>Rok Gregorič &ndash; matematika, 2. stopnja, 1. letnik</li>
+                    <li>Matej Jazbec &ndash; matematika, 1. stopnja, 1. letnik </li>
+                    <li>Bruno Jurič &ndash; finančna matematika, 1. stopnja, 1. letnik</li>
+                    <li>Ana Rebeka Kamšek &ndash;  fizika, 1. stopnja, 1. letnik </li>
+                    <li>Veno Mramor &ndash;  matematika, 2. stopnja, 1. letnik</li>
+                    <li>Aljaž Robek &ndash; fizika, 1. stopnja, 1. letnik</li>
+                    <li>Jure Slak &ndash; matematika, 2. stopnja, 1. letnik</li>
+                    <li>Ana Smerdu &ndash; matematika, 1. stopnja, absolventka </li>
+                    <li>Marion Antonia van Midden &ndash; fizika, 2. stopnja, 2. letnik</li>
                 </ul>
 
                 <p>&nbsp;</p>
 
+                <h1>Vodstvo sveta</h1>
+                <strong>Predsednica</strong> sveta je Marion van Midden, <strong>podpredsednik</strong> pa je Veno Mramor.
+                Njuna namestnika sta Ana Smerdu in Ana Rebeka Kamšek. <strong>Tajnik</strong> sveta
+                je Rok Gregorič. <strong>Predstavnik za stike z RC</strong> je Jure Slak.
+
                 <h1>Predstavniki v organih FMF</h1>
                 <h2>Člani senata FMF</h2>
                 <ul>
-                    <li>Rok Grah – fizika, 2. stopnja, 2. letnik</li>
-                    <li>Ana Smerdu –  matematika, 1. stopnja, 3. letnik</li>
-                    <li>Jasna Urbančič – fizika, 1. stopnja, 3. letnik</li>
+                    <li>Marion van Midden</li>
+                    <li>Veno Mramor</li>
+                    <li>Matej Jazbec</li>
+                </ul>
+
+                <h2>ZPS (znanstveno pedagoški svet)</h2>
+                <ul>
+                    <li>Rok Gregorič &ndash; matematika</li>
+                    <li>Aljaž Robek &ndash; fizika</li>
+                </ul>
+
+                <h2>Disciplinska komisija</h2>
+                <ul>
+                    <li>Jure Slak</li>
+                    <li>Ana Rebeka Kamšek (namestnica)</li>
+                </ul>
+
+                <h2>Komisija za etična uprašanja</h2>
+                <ul>
+                    <li>Bruno Jurič</li>
+                    <li>Aljaž Robek</li>
                 </ul>
 
                 <p class="smallfont">Imen članov komisije za študentska mnenja po sklepu Študentskega sveta ne bomo javno objavili.</p>
@@ -37,8 +59,8 @@
                 <h1>Člani organov in komisij senata Univerze v Ljubljani</h1>
                 <h2>Člani Študentskega sveta Univerze v Ljubljani</h2>
                 <ul>
-                    <li>Ana Smerdu</li>
-                    <li>Rok Grah</li>
+                    <li>Marion van Midden</li>
+                    <li>Veno Mramor</li>
                 </ul>
 
                 <h2>Člani ostalih organov Univerze v Ljubljani</h2>
