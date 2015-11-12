@@ -3,7 +3,7 @@
 ?>
 
                 <div id="title">
-                    <h1>Člani Študentskega sveta FMF v študijskem letu 2014/15</h1>
+                    <h1>Člani Študentskega sveta FMF v študijskem letu 2015/16</h1>
                 </div>
 
                 <h2>Člani Študentskega sveta FMF</h2>
@@ -22,9 +22,9 @@
                 <p>&nbsp;</p>
 
                 <h1>Vodstvo sveta</h1>
-                <strong>Predsednica</strong> sveta je Marion van Midden, <strong>podpredsednik</strong> pa je Veno Mramor.
+                <p><strong>Predsednica</strong> sveta je Marion van Midden, <strong>podpredsednik</strong> pa je Veno Mramor.
                 Njuna namestnika sta Ana Smerdu in Ana Rebeka Kamšek. <strong>Tajnik</strong> sveta
-                je Rok Gregorič. <strong>Predstavnik za stike z RC</strong> je Jure Slak.
+                je Rok Gregorič. <strong>Predstavnik za stike z RC</strong> je Jure Slak.</p>
 
                 <h1>Predstavniki v organih FMF</h1>
                 <h2>Člani senata FMF</h2>
@@ -40,19 +40,20 @@
                     <li>Aljaž Robek &ndash; fizika</li>
                 </ul>
 
+                <h2>Komisija za študenstka mnjenja</h2>
+                <p>Imen članov komisije za študentska mnenja po sklepu Študentskega sveta ne bomo javno objavili.</p>
+
                 <h2>Disciplinska komisija</h2>
                 <ul>
                     <li>Jure Slak</li>
                     <li>Ana Rebeka Kamšek (namestnica)</li>
                 </ul>
 
-                <h2>Komisija za etična uprašanja</h2>
+                <h2>Komisija za etična vprašanja</h2>
                 <ul>
                     <li>Bruno Jurič</li>
                     <li>Aljaž Robek</li>
                 </ul>
-
-                <p class="smallfont">Imen članov komisije za študentska mnenja po sklepu Študentskega sveta ne bomo javno objavili.</p>
 
                 <p>&nbsp;</p>
 
