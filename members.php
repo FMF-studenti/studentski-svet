@@ -40,7 +40,7 @@
                     <li>Aljaž Robek &ndash; fizika</li>
                 </ul>
 
-                <h2>Komisija za študenstka mnjenja</h2>
+                <h2>Komisija za študenstka mnenja</h2>
                 <p>Imen članov komisije za študentska mnenja po sklepu Študentskega sveta ne bomo javno objavili.</p>
 
                 <h2>Disciplinska komisija</h2>

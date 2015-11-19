@@ -11,6 +11,10 @@
 				<ul>
 				    <li>Nik Stopar</li>
 				    <li>Kris Stopar</li>
+				    <li>Riste Škrekovski</li>
+				    <li>Urban Jezernik</li>
+				    <li>Martin Raič</li>
+				    <li>Leon Cizelj</li>
 				</ul>
                 <p>Za te pedagoške delavce bo Študentski svet FMF v kratkem izdelal študentsko
                 mnenje, ki se upošteva pri kriteriju pedagoške usposobljenosti, kar je pogoj za izvolitev kandidata
