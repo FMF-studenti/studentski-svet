@@ -27,4 +27,14 @@ lahko kadarkoli posreduješ na naslov Sveta <a href="mailto:studentski.svet@fmf.
   studentski.svet@fmf.uni-lj.si</a> ali pa oddaš v predalček Sveta na recepciji
 Oddelka za fiziko. Tvoje mnenje bo obravnavano anonimno!</p>
 
+<p>V letošnjem šolskem letu je SŠ FMF izdal mnenja naslednjim pedagoškim delavcem:</p>
+<ul>
+  <li><a href='/dokumenti/mnenja/raic_martin.pdf'>Martin Raič</a></li>
+  <li><a href='/dokumenti/mnenja/jezernik_urban.pdf'>Urban Jezernik</a></li>
+  <li><a href='/dokumenti/mnenja/stopar_nik.pdf'>Nik Stopar</a></li>
+  <li><a href='/dokumenti/mnenja/stopar_kris.pdf'>Kris Stopar</a></li>
+  <li><a href='/dokumenti/mnenja/skrekovski_riste.pdf'>Riste Škrekovski</a></li>
+  <li><a href='/dokumenti/mnenja/cizelj_leon.pdf'>Leon Cizelj</a></li>
+</ul>
+
 <?php require_once 'footer.php'; ?>
