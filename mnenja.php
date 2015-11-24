@@ -7,12 +7,17 @@
 <p>V postopku izvolitve so naslednji pedagoški delavci:</p>
 <!-- <p class="smallfont">Trenutno ni v izvolitvi noben pedagoški delavec.</p> -->
 <ul>
-  <li>Nik Stopar</li>
-  <li>Kris Stopar</li>
-  <li>Riste Škrekovski</li>
-  <li>Urban Jezernik</li>
-  <li>Martin Raič</li>
-  <li>Leon Cizelj</li>
+  <li>Kos</li>
+  <li>Majkič</li>
+  <li>Cabellio</li>
+  <li>Dobovišek</li>
+  <li>Zaveršnik</li>
+  <li>Plestenjak</li>
+  <li>Azarija</li>
+  <li>Conradi</li>
+  <li>Drevenšek-Olenik</li>
+  <li>Perman</li>
+  <li>Šarlah</li>
 </ul>
 <p>Za te pedagoške delavce bo Študentski svet FMF v kratkem izdelal študentsko
 mnenje, ki se upošteva pri kriteriju pedagoške usposobljenosti, kar je pogoj za
