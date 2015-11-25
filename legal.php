@@ -34,4 +34,9 @@
     Pravilnik o študentski izkaznici</a></li>
 </ul>
 
+<h2>Zapisniki s sej sveta</h2>
+<ul>
+  <li>Zapisnik 1. redne (konstitutivne seje) je na voljo <a href="/dokumenti/zapisniki/zapisnik_seja_1.pdf">tukaj</a></li>
+</ul>
+
 <?php require_once 'footer.php'; ?>
