@@ -4,6 +4,12 @@
   <h1>Študentska mnenja</h1>
 </div>
 
+Komisija za študentska mnenja ob kandidaturi pedagoškega delavca v naziv izda
+študentsko mnenje.  Študentsko mnjenje izdamo na podlagi <strong>anket v
+VIS-u</strong>, če pa je situacija kritična, se obrnemo še na interne ankete.
+Najbolj pomagajo tekstovna mnenja z VIS-a, zato prosimo, da jih rešujete čim
+bolj natančno. S tem imate zelo močen vpliv na kvaliteto predavanj!
+
 <h2>V postopku izvolitve so naslednji pedagoški delavci:</h2>
 <!-- <p class="smallfont">Trenutno ni v izvolitvi noben pedagoški delavec.</p> -->
 <ul>
@@ -18,6 +24,7 @@
   <li>Drevenšek-Olenik</li>
   <li>Perman</li>
   <li>Šarlah</li>
+  <li>Košnik</li>
 </ul>
 <p>Za te pedagoške delavce bo Študentski svet FMF v kratkem izdelal študentsko
 mnenje, ki se upošteva pri kriteriju pedagoške usposobljenosti, kar je pogoj za
