@@ -16,7 +16,7 @@ bolj natančno. S tem imate zelo močen vpliv na kvaliteto predavanj!
   <li>Kos</li>
   <li>Majkič</li>
   <li>Cabellio</li>
-  <li>Dobovišek</li>
+  <li>Dobovšek</li>
   <li>Zaveršnik</li>
   <li>Plestenjak</li>
   <li>Azarija</li>
