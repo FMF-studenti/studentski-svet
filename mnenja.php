@@ -36,12 +36,12 @@ Oddelka za fiziko. Tvoje mnenje bo obravnavano anonimno!</p>
 
 <h2>V letošnjem šolskem letu je SŠ FMF izdal mnenja naslednjim pedagoškim delavcem:</h2>
 <ul>
-  <li><a href='/dokumenti/mnenja/raic_martin.pdf'>Martin Raič</a></li>
-  <li><a href='/dokumenti/mnenja/jezernik_urban.pdf'>Urban Jezernik</a></li>
-  <li><a href='/dokumenti/mnenja/stopar_nik.pdf'>Nik Stopar</a></li>
-  <li><a href='/dokumenti/mnenja/stopar_kris.pdf'>Kris Stopar</a></li>
-  <li><a href='/dokumenti/mnenja/skrekovski_riste.pdf'>Riste Škrekovski</a></li>
-  <li><a href='/dokumenti/mnenja/cizelj_leon.pdf'>Leon Cizelj</a></li>
+  <li>Martin Raič           &ndash; pozitivno mnenje</li>
+  <li>Urban Jezernik        &ndash; pozitivno mnenje</li>
+  <li>Nik Stopar            &ndash; pozitivno mnenje</li>
+  <li>Kris Stopar           &ndash; pozitivno mnenje</li>
+  <li>Riste Škrekovski      &ndash; negativno mnenje</li>
+  <li>Leon Cizelj           &ndash; pozitivno mnenje</li>
 </ul>
 
 <?php require_once 'footer.php'; ?>
