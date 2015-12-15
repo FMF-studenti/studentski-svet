@@ -13,22 +13,13 @@ bolj natančno. S tem imate zelo močen vpliv na kvaliteto predavanj!
 <h2>V postopku izvolitve so naslednji pedagoški delavci:</h2>
 <!-- <p class="smallfont">Trenutno ni v izvolitvi noben pedagoški delavec.</p> -->
 <ul>
-  <li>Kos</li>
-  <li>Majkič</li>
-  <li>Cabellio</li>
-  <li>Dobovšek</li>
-  <li>Zaveršnik</li>
-  <li>Plestenjak</li>
-  <li>Azarija</li>
-  <li>Conradi</li>
-  <li>Drevenšek-Olenik</li>
-  <li>Perman</li>
-  <li>Šarlah</li>
-  <li>Košnik</li>
 </ul>
 <p>Za te pedagoške delavce bo Študentski svet FMF v kratkem izdelal študentsko
 mnenje, ki se upošteva pri kriteriju pedagoške usposobljenosti, kar je pogoj za
 izvolitev kandidata v naziv.</p>
+<ul>
+  <li>Nejc Košnik                 </li>
+</ul>
 <p>Če imaš kakršno koli mnenje o zgornjih delavcih, pozitivno ali negativno, ga
 lahko kadarkoli posreduješ na naslov <a href="mailto:studentski.svet@fmf.uni-lj.si">
   studentski.svet@fmf.uni-lj.si</a> ali pa oddaš v predalček Sveta na recepciji
@@ -36,12 +27,23 @@ Oddelka za fiziko. Tvoje mnenje bo obravnavano anonimno!</p>
 
 <h2>V letošnjem šolskem letu je SŠ FMF izdal mnenja naslednjim pedagoškim delavcem:</h2>
 <ul>
-  <li>Martin Raič           &ndash; pozitivno mnenje</li>
-  <li>Urban Jezernik        &ndash; pozitivno mnenje</li>
-  <li>Nik Stopar            &ndash; pozitivno mnenje</li>
-  <li>Kris Stopar           &ndash; pozitivno mnenje</li>
-  <li>Riste Škrekovski      &ndash; negativno mnenje</li>
-  <li>Leon Cizelj           &ndash; pozitivno mnenje</li>
+  <li>Janez Kos                   </li>
+  <li>Aleksej Majkič              </li>
+  <li>Sergio Cabellio Justo       </li>
+  <li>Igor Dobovšek               </li>
+  <li>Matjaž Zaveršnik            </li>
+  <li>Bor Plestenjak              </li>
+  <li>Jernej Azarija              </li>
+  <li>Marjetka Conradi            </li>
+  <li>Irena Drevenšek-Olenik      </li>
+  <li>Mihael Perman               </li>
+  <li>Andreja Šarlah              </li>
+  <li>Martin Raič                 </li>
+  <li>Urban Jezernik              </li>
+  <li>Nik Stopar                  </li>
+  <li>Kris Stopar                 </li>
+  <li>Riste Škrekovski            </li>
+  <li>Leon Cizelj                 </li>
 </ul>
 
 <?php require_once 'footer.php'; ?>

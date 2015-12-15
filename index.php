@@ -41,8 +41,10 @@
 <div class="item itemSmall">
   <div class="itemTitle">Študentska mnenja</div>
   <div class="itemData">
-      <!-- <p>Trenutno v postopku izvolitve ni pedagoških delavcev. <a href="/mnenja">Več...<a></p> -->
-      <p>Trenutno je v postopku izvolitve <strong>12</strong> pedagoških delavcev. <a href="/mnenja">Več...<a></p>
+<!--
+  <p>Trenutno v postopku izvolitve ni pedagoških delavcev. <a href="/mnenja">Več...<a></p>
+-->
+  <p>Trenutno je v postopku izvolitve <strong>1</strong> pedagoški delavec. <a href="/mnenja">Več...<a></p>
   </div>
 </div>
 
