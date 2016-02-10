@@ -41,4 +41,11 @@
   <li>Zapisnik 3. redne seje je na voljo <a href="/dokumenti/zapisniki/zapisnik_seja_3.pdf">tukaj</a></li>
 </ul>
 
+<h2>Plakati</h2>
+<ul>
+  <li><a href="/dokumenti/plakati/ali_ves.pdf">O dejavnostih sveta</a></li>
+  <li><a href="/dokumenti/plakati/ankete.pdf">O anketah na VISU in FMFju</a></li>
+  <li><a href="/dokumenti/plakati/mafijska_majica.pdf">Natečaj za majico za Mafijski piknik</a></li>
+</ul>
+
 <?php require_once 'footer.php'; ?>
