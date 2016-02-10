@@ -38,6 +38,7 @@
 <ul>
   <li>Zapisnik 1. redne (konstitutivne) seje je na voljo <a href="/dokumenti/zapisniki/zapisnik_seja_1.pdf">tukaj</a></li>
   <li>Zapisnik 2. redne seje je na voljo <a href="/dokumenti/zapisniki/zapisnik_seja_2.pdf">tukaj</a></li>
+  <li>Zapisnik 3. redne seje je na voljo <a href="/dokumenti/zapisniki/zapisnik_seja_3.pdf">tukaj</a></li>
 </ul>
 
 <?php require_once 'footer.php'; ?>
