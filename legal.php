@@ -45,9 +45,17 @@
 <ul>
   <li><a href="/dokumenti/plakati/ali_ves.pdf">O dejavnostih sveta</a></li>
   <li><a href="/dokumenti/plakati/ankete.pdf">O anketah na VIS-u in FMF-ju</a></li>
-  <li><a href="/dokumenti/plakati/ankete_tldr.pdf">O anketah na VIS-u in FMF-ju></a> 
+  <li><a href="/dokumenti/plakati/ankete_tldr.pdf">O anketah na VIS-u in FMF-ju></a>
       (<a href="http://www.urbandictionary.com/define.php?term=tl%3Bdr">tl;dr</a> verzija)</li>
   <li><a href="/dokumenti/plakati/mafijska_majica.pdf">Natečaj za majico za Mafijski piknik</a></li>
+  <li><a href="/dokumenti/plakati/kenguru.pdf">Kenguru za študente</a></li>
+  <li><a href="/dokumenti/plakati/pi_dan.pdf">Reklama za pi dan</a></li>
+</ul>
+
+
+<h2>Razno</h2>
+<ul>
+<li><a href="/dokumenti/poziv_mafija.pdf">Poziv k ureditvi kavarMafija tako, da bo tam mogoče dobiti obrok s študentskimi boni.</a></li>
 </ul>
 
 <?php require_once 'footer.php'; ?>

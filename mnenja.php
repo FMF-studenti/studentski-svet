@@ -13,13 +13,7 @@ bolj natančno. S tem imate zelo močen vpliv na kvaliteto predavanj!
 <h2>V postopku izvolitve so naslednji pedagoški delavci:</h2>
 <!-- <p class="smallfont">Trenutno ni v izvolitvi noben pedagoški delavec.</p> -->
 <ul>
-
-  <li>Barbara Modec</li>
-  <li>Tomaž Mertelj</li>
-  <li>Urban Simončič</li>
-  <li>Matija Lokar</li>
   <li>Selena Praprotnik</li>
-
 </ul>
 <p>Za te pedagoške delavce bo Študentski svet FMF v kratkem izdelal študentsko
 mnenje, ki se upošteva pri kriteriju pedagoške usposobljenosti, kar je pogoj za
@@ -31,6 +25,13 @@ Oddelka za fiziko. Tvoje mnenje bo obravnavano anonimno!</p>
 
 <h2>V letošnjem šolskem letu je SŠ FMF izdal mnenja naslednjim pedagoškim delavcem:</h2>
 <ul>
+  <li>Aljaž Zalar                 </li>
+  <li>Robert Jeraj                </li>
+  <li>Simon Širca                 </li>
+  <li>Barbara Modec               </li>
+  <li>Tomaž Mertelj               </li>
+  <li>Urban Simončič              </li>
+  <li>Matija Lokar                </li>
   <li>Nejc Košnik                 </li>
   <li>Simon Širca                 </li>
   <li>Davorin Lešnik              </li>
