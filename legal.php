@@ -39,13 +39,15 @@
   <li>Zapisnik 1. redne (konstitutivne) seje je na voljo <a href="/dokumenti/zapisniki/zapisnik_seja_1.pdf">tukaj</a></li>
   <li>Zapisnik 2. redne seje je na voljo <a href="/dokumenti/zapisniki/zapisnik_seja_2.pdf">tukaj</a></li>
   <li>Zapisnik 3. redne seje je na voljo <a href="/dokumenti/zapisniki/zapisnik_seja_3.pdf">tukaj</a></li>
+  <li>Zapisnik 4. redne seje je na voljo <a href="/dokumenti/zapisniki/zapisnik_seja_4.pdf">tukaj</a></li>
+  <li>Zapisnik 5. redne seje je na voljo <a href="/dokumenti/zapisniki/zapisnik_seja_5.pdf">tukaj</a></li>
 </ul>
 
 <h2>Plakati</h2>
 <ul>
   <li><a href="/dokumenti/plakati/ali_ves.pdf">O dejavnostih sveta</a></li>
   <li><a href="/dokumenti/plakati/ankete.pdf">O anketah na VIS-u in FMF-ju</a></li>
-  <li><a href="/dokumenti/plakati/ankete_tldr.pdf">O anketah na VIS-u in FMF-ju></a>
+  <li><a href="/dokumenti/plakati/ankete_tldr.pdf">O anketah na VIS-u in FMF-ju</a>
       (<a href="http://www.urbandictionary.com/define.php?term=tl%3Bdr">tl;dr</a> verzija)</li>
   <li><a href="/dokumenti/plakati/mafijska_majica.pdf">Natečaj za majico za Mafijski piknik</a></li>
   <li><a href="/dokumenti/plakati/kenguru.pdf">Kenguru za študente</a></li>

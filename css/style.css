@@ -187,7 +187,7 @@ div.logo img {
   background-color: #DBDADC;
   width: 438px;
   float: left;
-  height: 300px;
+  height: 360px;
   /* For shaddow */
   -moz-box-shadow: 0px 0px 6px #DBDADC;
   -webkit-box-shadow: 0px 0px 6px #DBDADC;
@@ -196,7 +196,7 @@ div.logo img {
 }
 
 .itemSmall {
-  height: 142px;
+  height: 172px;
 }
 
 .itemTitle {
