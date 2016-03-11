@@ -55,7 +55,8 @@
 
 <h2>Razno</h2>
 <ul>
-<li><a href="/dokumenti/poziv_mafija.pdf">Poziv k ureditvi kavarMafija tako, da bo tam mogoče dobiti obrok s študentskimi boni.</a></li>
+  <li><a href="/dokumenti/kobal.pdf"> Uradno mnenje ŠS FMF glede elektronskega sporočila doc. Kobala</a></li>
+  <li><a href="/dokumenti/poziv_mafija.pdf">Poziv k ureditvi kavarMafija tako, da bo tam mogoče dobiti obrok s študentskimi boni</a></li>
 </ul>
 
 <?php require_once 'footer.php'; ?>
