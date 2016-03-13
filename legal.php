@@ -59,6 +59,7 @@
 <ul>
   <li><a href="/dokumenti/kobal.pdf"> Uradno mnenje ŠS FMF glede elektronskega sporočila doc. Kobala</a></li>
   <li><a href="/dokumenti/poziv_mafija.pdf">Poziv k ureditvi kavarMafija tako, da bo tam mogoče dobiti obrok s študentskimi boni</a></li>
+  <li><a href="/dokumenti/pi_recitacija.pdf">Decimalke števila pi, kot jih bodo imeli sodniki</a>, <a href="/dokumenti/pi_recitacija.tex">(tex)</a>, <a href="/dokumenti/pi_finished.txt">(data)</a></li>
 </ul>
 
 <?php require_once 'footer.php'; ?>
