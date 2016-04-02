@@ -13,6 +13,13 @@ bolj natančno. S tem imate zelo močen vpliv na kvaliteto predavanj!
 <h2>V postopku izvolitve so naslednji pedagoški delavci:</h2>
 <!-- <p class="smallfont">Trenutno ni v izvolitvi noben pedagoški delavec.</p> -->
 <ul>
+  <li>Drejc Kopač</li>
+  <li>Simon Čopar</li>
+  <li>Gašper Žerovnik</li>
+  <li>Andrej Studen</li>
+  <li>Maruška Žerjal</li>
+  <li>Zoran Arsov</li>
+  <li>Igor Dobovšek</li>
   <li>Selena Praprotnik</li>
 </ul>
 <p>Za te pedagoške delavce bo Študentski svet FMF v kratkem izdelal študentsko
