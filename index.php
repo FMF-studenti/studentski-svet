@@ -44,7 +44,7 @@
 <!--
   <p>Trenutno v postopku izvolitve ni pedagoških delavcev. <a href="/mnenja">Več...<a></p>
 -->
-  <p>Trenutno je v postopku izvolitve <strong>8</strong> pedagoških delavcev. <a href="/mnenja">Več...<a></p>
+  <p>Trenutno so v postopku izvolitve <strong>4</strong> pedagoški delavci. <a href="/mnenja">Več...<a></p>
   </div>
 </div>
 
