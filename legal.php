@@ -8,6 +8,8 @@
 <ul>
   <li><a href="/dokumenti/poslovnik.pdf" target="_blank">
     Poslovnik ŠS FMF</a></li>
+  <li><a href="/dokumenti/poslovnik_ksm.pdf" target="_blank">
+    Poslovnik komisije za študentska mnenja</a></li>
 <!--
   <li><a href="/dokumenti/poslovnik-star.pdf" target="_blank">
     Poslovnik ŠS FMF (star)</a></li>
