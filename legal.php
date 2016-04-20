@@ -43,6 +43,8 @@
   <li>Zapisnik 3. redne seje je na voljo <a href="/dokumenti/zapisniki/zapisnik_seja_3.pdf">tukaj</a></li>
   <li>Zapisnik 4. redne seje je na voljo <a href="/dokumenti/zapisniki/zapisnik_seja_4.pdf">tukaj</a></li>
   <li>Zapisnik 5. redne seje je na voljo <a href="/dokumenti/zapisniki/zapisnik_seja_5.pdf">tukaj</a></li>
+  <li>Zapisnik 5. redne seje je na voljo <a href="/dokumenti/zapisniki/zapisnik_seja_6.pdf">tukaj</a></li>
+  <li>Zapisnik 5. redne seje je na voljo <a href="/dokumenti/zapisniki/zapisnik_seja_7.pdf">tukaj</a></li>
 </ul>
 
 <h2>Plakati</h2>
