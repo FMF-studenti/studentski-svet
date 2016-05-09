@@ -13,6 +13,7 @@ bolj natančno. S tem imate zelo močen vpliv na kvaliteto predavanj!
 <h2>V postopku izvolitve so naslednji pedagoški delavci:</h2>
 <!-- <p class="smallfont">Trenutno ni v izvolitvi noben pedagoški delavec.</p> -->
 <ul>
+  <li>Robert Jeraj</li>
   <li>Dejan Govc</li>
   <li>Drejc Kopač</li>
   <li>Simon Čopar</li>
