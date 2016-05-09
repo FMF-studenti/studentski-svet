@@ -56,6 +56,8 @@
   <li><a href="/dokumenti/plakati/mafijska_majica.pdf">Natečaj za majico za Mafijski piknik</a></li>
   <li><a href="/dokumenti/plakati/kenguru.pdf">Kenguru za študente</a></li>
   <li><a href="/dokumenti/plakati/pi_dan.pdf">Reklama za pi dan</a></li>
+  <li><a href="/dokumenti/plakati/mafijski_piknik.pdf">Mafijksi piknik</a></li>
+  <li><a href="/dokumenti/plakati/mafijski_piknik_prostovoljci.pdf">Nabiranje prostovoljcev za piknik</a></li>
 </ul>
 
 
