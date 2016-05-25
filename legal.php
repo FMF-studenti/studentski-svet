@@ -58,8 +58,8 @@
   <li><a href="/dokumenti/plakati/pi_dan.pdf">Reklama za pi dan</a></li>
   <li><a href="/dokumenti/plakati/mafijski_piknik.pdf">Mafijksi piknik</a></li>
   <li><a href="/dokumenti/plakati/mafijski_piknik_prostovoljci.pdf">Nabiranje prostovoljcev za piknik</a></li>
+  <li><a href="/dokumenti/plakati/mafijski_piknik_after.pdf">Reklama za after party</a></li>
 </ul>
-
 
 <h2>Razno</h2>
 <ul>
