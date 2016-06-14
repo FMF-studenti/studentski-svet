@@ -256,3 +256,13 @@ body.textbold {
   margin: 0;
   text-align: center;
 }
+
+.shrink-down {
+  margin-bottom: -10px;
+}
+
+#ss-logo {
+  height: 90px;
+  float: right;
+  margin: 10px;
+}

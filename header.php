@@ -33,8 +33,10 @@
       <div id="header">
         <div id="naslov">
           <div class="logo">
-            <img src="/img/logo_fmf.gif" style="float:left;" />
-            <img src="/img/logo_ss_big.png" height="106" style="float:right;" />
+            <a href="/"><img src="/img/logo_fmf.gif" style="float:left"></a>
+            <a href="/legal#logos">
+              <img src="/img/logo_ss.png" id="ss-logo">
+            </a>
           </div>
         </div>
       </div> <!-- end header -->

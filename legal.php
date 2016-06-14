@@ -48,6 +48,44 @@
   <li>Zapisnik 8. redne seje je na voljo <a href="/dokumenti/zapisniki/zapisnik_seja_8.pdf">tukaj</a></li>
 </ul>
 
+<h2 id='logos'>Logotipi sveta</h2>
+<p>Spodaj so povezave na vse uradne logotipe, kot jih je potrdil svet na 9. redni seji v letu 2015/16.</p>
+
+<p>Uporaba barvne različice logotipa je obvezna vsakič, ko je mogoče. V primeru zmanjšanih grafičnih
+možnosti je dovoljena uporaba sive ali enobarvne različice v osnovni ali inverzni obliki, ustrezno
+izbrano glede na enobarvno podlago. Uporaba logotipa v drugih barvah brez predhodnega dovoljenja
+sveta ni dovoljena.  Zaradi zagotavljanja kakovosti prikaza oz. natisa je v tiskanih medijih ali v
+elektronskih dokumentih močno zaželjena uporaba različice logotipa v vektorskem formatu (PDF ali
+SVG).</p>
+
+<p>Za vsa vprašanja v zvezi z uporabo logotipov se obrnite na
+<a href="mailto:studentski.svet@fmf.uni-lj.si">studentski.svet@fmf.uni-lj.si</a>.</p>
+
+<p class='shrink-down'>Logotipi sveta:</p>
+<ul>
+  <li><a href="/img/logos/ssfmf_logos.svg">Vsi logotipi v SVG formatu                        </a>(41 KiB)  </li>
+  <li><a href="/img/logos/ssfmf_logo_col.pdf">Barvni logotip v PDF formatu                   </a>(15 KiB)  </li>
+  <li><a href="/img/logos/ssfmf_logo_col.png">Barvni logotip v PNG formatu                   </a>(265 KiB) </li>
+  <li><a href="/img/logos/ssfmf_logo_gray.pdf">Logotip v sivinah v PDF formatu               </a>(15 KiB)  </li>
+  <li><a href="/img/logos/ssfmf_logo_gray.png">Logotip v sivinah v PNG formatu               </a>(268 KiB) </li>
+  <li><a href="/img/logos/ssfmf_logo_mono.pdf">Enobarvni logotip v PDF formatu               </a>(15 KiB)  </li>
+  <li><a href="/img/logos/ssfmf_logo_mono.png">Enobarvni logotip v PNG formatu               </a>(247 KiB) </li>
+  <li><a href="/img/logos/ssfmf_logo_col_inv.pdf">Inverzni barvni logotip v PDF formatu      </a>(15 KiB)  </li>
+  <li><a href="/img/logos/ssfmf_logo_col_inv.png">Inverzni barvni logotip v PNG formatu      </a>(340 KiB) </li>
+  <li><a href="/img/logos/ssfmf_logo_gray_inv.pdf">Logotip v inverznih sivinah v PDF formatu </a>(15 KiB)  </li>
+  <li><a href="/img/logos/ssfmf_logo_gray_inv.png">Logotip v inverznih sivinah v PNG formatu </a>(342 KiB) </li>
+  <li><a href="/img/logos/ssfmf_logo_mono_inv.pdf">Inverzni enobarvni logotip v PDF formatu  </a>(15 KiB)  </li>
+  <li><a href="/img/logos/ssfmf_logo_mono_inv.png">Inverzni enobarvni logotip v PNG formatu  </a>(345 KiB) </li>
+  </ul>
+
+<p class='shrink-down'>Drugi logotipi:</p>
+  <ul>
+  <li><a href="/img/logos/piknik_logo.pdf">Logotip mafijskega piknika 2015/16 v PDF formatu  </a>(8 KiB)   </li>
+  <li><a href="/img/logos/piknik_logo.png">Logotip mafijskega piknika 2015/16 v PNG formatu  </a>(556 KiB) </li>
+  <li><a href="/img/logos/piknik_logo.svg">Logotip mafijskega piknika 2015/16 v SVG formatu  </a>(24 KiB)  </li>
+  <li><a href="/img/logos/tshirt_logos.svg">Ostali logotipi za majice (ŠOU, ŠO FMF, ŠS FMF)  </a>(103 KiB) </li>
+</ul>
+
 <h2>Plakati</h2>
 <ul>
   <li><a href="/dokumenti/plakati/ali_ves.pdf">O dejavnostih sveta</a></li>
@@ -66,7 +104,7 @@
 <h2>Razno</h2>
 <ul>
   <li><a href="/dokumenti/kobal.pdf"> Uradno mnenje ŠS FMF glede elektronskega sporočila doc. Kobala</a></li>
-  <li><a href="/dokumenti/poziv_mafija.pdf">Poziv k ureditvi kavarMafija tako, da bo tam mogoče dobiti obrok s študentskimi boni</a></li>
+  <li><a href="/dokumenti/poziv_mafija.pdf">Poziv k ureditvi kavarne Mafija tako, da bo tam mogoče dobiti obrok s študentskimi boni</a></li>
   <li><a href="/dokumenti/pi_recitacija.pdf">Decimalke števila pi, kot jih bodo imeli sodniki</a>, <a href="/dokumenti/pi_recitacija.tex">(tex)</a>, <a href="/dokumenti/pi_finished.txt">(data)</a></li>
 </ul>
 
