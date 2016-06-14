@@ -11,7 +11,7 @@
     <script src="/js/svet.js"></script>
 
     <link rel="stylesheet" href="/css/style.css" type="text/css" media="screen" />
-
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   <?php
     if (isset($_SERVER['GA_CODE'])) {
   ?>
