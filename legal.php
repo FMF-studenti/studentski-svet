@@ -45,6 +45,7 @@
   <li>Zapisnik 5. redne (1. dopisne) seje je na voljo <a href="/dokumenti/zapisniki/zapisnik_seja_5.pdf">tukaj</a></li>
   <li>Zapisnik 6. redne seje je na voljo <a href="/dokumenti/zapisniki/zapisnik_seja_6.pdf">tukaj</a></li>
   <li>Zapisnik 7. redne (2. dopisne) seje je na voljo <a href="/dokumenti/zapisniki/zapisnik_seja_7.pdf">tukaj</a></li>
+  <li>Zapisnik 8. redne seje je na voljo <a href="/dokumenti/zapisniki/zapisnik_seja_8.pdf">tukaj</a></li>
 </ul>
 
 <h2>Plakati</h2>
