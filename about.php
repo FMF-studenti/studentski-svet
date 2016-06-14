@@ -38,9 +38,8 @@ nekaj dolžnosti:</p>
 </ul>
 
 <p>Sedaj, ko vemo, zakaj ŠS obstaja in kaj dela, poglejmo še, kdo ga sestavlja.
-ŠS sestavljamo študentje (v bistvu je to čisto logično, a ne?), in sicer 13
-izvoljenih predstavnikov. Trenutne člane si lahko ogledate <a
-href="/members">tukaj</a>.</p>
+ŠS sestavljamo študentje, in sicer od 9 do 13 izvoljenih predstavnikov. Trenutne
+člane si lahko ogledate <a href="/members">tukaj</a>.</p>
 
 <p>Študentski svet se mesečno dobiva na rednih sejah, kjer obravnava zgoraj
 našteto tematiko in trenutne pereče probleme. Poleg tega poznamo še dopisne in
@@ -53,8 +52,8 @@ izredne seje, prve so aktualne večinoma v času počitnic, druge pa, če bi tak
 </a>,
 <a href="http://forum.fmf.si/c/studentski-organi/studentski-svet">
   <strong>podforumu študentskih strani</strong></a> ali v
-<strong>sobi 206 na Oddelku za matematiko</strong>, vsa pomembna obvestila in
-informacije, pa bomo poskušali objaviti tu na strani in na oglasnih deskah po
+<strong>sobi 2.06 na Oddelku za matematiko</strong>, vsa pomembna obvestila in
+informacije pa bomo poskušali objaviti tu na strani in na oglasnih deskah po
 fakulteti.</p>
 
 <p>Pa še za konec &ndash; sodelovanje v ŠS je častno (beri ni plačano).</p>
