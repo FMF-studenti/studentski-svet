@@ -63,26 +63,64 @@ SVG).</p>
 
 <p class='shrink-down'>Logotipi sveta:</p>
 <ul>
-  <li><a href="/img/logos/ssfmf_logos.svg">Vsi logotipi v SVG formatu                        </a>(41 KiB)  </li>
-  <li><a href="/img/logos/ssfmf_logo_col.pdf">Barvni logotip v PDF formatu                   </a>(15 KiB)  </li>
-  <li><a href="/img/logos/ssfmf_logo_col.png">Barvni logotip v PNG formatu                   </a>(265 KiB) </li>
-  <li><a href="/img/logos/ssfmf_logo_gray.pdf">Logotip v sivinah v PDF formatu               </a>(15 KiB)  </li>
-  <li><a href="/img/logos/ssfmf_logo_gray.png">Logotip v sivinah v PNG formatu               </a>(268 KiB) </li>
-  <li><a href="/img/logos/ssfmf_logo_mono.pdf">Enobarvni logotip v PDF formatu               </a>(15 KiB)  </li>
-  <li><a href="/img/logos/ssfmf_logo_mono.png">Enobarvni logotip v PNG formatu               </a>(247 KiB) </li>
-  <li><a href="/img/logos/ssfmf_logo_col_inv.pdf">Inverzni barvni logotip v PDF formatu      </a>(15 KiB)  </li>
-  <li><a href="/img/logos/ssfmf_logo_col_inv.png">Inverzni barvni logotip v PNG formatu      </a>(340 KiB) </li>
-  <li><a href="/img/logos/ssfmf_logo_gray_inv.pdf">Logotip v inverznih sivinah v PDF formatu </a>(15 KiB)  </li>
-  <li><a href="/img/logos/ssfmf_logo_gray_inv.png">Logotip v inverznih sivinah v PNG formatu </a>(342 KiB) </li>
-  <li><a href="/img/logos/ssfmf_logo_mono_inv.pdf">Inverzni enobarvni logotip v PDF formatu  </a>(15 KiB)  </li>
-  <li><a href="/img/logos/ssfmf_logo_mono_inv.png">Inverzni enobarvni logotip v PNG formatu  </a>(345 KiB) </li>
-  </ul>
+  <li> Vsi logotipi <a href="/img/logos/ssfmf_logos.svg">(PDF, 41 KiB)</a></li>
+  <li> Barvni logotip
+    <a href="/img/logos/ssfmf_logo_col.pdf"     > (PDF, 15 KiB)  </a>,
+    <a href="/img/logos/ssfmf_logo_col_1200.png"      > (PNG, 1200 dpi<!--, 265 KiB -->) </a>,
+    <a href="/img/logos/ssfmf_logo_col_600.png"       > (PNG, 600  dpi<!--,  65 KiB -->) </a>,
+    <a href="/img/logos/ssfmf_logo_col_300.png"       > (PNG, 300  dpi<!--,  30 KiB -->) </a>,
+    <a href="/img/logos/ssfmf_logo_col_150.png"       > (PNG, 150  dpi<!--,  15 KiB -->) </a>,
+    <a href="/img/logos/ssfmf_logo_col_50.png"        > (PNG, 50   dpi<!--, 4.6 KiB -->) </a>
+  </li>
+  <li> Logotip v sivinah
+    <a href="/img/logos/ssfmf_logo_gray.pdf"    > (PDF, 15 KiB)  </a>,
+    <a href="/img/logos/ssfmf_logo_gray_1200.png"     > (PNG, 1200 dpi<!--, 268 KiB -->) </a>,
+    <a href="/img/logos/ssfmf_logo_gray_600.png"      > (PNG, 600  dpi<!--,  66 KiB -->) </a>,
+    <a href="/img/logos/ssfmf_logo_gray_300.png"      > (PNG, 300  dpi<!--,  30 KiB -->) </a>,
+    <a href="/img/logos/ssfmf_logo_gray_150.png"      > (PNG, 150  dpi<!--,  16 KiB -->) </a>,
+    <a href="/img/logos/ssfmf_logo_gray_50.png"       > (PNG, 50   dpi<!--, 4.7 KiB -->) </a>
+  </li>
+  <li> Enobarvni logotip
+    <a href="/img/logos/ssfmf_logo_mono.pdf"    > (PDF, 15 KiB)  </a>,
+    <a href="/img/logos/ssfmf_logo_mono_1200.png"     > (PNG, 1200 dpi<!--, 247 KiB -->) </a>,
+    <a href="/img/logos/ssfmf_logo_mono_600.png"      > (PNG, 600  dpi<!--,  59 KiB -->) </a>,
+    <a href="/img/logos/ssfmf_logo_mono_300.png"      > (PNG, 300  dpi<!--,  26 KiB -->) </a>,
+    <a href="/img/logos/ssfmf_logo_mono_150.png"      > (PNG, 150  dpi<!--,  14 KiB -->) </a>,
+    <a href="/img/logos/ssfmf_logo_mono_50.png"       > (PNG, 50   dpi<!--, 4.0 KiB -->) </a>
+  </li>
+  <li> Inverzni barvni logotip
+    <a href="/img/logos/ssfmf_logo_col_inv.pdf" > (PDF, 15 KiB)  </a>,
+    <a href="/img/logos/ssfmf_logo_col_inv_1200.png"  > (PNG, 1200 dpi<!--, 340 KiB -->) </a>,
+    <a href="/img/logos/ssfmf_logo_col_inv_600.png"   > (PNG, 600  dpi<!--,  86 KiB -->) </a>,
+    <a href="/img/logos/ssfmf_logo_col_inv_300.png"   > (PNG, 300  dpi<!--,  39 KiB -->) </a>,
+    <a href="/img/logos/ssfmf_logo_col_inv_150.png"   > (PNG, 150  dpi<!--,  21 KiB -->) </a>,
+    <a href="/img/logos/ssfmf_logo_col_inv_50.png"    > (PNG, 50   dpi<!--, 6.4 KiB -->) </a>
+  </li>
+  <li> Logotip v inverznih sivinah
+    <a href="/img/logos/ssfmf_logo_gray_inv.pdf"> (PDF, 15 KiB)  </a>,
+    <a href="/img/logos/ssfmf_logo_gray_inv_1200.png" > (PNG, 1200 dpi<!--, 342 KiB -->) </a>,
+    <a href="/img/logos/ssfmf_logo_gray_inv_600.png"  > (PNG, 600  dpi<!--,  87 KiB -->) </a>,
+    <a href="/img/logos/ssfmf_logo_gray_inv_300.png"  > (PNG, 300  dpi<!--,  40 KiB -->) </a>,
+    <a href="/img/logos/ssfmf_logo_gray_inv_150.png"  > (PNG, 150  dpi<!--,  20 KiB -->) </a>,
+    <a href="/img/logos/ssfmf_logo_gray_inv_50.png"   > (PNG, 50   dpi<!--, 6.5 KiB -->) </a>
+  </li>
+  <li> Inverzni enobarvni logotip
+    <a href="/img/logos/ssfmf_logo_mono_inv.pdf"> (PDF, 15 KiB)  </a>,
+    <a href="/img/logos/ssfmf_logo_mono_inv_1200.png" > (PNG, 1200 dpi<!--, 345 KiB -->) </a>,
+    <a href="/img/logos/ssfmf_logo_mono_inv_600.png"  > (PNG, 600  dpi<!--,  88 KiB -->) </a>,
+    <a href="/img/logos/ssfmf_logo_mono_inv_300.png"  > (PNG, 300  dpi<!--,  40 KiB -->) </a>,
+    <a href="/img/logos/ssfmf_logo_mono_inv_150.png"  > (PNG, 150  dpi<!--,  21 KiB -->) </a>,
+    <a href="/img/logos/ssfmf_logo_mono_inv_50.png"   > (PNG, 50   dpi<!--, 6.4 KiB -->) </a>
+  </li>
+</ul>
 
 <p class='shrink-down'>Drugi logotipi:</p>
   <ul>
-  <li><a href="/img/logos/piknik_logo.pdf">Logotip mafijskega piknika 2015/16 v PDF formatu  </a>(8 KiB)   </li>
-  <li><a href="/img/logos/piknik_logo.png">Logotip mafijskega piknika 2015/16 v PNG formatu  </a>(556 KiB) </li>
-  <li><a href="/img/logos/piknik_logo.svg">Logotip mafijskega piknika 2015/16 v SVG formatu  </a>(24 KiB)  </li>
+  <li>Logotip mafijskega piknika 2015/16
+    <a href="/img/logos/piknik_logo.pdf">(PDF, 8 KiB)</a>,
+    <a href="/img/logos/piknik_logo.png">(PNG, 556 KiB)</a>,
+    <a href="/img/logos/piknik_logo.svg">(SVG, 24 KiB)</a>
+  </li>
   <li><a href="/img/logos/tshirt_logos.svg">Ostali logotipi za majice (ŠOU, ŠO FMF, ŠS FMF)  </a>(103 KiB) </li>
 </ul>
 
