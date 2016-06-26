@@ -136,7 +136,8 @@ SVG).</p>
   <li><a href="/dokumenti/plakati/mafijski_piknik.pdf">Mafijksi piknik</a></li>
   <li><a href="/dokumenti/plakati/mafijski_piknik_prostovoljci.pdf">Nabiranje prostovoljcev za piknik</a></li>
   <li><a href="/dokumenti/plakati/mafijski_piknik_after.pdf">Reklama za after party</a></li>
-  <li><a href="/dokumenti/plakati/pi_predstava.pdf">Reklama za predstavo Nika Škrleca o Pi-ju.</a></li>
+  <li><a href="/dokumenti/plakati/pi_predstava.pdf">Reklama za predstavo Nika Škrleca o Pi-ju</a></li>
+  <li><a href="/dokumenti/plakati/maraton.pdf">Skupinska prijava na Ljubljanski maraton</a>. Pripadajoča <a href="/ljm">stran</a>.</li>
 </ul>
 
 <h2>Razno</h2>
