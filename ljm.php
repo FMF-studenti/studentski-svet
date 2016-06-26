@@ -28,4 +28,6 @@ potrdila) ne bo mogoče.  </p>
 
 <p><strong>Rok za prijavo na FMF je 12. 8. 2016</strong>.</p>
 <p><strong>Rok za odjavo in vračilo prijavnine s plačanim odpovednim rizikom je 4. 11. 2016, pod pogojem, da štartni paket ni prevzet! </strong></p>
+
+<p>Pripadajoči <a href='/dokumenti/plakati/maraton.pdf'>plakat</a>.</p>
 <?php require_once('footer.php'); ?>
