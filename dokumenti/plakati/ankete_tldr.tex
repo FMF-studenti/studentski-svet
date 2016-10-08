@@ -1,0 +1,109 @@
+\documentclass[oneside, 12pt]{article}
+
+\usepackage[slovene]{babel}    % slovenian language and hyphenation
+\usepackage[utf8]{inputenc}    % make čšž work on input
+\usepackage[T1]{fontenc}       % make čšž work on output
+\usepackage[reqno]{amsmath}    % basic ams math environments and symbols
+\usepackage{amssymb,amsthm}    % ams symbols and theorems
+\usepackage{mathtools}         % extends ams with arrows and stuff
+\usepackage{url}               % \url and \href for links
+\usepackage{icomma}            % make comma a thousands separator with correct spacing
+\usepackage{units}             % \unit[1]{m} and unitfrac
+\usepackage{enumerate}         % enumerate style
+\usepackage{array}             % mutirow
+\usepackage[usenames]{color}   % colors with names
+\usepackage{graphicx}          % images
+
+\usepackage[bookmarks, colorlinks=true, linkcolor=black, anchorcolor=black,
+  citecolor=black, filecolor=black, menucolor=black, runcolor=black,
+  urlcolor=black, pdfencoding=unicode]{hyperref}  % clickable references, pdf toc
+\usepackage[
+  paper=a3paper,
+  top=2cm,
+  bottom=2cm,
+  left=2cm,
+  right=2cm,
+%   textwidth=19cm,
+% textheight=24cm,
+]{geometry}  % page geomerty
+
+\newtheorem{izrek}{Izrek}
+\newtheorem{posledica}{Posledica}
+
+\theoremstyle{definition}
+\newtheorem{definicija}{Definicija}
+\newtheorem{opomba}{Opomba}
+\newtheorem{zgled}{Zgled}
+
+% basic sets
+\newcommand{\R}{\ensuremath{\mathbb{R}}}
+\newcommand{\N}{\ensuremath{\mathbb{N}}}
+\newcommand{\Z}{\ensuremath{\mathbb{Z}}}
+\renewcommand{\C}{\ensuremath{\mathbb{C}}}
+\newcommand{\Q}{\ensuremath{\mathbb{Q}}}
+
+% lists with less vertical space
+\newenvironment{itemize*}{\vspace{-6pt}\begin{itemize}\setlength{\itemsep}{0pt}\setlength{\parskip}{2pt}}{\end{itemize}}
+\newenvironment{enumerate*}{\vspace{-6pt}\begin{enumerate}\setlength{\itemsep}{0pt}\setlength{\parskip}{2pt}}{\end{enumerate}}
+\newenvironment{description*}{\vspace{-6pt}\begin{description}\setlength{\itemsep}{0pt}\setlength{\parskip}{2pt}}{\end{description}}
+
+\newcommand{\Title}{Ankete tl;dr}
+\newcommand{\Author}{Jure Slak}
+\title{\Title}
+\author{\Author}
+\date{\today}
+\hypersetup{pdftitle={\Title}, pdfauthor={\Author}, pdfcreator={\Author},
+            pdfproducer={\Author}, pdfsubject={}, pdfkeywords={}}  % setup pdf metadata
+
+\pagestyle{empty}              % vse strani prazne
+\setlength{\parindent}{0pt}    % zamik vsakega odstavka
+\setlength{\parskip}{0pt}     % prazen prostor po odstavku
+\setlength{\lineskip}{20pt}     % prazen prostor po odstavku
+\setlength{\overfullrule}{30pt}  % oznaci predlogo vrstico z veliko črnine
+
+\newcommand{\veliko}[1]{\scalebox{12}{\textbf{#1}}}
+\newcommand{\srednje}[1]{\scalebox{7}{#1}}
+\newcommand{\povezava}[1]{\begin{center}\vspace{-20pt}\Large \url{#1}\end{center}}
+
+\begin{document}
+
+\begin{center}
+  \veliko{tl;dr}
+
+  \vspace{60pt}
+
+  \srednje{Uvedel se je}
+  \srednje{nov sistem anket.}
+
+  \vspace{60pt}
+
+  \scalebox{6}{Reši ankete na} \\
+  \scalebox{5}{VIS-u že zdaj} \\
+  \scalebox{4}{da te ne presenetijo} \\
+  \scalebox{3}{pri prijavi na izpit} \\
+  \scalebox{2}{ali pri vpisu ocene.} \\
+
+  \vspace{60pt}
+
+  \scalebox{5}{Ankete so za} \\
+  \scalebox{4}{FMF in svet} \\
+  \scalebox{3}{zelo pomembne,} \\[-12pt]
+  \scalebox{2}{zato ji prosim reši} \\[12pt]
+  \scalebox{1}{podrobno in konstruktivno.} \\[6pt]
+  \scalebox{0.5}{Lepo lepo lepo prosim.} \\
+  \scalebox{0.2}{Pretty please with a cherry on top.} \\
+  \scalebox{0.1}{And cream.} \\
+  \scalebox{0.05}{Će si prebral do sem} \\[-12pt]
+  \scalebox{0.05}{imaš očitno čas, tako da jih lahko rešiš zdaj:} \\[-12pt]
+  \scalebox{0.05}{\texttt{vis.fmf.uni-lj.si}}
+\end{center}
+
+
+% text here
+
+\end{document}
+% vim: syntax=tex
+% vim: spell spelllang=sl
+% vim: foldlevel=99
+% Latex template: Jure Slak, jure.slak@gmail.com
+

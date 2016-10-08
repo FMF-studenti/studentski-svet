@@ -1,0 +1,120 @@
+\documentclass[a4paper,oneside,12pt]{article}
+
+\usepackage[slovene]{babel}    % slovenian language and hyphenation
+\usepackage[utf8]{inputenc}    % make čšž work on input
+\usepackage[T1]{fontenc}       % make čšž work on output
+\usepackage[reqno]{amsmath}    % basic ams math environments and symbols
+\usepackage{amssymb,amsthm}    % ams symbols and theorems
+\usepackage{mathtools}         % extends ams with arrows and stuff
+\usepackage{url}               % \url and \href for links
+\usepackage{icomma}            % make comma a thousands separator with correct spacing
+\usepackage{units}             % \unit[1]{m} and unitfrac
+\usepackage{enumerate}         % enumerate style
+\usepackage{array}             % mutirow
+\usepackage[usenames]{color}   % colors with names
+\usepackage{graphicx}          % images
+
+\usepackage[bookmarks, colorlinks=true, linkcolor=black, anchorcolor=black,
+  citecolor=black, filecolor=black, menucolor=black, runcolor=black,
+  urlcolor=black, pdfencoding=unicode]{hyperref}  % clickable references, pdf toc
+\usepackage[
+  paper=a4paper,
+  top=2.5cm,
+  bottom=1.5cm,
+  textwidth=17cm,
+  left=1.5cm,
+% textheight=24cm,
+]{geometry}  % page geomerty
+
+\newtheorem{izrek}{Izrek}
+\newtheorem{posledica}{Posledica}
+
+\theoremstyle{definition}
+\newtheorem{definicija}{Definicija}
+\newtheorem{opomba}{Opomba}
+\newtheorem{zgled}{Zgled}
+
+% basic sets
+\newcommand{\R}{\ensuremath{\mathbb{R}}}
+\newcommand{\N}{\ensuremath{\mathbb{N}}}
+\newcommand{\Z}{\ensuremath{\mathbb{Z}}}
+\renewcommand{\C}{\ensuremath{\mathbb{C}}}
+\newcommand{\Q}{\ensuremath{\mathbb{Q}}}
+
+% greek letters
+\let\oldphi\phi
+\let\oldtheta\theta
+\newcommand{\eps}{\varepsilon}
+\renewcommand{\psi}{\varpsi}
+\renewcommand{\theta}{\vartheta}
+
+% vektorska analiza
+\newcommand{\grad}{\operatorname{grad}}
+\newcommand{\rot}{\operatorname{rot}}
+\renewcommand{\div}{\operatorname{div}}
+
+\usepackage{marginnote}
+
+% lists with less vertical space
+\newenvironment{itemize*}{\vspace{-6pt}\begin{itemize}\setlength{\itemsep}{0pt}\setlength{\parskip}{2pt}}{\end{itemize}}
+\newenvironment{enumerate*}{\vspace{-6pt}\begin{enumerate}\setlength{\itemsep}{0pt}\setlength{\parskip}{2pt}}{\end{enumerate}}
+\newenvironment{description*}{\vspace{-6pt}\begin{description}\setlength{\itemsep}{0pt}\setlength{\parskip}{2pt}}{\end{description}}
+
+\newcommand{\Title}{Vrsta za referat}
+\newcommand{\Author}{Jure Slak}
+\title{\Title}
+\author{\Author}
+\date{\today}
+\hypersetup{pdftitle={\Title}, pdfauthor={\Author}, pdfcreator={\Author},
+            pdfproducer={\Author}, pdfsubject={}, pdfkeywords={}}  % setup pdf metadata
+
+\pagestyle{empty}              % vse strani prazne
+\setlength{\parindent}{0pt}    % zamik vsakega odstavka
+\setlength{\parskip}{10pt}     % prazen prostor po odstavku
+\setlength{\overfullrule}{30pt}  % oznaci predlogo vrstico z veliko črnine
+\usepackage{pst-barcode}
+\usepackage{auto-pst-pdf} % uncomment this if used with pdflatex
+
+\begin{document}
+
+\thispagestyle{empty}  % ta stran prazna
+
+\fontsize{48}{48}\selectfont
+
+Vemo, da je na začetku leta vrsta pred referatom dolga.
+Naj ne bo po nepotrebnem še daljša. \\[12pt]
+
+\fontsize{24}{24}\selectfont
+\textbf{Lahko uredim pri recepciji:}
+\begin{itemize}
+  \item oddaja in prevzem \href{http://www.fmf.uni-lj.si/si/obvestila/39071}{vpisne
+    dokumentacije}
+  \item prevzem študentskih izkaznic
+  \item prevzem indeksov po vpisu
+  \item oddaja in prevzem prošenj (za opravljanje \\ predmetov vnaprej, izredni
+    vpis, \dots)
+\end{itemize}
+
+\vspace{32pt}
+
+\textbf{Moram v referat:}
+\begin{itemize}
+  \item prevzem ali naročilo potrdila o vpisu
+  \item prevzem ali naročilo potrdila o opravljenih \\ izpitih
+\end{itemize}
+
+\vfill
+
+
+\fontsize{18}{18}\selectfont
+\textbf{Zakaj pa ne podaljšate uradnih ur referata?} \\[6pt]
+Ker to ni mogoče. V referatu delajo od jutra do večera tekoče delo v zvezi z
+diplomami in vpisi, ki ga študenti ne vidimo, ampak ga je ogromno in imeti npr.\
+4 ure uradnih ur bi pomenilo še počasnejše procesiranje sprotnih zadev.
+
+\end{document}
+% vim: syntax=tex
+% vim: spell spelllang=sl
+% vim: foldlevel=99
+% Latex template: Jure Slak, jure.slak@gmail.com
+

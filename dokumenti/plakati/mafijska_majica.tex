@@ -1,0 +1,111 @@
+\documentclass[a4paper,oneside,12pt]{article}
+
+\usepackage[slovene]{babel}    % slovenian language and hyphenation
+\usepackage[utf8]{inputenc}    % make čšž work on input
+\usepackage[T1]{fontenc}       % make čšž work on output
+\usepackage[reqno]{amsmath}    % basic ams math environments and symbols
+\usepackage{amssymb,amsthm}    % ams symbols and theorems
+%\usepackage{mathtools}         % extends ams with arrows and stuff
+\usepackage{url}               % \url and \href for links
+\usepackage{icomma}            % make comma a thousands separator with correct spacing
+\usepackage{units}             % \unit[1]{m} and unitfrac
+\usepackage{enumerate}         % enumerate style
+\usepackage{array}             % mutirow
+% \usepackage[usenames]{color}   % colors with names
+\usepackage{graphicx}          % images
+
+\usepackage[bookmarks, colorlinks=true, linkcolor=black, anchorcolor=black,
+  citecolor=black, filecolor=black, menucolor=black, runcolor=black,
+  urlcolor=black, pdfencoding=unicode]{hyperref}  % clickable references, pdf toc
+\usepackage[
+  paper=a4paper,
+  top=1.5cm,
+  bottom=1.5cm,
+  textwidth=19cm,
+% textheight=24cm,
+]{geometry}  % page geomerty
+
+\newtheorem{izrek}{Izrek}
+\newtheorem{posledica}{Posledica}
+
+\theoremstyle{definition}
+\newtheorem{definicija}{Definicija}
+\newtheorem{opomba}{Opomba}
+\newtheorem{zgled}{Zgled}
+
+% basic sets
+\newcommand{\R}{\ensuremath{\mathbb{R}}}
+\newcommand{\N}{\ensuremath{\mathbb{N}}}
+\newcommand{\Z}{\ensuremath{\mathbb{Z}}}
+\renewcommand{\C}{\ensuremath{\mathbb{C}}}
+\newcommand{\Q}{\ensuremath{\mathbb{Q}}}
+
+% lists with less vertical space
+\newenvironment{itemize*}{\vspace{-6pt}\begin{itemize}\setlength{\itemsep}{0pt}\setlength{\parskip}{2pt}}{\end{itemize}}
+\newenvironment{enumerate*}{\vspace{-6pt}\begin{enumerate}\setlength{\itemsep}{0pt}\setlength{\parskip}{2pt}}{\end{enumerate}}
+\newenvironment{description*}{\vspace{-6pt}\begin{description}\setlength{\itemsep}{0pt}\setlength{\parskip}{2pt}}{\end{description}}
+
+\newcommand{\Title}{Natečaj za dizajn majice za mafijski piknik}
+\newcommand{\Author}{Jure Slak}
+\title{\Title}
+\author{\Author}
+\date{\today}
+\hypersetup{pdftitle={\Title}, pdfauthor={\Author}, pdfcreator={\Author},
+            pdfproducer={\Author}, pdfsubject={}, pdfkeywords={}}  % setup pdf metadata
+
+\pagestyle{empty}              % vse strani prazne
+\setlength{\parindent}{0pt}    % zamik vsakega odstavka
+\setlength{\parskip}{30pt}     % prazen prostor po odstavku
+
+\newcommand{\veliko}[1]{\scalebox{4}{#1}}
+\newcommand{\srednje}[1]{\scalebox{2.5}{#1}}
+\newcommand{\povezava}[1]{\begin{center}\vspace{-20pt}\Large \url{#1}\end{center}}
+
+%\usepackage{pst-barcode}
+%\usepackage{auto-pst-pdf} % uncomment this if used with pdflatex
+\usepackage{fancyhdr}
+
+\begin{document}
+
+\srednje{ŠS in ŠO FMF razpisujeta natečaj}
+
+\setlength{\baselineskip}{40pt}
+\vspace{-45pt}
+
+\begin{center}
+  \srednje{za} \\
+  \veliko{\bf dizajn majice} \\
+  \srednje{za} \\[10pt]
+  \veliko{\bf Mafijski piknik 2016!}
+
+  \includegraphics[width=0.4\textwidth]{majica.png}
+\end{center}
+
+\fontsize{24}{26}\selectfont
+
+\vspace{-55pt}
+Zaželeno je, da:
+\vspace{-35pt}
+\begin{itemize}
+  \item sta motiva spredaj in zadaj
+  \item je motiv primeren za oba oddelka fakultete
+  \item so napisi v slovenščini, grafika pa enobarvna
+  \item dizajn oddaš v vektorski obliki do \textbf{15.~aprila~2016} \\[5pt]
+        na \texttt{studentski.svet@fmf.uni-lj.si}.
+\end{itemize}
+\vspace{-25pt}
+Predlagaš lahko tudi barvo majice, za nagrado pa dobiš čast in slavo ter dve karti za piknik.
+
+\fontsize{10}{11}\selectfont
+Opomba za bruce: Mafijski piknik je vsakoletno tradicionalno srečanje, ki se ga
+udeležijo študenti in zaposleni FMF, kjer se j\'{e}, pije in druži dolgo v noč.
+Običajno poteka proti koncu maja. Z nakupom karte dobiš majico z nekim mafijskim
+motivom (zato natečaj) ter ``neomejeno'' hrano in pijačo za cel večer. Spodobi se,
+da se ga vsaj enkrat udeleži vsak pravi mafijec.
+
+\end{document}
+% vim: syntax=tex
+% vim: spell spelllang=sl
+% vim: foldlevel=99
+% Latex template: Jure Slak, jure.slak@gmail.com
+

@@ -1,0 +1,128 @@
+\documentclass[oneside, 12pt]{article}
+
+\usepackage[slovene]{babel}    % slovenian language and hyphenation
+\usepackage[utf8]{inputenc}    % make čšž work on input
+\usepackage[T1]{fontenc}       % make čšž work on output
+\usepackage[reqno]{amsmath}    % basic ams math environments and symbols
+\usepackage{amssymb,amsthm}    % ams symbols and theorems
+\usepackage{mathtools}         % extends ams with arrows and stuff
+\usepackage{url}               % \url and \href for links
+\usepackage{icomma}            % make comma a thousands separator with correct spacing
+\usepackage{units}             % \unit[1]{m} and unitfrac
+\usepackage{enumerate}         % enumerate style
+\usepackage{array}             % mutirow
+\usepackage[usenames]{color}   % colors with names
+\usepackage{graphicx}          % images
+
+\usepackage[bookmarks, colorlinks=true, linkcolor=black, anchorcolor=black,
+  citecolor=black, filecolor=black, menucolor=black, runcolor=black,
+  urlcolor=black, pdfencoding=unicode]{hyperref}  % clickable references, pdf toc
+\usepackage[
+  paper=a3paper,
+  top=2cm,
+  bottom=2cm,
+  left=2cm,
+  right=2cm,
+%   textwidth=19cm,
+% textheight=24cm,
+]{geometry}  % page geomerty
+
+\newtheorem{izrek}{Izrek}
+\newtheorem{posledica}{Posledica}
+
+\theoremstyle{definition}
+\newtheorem{definicija}{Definicija}
+\newtheorem{opomba}{Opomba}
+\newtheorem{zgled}{Zgled}
+
+% basic sets
+\newcommand{\R}{\ensuremath{\mathbb{R}}}
+\newcommand{\N}{\ensuremath{\mathbb{N}}}
+\newcommand{\Z}{\ensuremath{\mathbb{Z}}}
+\renewcommand{\C}{\ensuremath{\mathbb{C}}}
+\newcommand{\Q}{\ensuremath{\mathbb{Q}}}
+
+% lists with less vertical space
+\newenvironment{itemize*}{\vspace{-6pt}\begin{itemize}\setlength{\itemsep}{0pt}\setlength{\parskip}{2pt}}{\end{itemize}}
+\newenvironment{enumerate*}{\vspace{-6pt}\begin{enumerate}\setlength{\itemsep}{0pt}\setlength{\parskip}{2pt}}{\end{enumerate}}
+\newenvironment{description*}{\vspace{-6pt}\begin{description}\setlength{\itemsep}{0pt}\setlength{\parskip}{2pt}}{\end{description}}
+
+\newcommand{\Title}{Ankete}
+\newcommand{\Author}{Jure Slak}
+\title{\Title}
+\author{\Author}
+\date{\today}
+\hypersetup{pdftitle={\Title}, pdfauthor={\Author}, pdfcreator={\Author},
+            pdfproducer={\Author}, pdfsubject={}, pdfkeywords={}}  % setup pdf metadata
+
+\pagestyle{empty}              % vse strani prazne
+\setlength{\parindent}{0pt}    % zamik vsakega odstavka
+\setlength{\parskip}{8pt}     % prazen prostor po odstavku
+\setlength{\overfullrule}{30pt}  % oznaci predlogo vrstico z veliko črnine
+
+\newcommand{\veliko}[1]{\scalebox{3}{\textbf{#1}}}
+\newcommand{\srednje}[1]{\scalebox{2.4}{#1}}
+\newcommand{\povezava}[1]{\begin{center}\vspace{-20pt}\Large \url{#1}\end{center}}
+
+\begin{document}
+
+\Huge
+
+\veliko{Kaj}\srednje{ se dogaja?}
+
+Uvaja se nov sistem anket na Univerzi v Ljubljani. \\
+Interne ankete na FMF ostajajo enake kot vedno.
+
+\vspace{12pt}
+\veliko{Kakšne}\srednje{ so nove ankete?}
+
+Ankete so krajše in razdeljene na dva dela. Vsak semester dobijo študenti dve
+seriji anket. Prvo serijo moraš rešiti pred prvo prijavo na izpit (ali
+pred vpisom ocene, če se na izpite ne prijavljate), sicer se ne moraš prijaviti,
+drugo pa, ko si predmet opravil.
+
+\vspace{12pt}
+\veliko{Kje}\srednje{ jih lahko rešim?}
+
+Rešiš jih na sistemu VIS, pod zavihkom
+\begin{center}
+\vspace{-16pt}
+\framebox{\texttt{Ankete}\rule[-5pt]{0pt}{0pt}} / \framebox{\texttt{Izpolnjevanje anket UL}}
+\end{center}
+\vspace{-12pt}
+Preusmerjen boš na Arnes strežnik, kjer rešiš anketo.
+
+\vspace{12pt}
+\veliko{Kdaj}\srednje{ jih moram rešiti?}
+
+Prvo serijo anket lahko rešiš od \textbf{15.~12.~2015}, torej že sedaj.
+Priporočamo, da to storiš čim prej, da ne boš imel težav s prijavami na izpit
+ali vpisi ocen! Prva serija za drugi semester se odpre \textbf{xx.~xx.~2016}.
+
+\vspace{12pt}
+\veliko{Zakaj}\srednje{ so pomembne?}
+
+Glavni namen je izboljšanje kvalitete študija.
+Vpogled v ankete dobijo:
+\vspace{-12pt}
+\begin{itemize*}
+  \item \textbf{pedagoški delavec}, o katerem je anketa, z namenom, da vidi povratno mnenje
+    študentov in po potrebi izboljša svoje delo,
+  \item \textbf{skrbnik programa}, da ugotovi kaj je na programu dobrega in slabega, in
+    po potrebi sproži postopke za spremembe,
+  \item \textbf{študentski svet}, za namene podajanja mnenj o pedagoških delavcih ob
+    izvolitvah v naziv,
+  \item \textbf{dekan}, ki se je dolžan pogovoriti z 10\% najslabše ocenjenimi.
+\end{itemize*}
+
+Za več informacij vprašaj na \texttt{forum.fmf.si/c/studentski-organi} ali
+\texttt{studentski.svet@fmf.uni-lj.si}.
+
+% text here
+
+\end{document}
+% vim: syntax=tex
+% vim: spell spelllang=sl
+% vim: foldlevel=99
+% Latex template: Jure Slak, jure.slak@gmail.com
+
