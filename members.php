@@ -10,7 +10,6 @@
 <ul>
   <li>Rok Gregorič &ndash; matematika, 2. stopnja, 1. letnik</li>
   <li>Matej Jazbec &ndash; matematika, 1. stopnja, 1. letnik </li>
-  <li>Bruno Jurič &ndash; finančna matematika, 1. stopnja, 1. letnik</li>
   <li>Ana Rebeka Kamšek &ndash;  fizika, 1. stopnja, 1. letnik </li>
   <li>Veno Mramor &ndash;  matematika, 2. stopnja, 1. letnik</li>
   <li>Aljaž Robek &ndash; fizika, 1. stopnja, 1. letnik</li>
@@ -51,7 +50,6 @@ je Rok Gregorič. <strong>Predstavnik za stike z RC</strong> je Jure Slak.</p>
 
 <h2>Komisija za etična vprašanja</h2>
 <ul>
-  <li>Bruno Jurič</li>
   <li>Aljaž Robek</li>
 </ul>
 
