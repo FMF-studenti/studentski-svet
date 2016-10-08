@@ -12,9 +12,21 @@ bolj natančno. S tem imate zelo močen vpliv na kvaliteto predavanj!
 
 <h2>V postopku izvolitve so naslednji pedagoški delavci:</h2>
 <!-- <p class="smallfont">Trenutno ni v izvolitvi noben pedagoški delavec.</p> -->
-<ul>
+<ol>
+  <li>Karin Cvetko Vah</li>
+  <li>Jasna Prezelj Perman</li>
   <li>Janez Šter</li>
-</ul>
+  <li>Gregor Cigler</li>
+  <li>Lucijan Plevnik</li>
+  <li>Damjana Kokol Bukovsek</li>
+  <li>Vlado Malačič</li>
+  <li>Nina Ružič</li>
+  <li>Jernej Fesel Kamenik</li>
+  <li>Aleš Vavpetič</li>
+  <li>Riste Škrekovski</li>
+  <li>Miha Nemevšek</li>
+  <li>Franci Bajd</li>
+</ol>
 <p>Za te pedagoške delavce bo Študentski svet FMF v kratkem izdelal študentsko
 mnenje, ki se upošteva pri kriteriju pedagoške usposobljenosti, kar je pogoj za
 izvolitev kandidata v naziv.</p>
@@ -23,8 +35,17 @@ lahko kadarkoli posreduješ na naslov <a href="mailto:studentski.svet@fmf.uni-lj
   studentski.svet@fmf.uni-lj.si</a> ali pa oddaš v predalček Sveta na recepciji
 Oddelka za fiziko. Tvoje mnenje bo obravnavano anonimno!</p>
 
-<h2>V letošnjem šolskem letu je SŠ FMF izdal mnenja naslednjim pedagoškim delavcem:</h2>
-<ul>
+<h2>V šolskem 2016/17 letu je SŠ FMF izdal mnenja naslednjim pedagoškim delavcem:</h2>
+<ol reversed="reversed">
+  <li>Svet še ni imel prve seje.</li>
+</ol>
+
+<h2>V šolskem 2015/16 letu je SŠ FMF izdal mnenja naslednjim pedagoškim delavcem:</h2>
+<ol reversed="reversed">
+  <li>Samir El Shawish</li>
+  <li>Bostjan Koncar</li>
+  <li>Alenka Mertelj</li>
+  <li>Anita Buckley</li>
   <li>Dejan Govc</li>
   <li>Simon Čopar</li>
   <li>Andrej Studen</li>
@@ -69,6 +90,6 @@ Oddelka za fiziko. Tvoje mnenje bo obravnavano anonimno!</p>
   <li>Riste Škrekovski       </li>
   <li>Leon Cizelj            </li>
   <li>Matija Uršič           </li>
-</ul>
+</ol>
 
 <?php require_once 'footer.php'; ?>

@@ -239,6 +239,10 @@ body.textbold {
   font-weight: bold;
 }
 
+ol li {
+  padding: 0 0 0 8pt;
+}
+
 #cookie_message {
   display: none;
   border: 1px #ccc solid;
