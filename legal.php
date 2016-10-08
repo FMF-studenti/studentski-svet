@@ -126,7 +126,7 @@ SVG).</p>
 
 <h2>Plakati</h2>
 <ul>
-  <li><a href="/dokumenti/plakati/ali_ves.pdf">O dejavnostih sveta</a></li>
+  <li><a href="/dokumenti/plakati/ali_ves_2015_16.pdf">O dejavnostih sveta</a></li>
   <li><a href="/dokumenti/plakati/ankete.pdf">O anketah na VIS-u in FMF-ju</a></li>
   <li><a href="/dokumenti/plakati/ankete_tldr.pdf">O anketah na VIS-u in FMF-ju</a>
       (<a href="http://www.urbandictionary.com/define.php?term=tl%3Bdr">tl;dr</a> verzija)</li>
