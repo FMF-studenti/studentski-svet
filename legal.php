@@ -140,6 +140,7 @@ SVG).</p>
   <li><a href="/dokumenti/plakati/maraton.pdf">Skupinska prijava na Ljubljanski maraton</a>. Pripadajoča <a href="/ljm">stran</a>.</li>
   <li><a href="/dokumenti/plakati/guzva_referat.pdf">Napotki za manjšo gnečo v referatu</a>.
   <li><a href="/dokumenti/plakati/ali_ves_2016_17.pdf">O dejavnostih sveta drugič</a></li>
+  <li><a href="/dokumenti/plakati/matematicni_hoodie.pdf">Natečaj za matematični hoodie</a></li>
 </ul>
 
 <h2>Razno</h2>
