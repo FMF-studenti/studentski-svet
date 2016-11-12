@@ -35,7 +35,7 @@
   <div class="itemData">
     <p>Vabljeni ste, da si ogledate spletno stran Študentskega sveta Fakultete
     za matematiko in fiziko ter si preberete več o našem delovanju.</p>
-    <p>Lahko so ogledate tudi našo <a href="https://www.facebook.com/%C5%A0tudentski-svet-FMF-453935034767469/" target="_blank">facebook stran</a>.</p>
+    <p>Lahko si ogledate tudi našo <a href="https://www.facebook.com/%C5%A0tudentski-svet-FMF-453935034767469/" target="_blank">facebook stran</a>.</p>
   </div>
 </div>
 
@@ -45,7 +45,7 @@
 <!--
   <p>Trenutno v postopku izvolitve ni pedagoških delavcev. <a href="/mnenja">Več...<a></p>
 -->
-  <p>Trenutno je v postopku izvolitve <strong>14</strong> pedagoških delavcev. <a href="/mnenja">Več...<a></p>
+  <p>Trenutno je v postopku izvolitve <strong>15</strong> pedagoških delavcev. <a href="/mnenja">Več...<a></p>
   </div>
 </div>
 

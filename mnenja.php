@@ -5,7 +5,7 @@
 </div>
 
 Komisija za študentska mnenja ob kandidaturi pedagoškega delavca v naziv izda
-študentsko mnenje.  Študentsko mnjenje izdamo na podlagi <strong>anket v
+študentsko mnenje.  Študentsko mnenje izdamo na podlagi <strong>anket v
 VIS-u</strong>, če pa je situacija kritična, se obrnemo še na interne ankete.
 Najbolj pomagajo tekstovna mnenja z VIS-a, zato prosimo, da jih rešujete čim
 bolj natančno. S tem imate zelo močen vpliv na kvaliteto predavanj!
