@@ -8,35 +8,40 @@
 
 <h2>Člani Študentskega sveta FMF</h2>
 <ul>
-  <li>Rok Gregorič &ndash; matematika, 2. stopnja, 1. letnik</li>
-  <li>Matej Jazbec &ndash; matematika, 1. stopnja, 1. letnik </li>
-  <li>Ana Rebeka Kamšek &ndash;  fizika, 1. stopnja, 1. letnik </li>
-  <li>Veno Mramor &ndash;  matematika, 2. stopnja, 1. letnik</li>
-  <li>Aljaž Robek &ndash; fizika, 1. stopnja, 1. letnik</li>
-  <li>Jure Slak &ndash; matematika, 2. stopnja, 1. letnik</li>
-  <li>Ana Smerdu &ndash; matematika, 1. stopnja, absolventka </li>
-  <li>Marion Antonia van Midden &ndash; fizika, 2. stopnja, 2. letnik</li>
+  <li>Klemen Ducman             &ndash; fizika,     1. stopnja, 2. letnik</li>
+  <li>Rok Gregorič              &ndash; matematika, 2. stopnja, 2. letnik</li>
+  <li>Gaja Guerrini             &ndash; fizika,     1. stopnja, 1. letnik</li>
+  <li>Ana Kregar                &ndash; matematika, 1. stopnja, 1. letnik</li>
+  <li>Saša Marolt               &ndash; matematika, 2. stopnja, 1. letnik</li>
+  <li>Ines Meršak               &ndash; matematika, 2. stopnja, 1. letnik</li>
+  <li>Miha Podkrajšek           &ndash; fizika,     1. stopnja, 2. letnik</li>
+  <li>Jure Slak                 &ndash; matematika, 2. stopnja, 2. letnik</li>
+  <li>Ana Smerdu                &ndash; matematika, 2. stopnja, 1. letnik </li>
+  <li>Miha Srdinšek             &ndash; fizika,     1. stopnja, 3. letnik</li>
+  <li>Miha Šifrer               &ndash; matematika, 1. stopnja, 3. letnik</li>
+  <li>Marion Antonia van Midden &ndash; fizika,     3. stopnja, 1. letnik</li>
+  <li>Mojca Žilavec             &ndash; finančna matematika, 1. stopnja, 2. letnik</li>
 </ul>
 
 <p>&nbsp;</p>
 
 <h1>Vodstvo sveta</h1>
-<p><strong>Predsednica</strong> sveta je Marion van Midden, <strong>podpredsednik</strong> pa je Veno Mramor.
-Njuna namestnika sta Ana Smerdu in Ana Rebeka Kamšek. <strong>Tajnik</strong> sveta
-je Rok Gregorič. <strong>Predstavnik za stike z RC</strong> je Jure Slak.</p>
+<p><strong>Predsednica</strong> sveta je Jure Slak, <strong>podpredsednik</strong> pa je Miha Srdinšek.
+Njuna namestnika sta Ana Kregar in Miha Podkrajšek. <strong>Tajnica</strong> sveta
+je Mojca Žilavec. <strong>Predstavnik za stike z RC</strong> je Jure Slak, njegova namestnica je Ines Meršak.</p>
 
 <h1>Predstavniki v organih FMF</h1>
 <h2>Člani senata FMF</h2>
 <ul>
-  <li>Marion van Midden</li>
-  <li>Veno Mramor</li>
-  <li>Matej Jazbec</li>
+  <li>Klemen Ducman, namestnik Miha Srdinšek</li>
+  <li>Saša Marolt, namestnica Ana Kregar</li>
+  <li>Ines Meršak, namestnica Mojca Žilavec</li>
 </ul>
 
 <h2>ZPS (znanstveno pedagoški svet)</h2>
 <ul>
   <li>Rok Gregorič &ndash; matematika</li>
-  <li>Aljaž Robek &ndash; fizika</li>
+  <li>Miha Srdinšek &ndash; fizika</li>
 </ul>
 
 <h2>Komisija za študenstka mnenja</h2>
@@ -44,20 +49,33 @@ je Rok Gregorič. <strong>Predstavnik za stike z RC</strong> je Jure Slak.</p>
 
 <h2>Disciplinska komisija</h2>
 <ul>
-  <li>Jure Slak</li>
-  <li>Ana Rebeka Kamšek (namestnica)</li>
+  <li>Klemen Ducman, namestnik Miha Podkrajšek</li>
+  <li>Miha Šifrer, namestnica Ana Smerdu</li>
 </ul>
 
 <h2>Komisija za etična vprašanja</h2>
 <ul>
-  <li>Aljaž Robek</li>
+  <li>Gaja Guerrini, namestnik Miha Srdinšek</li>
+  <li>Mojca Žilavec, namestnica Ana Smerdu</li>
+</ul>
+
+<h2>Komisija za kakovost</h2>
+<ul>
+  <li>Miha Šifrer, namestnica Ana Smerdu</li>
+  <li>Miha Podkrajšek, namestnica Gaja Guerrini</li>
+</ul>
+
+<h2>Komisija za samoevaluacijo</h2>
+<ul>
+  <li>Ana Smerdu, namestnica Ines Meršak</li>
+  <li>Marion van Midden, Saša Marolt</li>
 </ul>
 
 <h1>Člani organov in komisij senata Univerze v Ljubljani</h1>
 <h2>Člani Študentskega sveta Univerze v Ljubljani</h2>
 <ul>
-  <li>Marion van Midden</li>
-  <li>Veno Mramor</li>
+  <li>Ana Kregar, Mojca Žilavec</li>
+  <li>Miha Srdinšek, Klemen Ducman</li>
 </ul>
 
 <h2>Člani ostalih organov Univerze v Ljubljani</h2>

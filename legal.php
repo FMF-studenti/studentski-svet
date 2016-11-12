@@ -132,7 +132,7 @@ SVG).</p>
   <li><a href="/dokumenti/plakati/pi_predstava.pdf">Reklama za predstavo Nika Škrleca o Pi-ju</a></li>
   <li><a href="/dokumenti/plakati/maraton.pdf">Skupinska prijava na Ljubljanski maraton</a>. Pripadajoča <a href="/ljm">stran</a>.</li>
   <li><a href="/dokumenti/plakati/guzva_referat.pdf">Napotki za manjšo gnečo v referatu</a>.
-  <li><a href="/dokumenti/plakati/ali_ves_2016_17.pdf">O dejavnostih sveta drugič</a></li>
+  <li><a href="/dokumenti/plakati/ali_ves_2016_17.pdf">O dejavnostih sveta, drugič</a></li>
   <li><a href="/dokumenti/plakati/matematicni_hoodie.pdf">Natečaj za matematični hoodie</a></li>
 </ul>
 
@@ -143,7 +143,7 @@ SVG).</p>
   <li><a href="/dokumenti/pi_recitacija.pdf">Decimalke števila pi, kot jih bodo imeli sodniki</a>, <a href="/dokumenti/pi_recitacija.tex">(tex)</a>, <a href="/dokumenti/pi_finished.txt">(data)</a></li>
 </ul>
 
-<h2>Zapisniki s sej sveta</h2>
+<h2>Zapisniki s sej sveta 2015/16</h2>
 <ul>
   <li>Zapisnik 1. redne (konstitutivne) seje je na voljo <a href="/dokumenti/zapisniki/2015_16/zapisnik_seja_1.pdf">tukaj</a></li>
   <li>Zapisnik 2. redne seje je na voljo <a href="/dokumenti/zapisniki/2015_16/zapisnik_seja_2.pdf">tukaj</a></li>

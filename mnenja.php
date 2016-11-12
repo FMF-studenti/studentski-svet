@@ -18,14 +18,16 @@ bolj natančno. S tem imate zelo močen vpliv na kvaliteto predavanj!
   <li>Janez Šter</li>
   <li>Gregor Cigler</li>
   <li>Lucijan Plevnik</li>
-  <li>Damjana Kokol Bukovsek</li>
+  <li>Damjana Kokol Bukovšek</li>
   <li>Vlado Malačič</li>
   <li>Nina Ružič</li>
   <li>Jernej Fesel Kamenik</li>
-  <li>Aleš Vavpetič</li>
   <li>Riste Škrekovski</li>
-  <li>Miha Nemevšek</li>
-  <li>Franci Bajd</li>
+  <li>Daniel Svenšek</li>
+  <li>Nedeljka Žagar</li>
+  <li>Dejan Velušček</li>
+  <li>Andrej Petelin</li>
+  <li>Sergej Faletič</li>
 </ol>
 <p>Za te pedagoške delavce bo Študentski svet FMF v kratkem izdelal študentsko
 mnenje, ki se upošteva pri kriteriju pedagoške usposobljenosti, kar je pogoj za
@@ -42,6 +44,10 @@ Oddelka za fiziko. Tvoje mnenje bo obravnavano anonimno!</p>
 
 <h2>V šolskem 2015/16 letu je SŠ FMF izdal mnenja naslednjim pedagoškim delavcem:</h2>
 <ol reversed="reversed">
+  <li>Aleš Vavpetič</li>
+  <li>Miha Nemevšek</li>
+  <li>Franci Bajd</li>
+  <li>Tilen Koklič</li>
   <li>Samir El Shawish</li>
   <li>Bostjan Koncar</li>
   <li>Alenka Mertelj</li>
