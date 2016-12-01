@@ -145,17 +145,17 @@ SVG).</p>
 
 <h2>Zapisniki s sej sveta 2015/16</h2>
 <ul>
-  <li>Zapisnik 1. redne (konstitutivne) seje je na voljo <a href="/dokumenti/zapisniki/2015_16/zapisnik_seja_1.pdf">tukaj</a></li>
-  <li>Zapisnik 2. redne seje je na voljo <a href="/dokumenti/zapisniki/2015_16/zapisnik_seja_2.pdf">tukaj</a></li>
-  <li>Zapisnik 3. redne seje je na voljo <a href="/dokumenti/zapisniki/2015_16/zapisnik_seja_3.pdf">tukaj</a></li>
-  <li>Zapisnik 4. redne seje je na voljo <a href="/dokumenti/zapisniki/2015_16/zapisnik_seja_4.pdf">tukaj</a></li>
-  <li>Zapisnik 5. redne (1. dopisne) seje je na voljo <a href="/dokumenti/zapisniki/2015_16/zapisnik_seja_5.pdf">tukaj</a></li>
-  <li>Zapisnik 6. redne seje je na voljo <a href="/dokumenti/zapisniki/2015_16/zapisnik_seja_6.pdf">tukaj</a></li>
-  <li>Zapisnik 7. redne (2. dopisne) seje je na voljo <a href="/dokumenti/zapisniki/2015_16/zapisnik_seja_7.pdf">tukaj</a></li>
-  <li>Zapisnik 8. redne seje je na voljo <a href="/dokumenti/zapisniki/2015_16/zapisnik_seja_8.pdf">tukaj</a></li>
-  <li>Zapisnik 9. redne seje še ni na voljo</li>
-  <li>Zapisnik 10. redne seje (3. dopisne) še ni na voljo</li>
-  <li>Zapisnik 11. redne seje (4. dopisne) še ni na voljo</li>
+  <li>Zapisnik 1. redne (konstitutivne) seje je na voljo <a href="/dokumenti/zapisniki/2015_16/1_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 2. redne seje je na voljo <a href="/dokumenti/zapisniki/2015_16/2_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 3. redne seje je na voljo <a href="/dokumenti/zapisniki/2015_16/3_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 4. redne seje je na voljo <a href="/dokumenti/zapisniki/2015_16/4_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 5. redne (1. dopisne) seje je na voljo <a href="/dokumenti/zapisniki/2015_16/5_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 6. redne seje je na voljo <a href="/dokumenti/zapisniki/2015_16/6_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 7. redne (2. dopisne) seje je na voljo <a href="/dokumenti/zapisniki/2015_16/7_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 8. redne seje je na voljo <a href="/dokumenti/zapisniki/2015_16/8_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 9. redne seje še ni na voljo <a href="/dokumenti/zapisniki/2015_16/9_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 10. redne seje (3. dopisne) še ni na voljo <a href="/dokumenti/zapisniki/2015_16/10_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 11. redne seje (4. dopisne) še ni na voljo <a href="/dokumenti/zapisniki/2015_16/11_seja.pdf">tukaj</a></li>
 </ul>
 
 <?php require_once 'footer.php'; ?>
