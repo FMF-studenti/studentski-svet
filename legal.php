@@ -38,7 +38,7 @@
 
 <h2>Zapisniki s sej sveta</h2>
 <ul>
-  <li>Zapisnik 1. redne (konstitutivne) seje še ni na voljo.</li>
+  <li>Zapisnik 1. redne (konstitutivne) seje je na voljo <a href="/dokumenti/zapisniki/2016_17/1_seja.pdf">tukaj</a></li>
 </ul>
 
 <h2 id='logos'>Logotipi sveta</h2>
@@ -119,21 +119,21 @@ SVG).</p>
 
 <h2>Plakati</h2>
 <ul>
-  <li><a href="/dokumenti/plakati/ali_ves_2015_16.pdf">O dejavnostih sveta</a></li>
-  <li><a href="/dokumenti/plakati/ankete.pdf">O anketah na VIS-u in FMF-ju</a></li>
-  <li><a href="/dokumenti/plakati/ankete_tldr.pdf">O anketah na VIS-u in FMF-ju</a>
-      (<a href="http://www.urbandictionary.com/define.php?term=tl%3Bdr">tl;dr</a> verzija)</li>
-  <li><a href="/dokumenti/plakati/mafijska_majica.pdf">Natečaj za majico za Mafijski piknik</a></li>
-  <li><a href="/dokumenti/plakati/kenguru.pdf">Kenguru za študente</a></li>
-  <li><a href="/dokumenti/plakati/pi_dan.pdf">Reklama za pi dan</a></li>
-  <li><a href="/dokumenti/plakati/mafijski_piknik.pdf">Mafijksi piknik</a></li>
-  <li><a href="/dokumenti/plakati/mafijski_piknik_prostovoljci.pdf">Nabiranje prostovoljcev za piknik</a></li>
-  <li><a href="/dokumenti/plakati/mafijski_piknik_after.pdf">Reklama za after party</a></li>
-  <li><a href="/dokumenti/plakati/pi_predstava.pdf">Reklama za predstavo Nika Škrleca o Pi-ju</a></li>
-  <li><a href="/dokumenti/plakati/maraton.pdf">Skupinska prijava na Ljubljanski maraton</a>. Pripadajoča <a href="/ljm">stran</a>.</li>
-  <li><a href="/dokumenti/plakati/guzva_referat.pdf">Napotki za manjšo gnečo v referatu</a>.
-  <li><a href="/dokumenti/plakati/ali_ves_2016_17.pdf">O dejavnostih sveta, drugič</a></li>
   <li><a href="/dokumenti/plakati/matematicni_hoodie.pdf">Natečaj za matematični hoodie</a></li>
+  <li><a href="/dokumenti/plakati/ali_ves_2016_17.pdf">O dejavnostih sveta, drugič</a></li>
+  <li><a href="/dokumenti/plakati/guzva_referat.pdf">Napotki za manjšo gnečo v referatu</a>.
+  <li><a href="/dokumenti/plakati/maraton.pdf">Skupinska prijava na Ljubljanski maraton</a>. Pripadajoča <a href="/ljm">stran</a>.</li>
+  <li><a href="/dokumenti/plakati/pi_predstava.pdf">Reklama za predstavo Nika Škrleca o Pi-ju</a></li>
+  <li><a href="/dokumenti/plakati/mafijski_piknik_after.pdf">Reklama za after party</a></li>
+  <li><a href="/dokumenti/plakati/mafijski_piknik_prostovoljci.pdf">Nabiranje prostovoljcev za piknik</a></li>
+  <li><a href="/dokumenti/plakati/mafijski_piknik.pdf">Mafijksi piknik</a></li>
+  <li><a href="/dokumenti/plakati/pi_dan.pdf">Reklama za pi dan</a></li>
+  <li><a href="/dokumenti/plakati/kenguru.pdf">Kenguru za študente</a></li>
+  <li><a href="/dokumenti/plakati/mafijska_majica.pdf">Natečaj za majico za Mafijski piknik</a></li>
+      (<a href="http://www.urbandictionary.com/define.php?term=tl%3Bdr">tl;dr</a> verzija)</li>
+  <li><a href="/dokumenti/plakati/ankete_tldr.pdf">O anketah na VIS-u in FMF-ju</a>
+  <li><a href="/dokumenti/plakati/ankete.pdf">O anketah na VIS-u in FMF-ju</a></li>
+  <li><a href="/dokumenti/plakati/ali_ves_2015_16.pdf">O dejavnostih sveta</a></li>
 </ul>
 
 <h2>Razno</h2>
@@ -154,9 +154,9 @@ SVG).</p>
   <li>Zapisnik 6. redne seje je na voljo <a href="/dokumenti/zapisniki/2015_16/6_seja.pdf">tukaj</a></li>
   <li>Zapisnik 7. redne (2. dopisne) seje je na voljo <a href="/dokumenti/zapisniki/2015_16/7_seja.pdf">tukaj</a></li>
   <li>Zapisnik 8. redne seje je na voljo <a href="/dokumenti/zapisniki/2015_16/8_seja.pdf">tukaj</a></li>
-  <li>Zapisnik 9. redne seje še ni na voljo <a href="/dokumenti/zapisniki/2015_16/9_seja.pdf">tukaj</a></li>
-  <li>Zapisnik 10. redne seje (3. dopisne) še ni na voljo <a href="/dokumenti/zapisniki/2015_16/10_seja.pdf">tukaj</a></li>
-  <li>Zapisnik 11. redne seje (4. dopisne) še ni na voljo <a href="/dokumenti/zapisniki/2015_16/11_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 9. redne seje je na voljo <a href="/dokumenti/zapisniki/2015_16/9_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 10. redne seje (3. dopisne) je na voljo <a href="/dokumenti/zapisniki/2015_16/10_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 11. redne seje (4. dopisne) je na voljo <a href="/dokumenti/zapisniki/2015_16/11_seja.pdf">tukaj</a></li>
 </ul>
 
 <?php require_once 'footer.php'; ?>

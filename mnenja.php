@@ -13,17 +13,11 @@ bolj natančno. S tem imate zelo močen vpliv na kvaliteto predavanj!
 <h2>V postopku izvolitve so naslednji pedagoški delavci:</h2>
 <!-- <p class="smallfont">Trenutno ni v izvolitvi noben pedagoški delavec.</p> -->
 <ol>
+  <li>Aleš Mohorčič</li>
+  <li>Primož Ziherl</li>
+  <li>Jure Beričič</li>
   <li>Karin Cvetko Vah</li>
-  <li>Jasna Prezelj Perman</li>
-  <li>Janez Šter</li>
-  <li>Gregor Cigler</li>
-  <li>Lucijan Plevnik</li>
-  <li>Damjana Kokol Bukovšek</li>
   <li>Vlado Malačič</li>
-  <li>Nina Ružič</li>
-  <li>Jernej Fesel Kamenik</li>
-  <li>Riste Škrekovski</li>
-  <li>Daniel Svenšek</li>
   <li>Nedeljka Žagar</li>
   <li>Dejan Velušček</li>
   <li>Andrej Petelin</li>
@@ -44,6 +38,14 @@ Oddelka za fiziko. Tvoje mnenje bo obravnavano anonimno!</p>
 
 <h2>V šolskem 2015/16 letu je SŠ FMF izdal mnenja naslednjim pedagoškim delavcem:</h2>
 <ol reversed="reversed">
+  <li>Nina Ružič</li>
+  <li>Jernej Fesel Kamenik</li>
+  <li>Riste Škrekovski</li>
+  <li>Jasna Prezelj Perman</li>
+  <li>Janez Šter</li>
+  <li>Gregor Cigler</li>
+  <li>Lucijan Plevnik</li>
+  <li>Damjana Kokol Bukovšek</li>
   <li>Aleš Vavpetič</li>
   <li>Miha Nemevšek</li>
   <li>Franci Bajd</li>
