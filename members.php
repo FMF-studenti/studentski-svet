@@ -26,7 +26,8 @@
 <h1>Vodstvo sveta</h1>
 <p><strong>Predsednik</strong> sveta je Jure Slak, <strong>podpredsednik</strong> pa je Miha Srdinšek.
 Njuna namestnika sta Ana Kregar in Miha Podkrajšek. <strong>Tajnica</strong> sveta
-je Mojca Žilavec, namestnik še ni izvoljen. <strong>Predstavnik za stike z RC</strong> je Jure Slak, njegova namestnica je Ines Meršak.</p>
+je Mojca Žilavec, namestnica je Ines Meršak.<strong>Predstavnik za stike z RC</strong> je Jure Slak,
+njegova namestnica je Ines Meršak.</p>
 
 <h1>Predstavniki v organih FMF</h1>
 <h2>Senat FMF</h2>
@@ -38,8 +39,8 @@ je Mojca Žilavec, namestnik še ni izvoljen. <strong>Predstavnik za stike z RC<
 
 <h2>ZPS (znanstveno pedagoški svet)</h2>
 <ul>
-  <li>Oddelek za matematiko: Rok Gregorič, namestnik še ni izvoljen</li>
-  <li>Oddelek za fiziko: Miha Srdinšek, namestnik še ni izvoljen </li>
+  <li>Oddelek za matematiko: Rok Gregorič, namestnica Ana Smerdu</li>
+  <li>Oddelek za fiziko: Miha Srdinšek, namestnik Klemen Ducman </li>
 </ul>
 
 <h2>Komisija za študenstka mnenja</h2>

@@ -17,7 +17,6 @@ bolj natančno. S tem imate zelo močen vpliv na kvaliteto predavanj!
   <li>Primož Ziherl</li>
   <li>Jure Beričič</li>
   <li>Karin Cvetko Vah</li>
-  <li>Vlado Malačič</li>
   <li>Nedeljka Žagar</li>
   <li>Dejan Velušček</li>
   <li>Andrej Petelin</li>
@@ -38,6 +37,7 @@ Oddelka za fiziko. Tvoje mnenje bo obravnavano anonimno!</p>
 
 <h2>V šolskem 2015/16 letu je SŠ FMF izdal mnenja naslednjim pedagoškim delavcem:</h2>
 <ol reversed="reversed">
+  <li>Vlado Malačič</li>
   <li>Nina Ružič</li>
   <li>Jernej Fesel Kamenik</li>
   <li>Riste Škrekovski</li>
