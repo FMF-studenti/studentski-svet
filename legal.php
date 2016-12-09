@@ -119,10 +119,12 @@ SVG).</p>
 
 <h2>Plakati</h2>
 <ul>
+  <li><a href="/dokumenti/plakati/zagreb.pdf">Obisk zagrebških študentov matematike</a></li>
+  <li><a href="/dokumenti/plakati/vabilo_smrekca.png">Vabilo na okraševanje novoletne jelke</a></li>
   <li><a href="/dokumenti/plakati/matematicni_hoodie.pdf">Natečaj za matematični hoodie</a></li>
   <li><a href="/dokumenti/plakati/ali_ves_2016_17.pdf">O dejavnostih sveta, drugič</a></li>
-  <li><a href="/dokumenti/plakati/guzva_referat.pdf">Napotki za manjšo gnečo v referatu</a>.
-  <li><a href="/dokumenti/plakati/maraton.pdf">Skupinska prijava na Ljubljanski maraton</a>. Pripadajoča <a href="/ljm">stran</a>.</li>
+  <li><a href="/dokumenti/plakati/guzva_referat.pdf">Napotki za manjšo gnečo v referatu</a>
+  <li><a href="/dokumenti/plakati/maraton.pdf">Skupinska prijava na Ljubljanski maraton</a>. Pripadajoča <a href="/ljm">stran</a></li>
   <li><a href="/dokumenti/plakati/pi_predstava.pdf">Reklama za predstavo Nika Škrleca o Pi-ju</a></li>
   <li><a href="/dokumenti/plakati/mafijski_piknik_after.pdf">Reklama za after party</a></li>
   <li><a href="/dokumenti/plakati/mafijski_piknik_prostovoljci.pdf">Nabiranje prostovoljcev za piknik</a></li>
