@@ -1,3 +1,7 @@
+
+
+
+
 <?php require_once 'header.php'; ?>
 
 <div id="title">
@@ -120,6 +124,7 @@ SVG).</p>
 
 <h2>Plakati</h2>
 <ul>
+  <li><a href="/dokumenti/plakati/hashcode.pdf">Google Hash code 2017</a></li>
   <li><a href="/dokumenti/plakati/zagreb.pdf">Obisk zagrebških študentov matematike</a>, <a href="/dokumenti/zagreb_visit.zip">slike z dogodka (18 slik, 170 MB)</a></li>
   <li><a href="/dokumenti/plakati/vabilo_smrekca.png">Vabilo na okraševanje novoletne jelke</a></li>
   <li><a href="/dokumenti/plakati/matematicni_hoodie.pdf">Natečaj za matematični hoodie</a></li>
