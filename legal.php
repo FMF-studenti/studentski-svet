@@ -44,6 +44,7 @@
 <ul>
   <li>Zapisnik 1. redne (konstitutivne) seje je na voljo <a href="/dokumenti/zapisniki/2016_17/1_seja.pdf">tukaj</a></li>
   <li>Zapisnik 2. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/2_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 3. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/3_seja.pdf">tukaj</a></li>
 </ul>
 
 <h2 id='logos'>Logotipi sveta</h2>
