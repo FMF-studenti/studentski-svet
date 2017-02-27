@@ -48,6 +48,14 @@
   <li>Zapisnik 4. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/4_seja.pdf">tukaj</a></li>
 </ul>
 
+<h2 id='templates'>Predloge za mnenja</h2>
+<ul>
+  <li>Obrazec za mnenje je na voljo <a href="/dokumenti/mnenja_templates/obrazec_mnenje.pdf">tukaj</a></li>
+  <li>Obrazec za mnenje (2 strani) je na voljo <a href="/dokumenti/mnenja_templates/obrazec_mnenje_dvostransko.pdf">tukaj</a></li>
+  <li>Obrazec za mnenje z zadržkom je na voljo <a href="/dokumenti/mnenja_templates/obrazec_mnenje_z_zadrzkom.pdf">tukaj</a></li>
+  <li>Obrazec za mnenje z zadržkom (2 strani) je na voljo <a href="/dokumenti/mnenja_templates/obrazec_mnenje_z_zadrzkom_dvostransko.pdf">tukaj</a></li>
+</ul>
+
 <h2 id='logos'>Logotipi sveta</h2>
 <p>Spodaj so povezave na vse uradne logotipe, kot jih je potrdil svet na 9. redni seji v letu 2015/16.</p>
 
