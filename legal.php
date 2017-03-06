@@ -129,7 +129,7 @@ SVG).</p>
     <a href="/img/logos/piknik_logo.png">(PNG, 556 KiB)</a>,
     <a href="/img/logos/piknik_logo.svg">(SVG, 24 KiB)</a>
   </li>
-  <li><a href="/img/logos/tshirt_logos.svg">Ostali logotipi za majice (ŠOU, ŠO FMF, ŠS FMF)</a>(103 KiB) </li>
+  <li><a href="/img/logos/tshirt_logos.svg">Ostali logotipi za majice (ŠOU, ŠO FMF, ŠS FMF)</a> (103 KiB) </li>
 </ul>
 
 <h2>Plakati</h2>

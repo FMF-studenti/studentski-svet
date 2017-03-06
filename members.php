@@ -10,11 +10,11 @@
 <table>
   <tr><td style="width: 220px;">Klemen Ducman,</td><td style="width:160px;"> fizika,</td><td style="width: 80px;">1. stopnja, </td><td>2. letnik</td></tr>
   <tr><td>Rok Gregorič,              </td><td> matematika,          </td><td>2. stopnja, </td><td>2. letnik</td></tr>
-  <tr><td>Gaja Guerrini,             </td><td> fizika,              </td><td>1. stopnja, </td><td>1. letnik</td></tr>
+<!-- <tr><td>Gaja Guerrini,             </td><td> fizika,              </td><td>1. stopnja, </td><td>1. letnik</td></tr> -->
   <tr><td>Ana Kregar,                </td><td> matematika,          </td><td>1. stopnja, </td><td>1. letnik</td></tr>
   <tr><td>Saša Marolt,               </td><td> matematika,          </td><td>2. stopnja, </td><td>1. letnik</td></tr>
   <tr><td>Ines Meršak,               </td><td> matematika,          </td><td>2. stopnja, </td><td>1. letnik</td></tr>
-  <tr><td>Miha Podkrajšek,           </td><td> fizika,              </td><td>1. stopnja, </td><td>2. letnik</td></tr>
+<!--  <tr><td>Miha Podkrajšek,           </td><td> fizika,              </td><td>1. stopnja, </td><td>2. letnik</td></tr> -->
   <tr><td>Jure Slak,                 </td><td> matematika,          </td><td>2. stopnja, </td><td>2. letnik</td></tr>
   <tr><td>Ana Smerdu,                </td><td> matematika,          </td><td>2. stopnja, </td><td>1. letnik</td></tr>
   <tr><td>Miha Srdinšek,             </td><td> fizika,              </td><td>1. stopnja, </td><td>3. letnik</td></tr>
@@ -25,8 +25,8 @@
 
 <h1>Vodstvo sveta</h1>
 <p><strong>Predsednik</strong> sveta je Jure Slak, <strong>podpredsednik</strong> pa je Miha Srdinšek.
-Njuna namestnika sta Ana Kregar in Miha Podkrajšek. <strong>Tajnica</strong> sveta
-je Mojca Žilavec, namestnica je Ines Meršak.<strong>Predstavnik za stike z RC</strong> je Jure Slak,
+Njuna namestnika sta Ana Kregar in Klemen Ducman. <strong>Tajnica</strong> sveta
+je Mojca Žilavec, namestnica je Ines Meršak. <strong>Predstavnik za stike z RC</strong> je Jure Slak,
 njegova namestnica je Ines Meršak.</p>
 
 <h1>Predstavniki v organih FMF</h1>
@@ -48,20 +48,20 @@ njegova namestnica je Ines Meršak.</p>
 
 <h2>Disciplinska komisija</h2>
 <ul>
-  <li>Klemen Ducman, namestnik Miha Podkrajšek</li>
+  <li>Klemen Ducman, namestnica Saša Marolt</li>
   <li>Miha Šifrer, namestnica Ana Smerdu</li>
 </ul>
 
 <h2>Komisija za etična vprašanja</h2>
 <ul>
-  <li>Gaja Guerrini, namestnik Miha Srdinšek</li>
+  <li>Saša Marolt, namestnik Miha Srdinšek</li>
   <li>Mojca Žilavec, namestnica Ana Smerdu</li>
 </ul>
 
 <h2>Komisija za kakovost</h2>
 <ul>
   <li>Miha Šifrer, namestnica Ana Smerdu</li>
-  <li>Miha Podkrajšek, namestnica Gaja Guerrini</li>
+  <li>Miha Srdinšek, namestnik Miha Srdinšek</li>
 </ul>
 
 <h2>Komisija za samoevaluacijo</h2>

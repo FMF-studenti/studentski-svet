@@ -11,16 +11,8 @@ Najbolj pomagajo tekstovna mnenja z VIS-a, zato prosimo, da jih rešujete čim
 bolj natančno. S tem imate zelo močen vpliv na kvaliteto predavanj!
 
 <h2>V postopku izvolitve so naslednji pedagoški delavci:</h2>
-<!-- <p class="smallfont">Trenutno ni v izvolitvi noben pedagoški delavec.</p> -->
-<ol>
-  <li>Aleš Mohorčič</li>
-  <li>Primož Ziherl</li>
-  <li>Jure Beričič</li>
-  <li>Karin Cvetko Vah</li>
-  <li>Nedeljka Žagar</li>
-  <li>Dejan Velušček</li>
-  <li>Andrej Petelin</li>
-  <li>Sergej Faletič</li>
+<p class="smallfont">Trenutno ni v izvolitvi noben pedagoški delavec.</p>
+<!-- <ol>
 </ol>
 <p>Za te pedagoške delavce bo Študentski svet FMF v kratkem izdelal študentsko
 mnenje, ki se upošteva pri kriteriju pedagoške usposobljenosti, kar je pogoj za
@@ -28,24 +20,43 @@ izvolitev kandidata v naziv.</p>
 <p>Če imaš kakršno koli mnenje o zgornjih delavcih, pozitivno ali negativno, ga
 lahko kadarkoli posreduješ na naslov <a href="mailto:studentski.svet@fmf.uni-lj.si">
   studentski.svet@fmf.uni-lj.si</a> ali pa oddaš v predalček Sveta na recepciji
-Oddelka za fiziko. Tvoje mnenje bo obravnavano anonimno!</p>
+Oddelka za fiziko. Tvoje mnenje bo obravnavano anonimno!</p> -->
+
+<h2 id='templates'>Predloge za mnenja</h2>
+<ul>
+  <li>Obrazec za mnenje je na voljo <a href="/dokumenti/mnenja_templates/obrazec_mnenje.pdf">tukaj</a></li>
+  <li>Obrazec za mnenje (2 strani) je na voljo <a href="/dokumenti/mnenja_templates/obrazec_mnenje_dvostransko.pdf">tukaj</a></li>
+  <li>Obrazec za mnenje z zadržkom je na voljo <a href="/dokumenti/mnenja_templates/obrazec_mnenje_z_zadrzkom.pdf">tukaj</a></li>
+  <li>Obrazec za mnenje z zadržkom (2 strani) je na voljo <a href="/dokumenti/mnenja_templates/obrazec_mnenje_z_zadrzkom_dvostransko.pdf">tukaj</a></li>
+</ul>
 
 <h2>V šolskem 2016/17 letu je SŠ FMF izdal mnenja naslednjim pedagoškim delavcem:</h2>
 <ol reversed="reversed">
-  <li>Svet še ni imel prve seje.</li>
+  <li>Daniel Svenšek</li>
+  <li>Aleš Mohorčič</li>
+  <li>Jure Beričič</li>
+  <li>Nedeljka Žagar</li>
+  <li>Dejan Velušček</li>
+  <li>Sašo Strle</li>
+  <li>Igor Klep</li>
+  <li>Matija Vidmar</li>
+  <li>Primož Ziherl</li>
+  <li>Andrej Petelin</li>
+  <li>Sergej Faletič</li>
+  <li>Damjana Kokol Bukovšek</li>
+  <li>Gregor Cigler</li>
+  <li>Janez Šter</li>
+  <li>Jasna Prezelj Perman</li>
+  <li>Jernej Fesel Kamenik</li>
+  <li>Karin Cvetko Vah</li>
+  <li>Lucijan Plevnik</li>
+  <li>Nina Ružič</li>
+  <li>Riste Škrekovski</li>
+  <li>Vlado Malačič</li>
 </ol>
 
 <h2>V šolskem 2015/16 letu je SŠ FMF izdal mnenja naslednjim pedagoškim delavcem:</h2>
 <ol reversed="reversed">
-  <li>Vlado Malačič</li>
-  <li>Nina Ružič</li>
-  <li>Jernej Fesel Kamenik</li>
-  <li>Riste Škrekovski</li>
-  <li>Jasna Prezelj Perman</li>
-  <li>Janez Šter</li>
-  <li>Gregor Cigler</li>
-  <li>Lucijan Plevnik</li>
-  <li>Damjana Kokol Bukovšek</li>
   <li>Aleš Vavpetič</li>
   <li>Miha Nemevšek</li>
   <li>Franci Bajd</li>
