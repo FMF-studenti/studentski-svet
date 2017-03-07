@@ -134,7 +134,9 @@ SVG).</p>
 
 <h2>Plakati</h2>
 <ul>
-  <li><a href="/dokumenti/plakati/hoodie_plakat.png">Matematični hoodie</a>, design: <a href="/dokumenti/plakati/hoodie_front.png">spredaj</a>, <a href="/dokumenti/plakati/hoodie_back.png">zadaj</a></li>
+  <li><a href="/dokumenti/plakati/pi_predstava2017.pdf">Reklama za predstavo Nika Škrleca "Naj gre vse v pi" 2017</a></li>
+  <li><a href="/dokumenti/plakati/pi_dan2017.pdf">Reklama za pi dan 2017</a></li>
+  <li><a href="/dokumenti/plakati/hoodie_plakat.png">Matematični hoodie</a>, design: <a href="/dokumenti/plakati/hoodie_front.png">spredaj</a>, <a href="/dokumenti/plakati/hoodie_back.png">zadaj</a>, naročila: <a href="https://goo.gl/forms/rqIna1WD8lITlKsE3">https://goo.gl/forms/rqIna1WD8lITlKsE3</a></li>
   <li><a href="/dokumenti/plakati/hashcode.pdf">Google Hash code 2017</a></li>
   <li><a href="/dokumenti/plakati/zagreb.pdf">Obisk zagrebških študentov matematike</a>, <a href="/dokumenti/zagreb_visit.zip">slike z dogodka (18 slik, 170 MB)</a></li>
   <li><a href="/dokumenti/plakati/vabilo_smrekca.png">Vabilo na okraševanje novoletne jelke</a></li>
@@ -142,11 +144,11 @@ SVG).</p>
   <li><a href="/dokumenti/plakati/ali_ves_2016_17.pdf">O dejavnostih sveta, drugič</a></li>
   <li><a href="/dokumenti/plakati/guzva_referat.pdf">Napotki za manjšo gnečo v referatu</a>
   <li><a href="/dokumenti/plakati/maraton.pdf">Skupinska prijava na Ljubljanski maraton</a>. Pripadajoča <a href="/ljm">stran</a></li>
-  <li><a href="/dokumenti/plakati/pi_predstava.pdf">Reklama za predstavo Nika Škrleca o Pi-ju</a></li>
+  <li><a href="/dokumenti/plakati/pi_predstava.pdf">Reklama za predstavo Nika Škrleca o Pi-ju 2016</a></li>
   <li><a href="/dokumenti/plakati/mafijski_piknik_after.pdf">Reklama za after party</a></li>
   <li><a href="/dokumenti/plakati/mafijski_piknik_prostovoljci.pdf">Nabiranje prostovoljcev za piknik</a></li>
   <li><a href="/dokumenti/plakati/mafijski_piknik.pdf">Mafijksi piknik</a></li>
-  <li><a href="/dokumenti/plakati/pi_dan.pdf">Reklama za pi dan</a></li>
+  <li><a href="/dokumenti/plakati/pi_dan.pdf">Reklama za pi dan 2016</a></li>
   <li><a href="/dokumenti/plakati/kenguru.pdf">Kenguru za študente</a></li>
   <li><a href="/dokumenti/plakati/mafijska_majica.pdf">Natečaj za majico za Mafijski piknik</a></li>
   <li><a href="/dokumenti/plakati/ankete.pdf">O anketah na VIS-u in FMF-ju</a></li>
