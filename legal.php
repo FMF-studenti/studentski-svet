@@ -161,6 +161,7 @@ SVG).</p>
 
 <h2>Razno</h2>
 <ul>
+  <li><a href="/dokumenti/navodila_za_vezanje.pdf">Navodila za uporabo stroja za vezanje v tutorski klepetalnici</a></li>
   <li><a href="/dokumenti/poziv_lgbt.pdf">Poziv FMF za pridobitev certifikata</a> <a href="http://www.ljubljana.si/si/zivljenje-v-ljubljani/lgbt/">LGBT prijazno</a></li>
   <li><a href="/dokumenti/kobal.pdf">Uradno mnenje ŠS FMF glede elektronskega sporočila doc. Kobala</a></li>
   <li><a href="/dokumenti/poziv_mafija.pdf">Poziv k ureditvi kavarne Mafija tako, da bo tam mogoče dobiti obrok s študentskimi boni</a></li>
