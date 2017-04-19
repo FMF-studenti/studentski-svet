@@ -47,6 +47,7 @@
   <li>Zapisnik 3. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/3_seja.pdf">tukaj</a></li>
   <li>Zapisnik 4. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/4_seja.pdf">tukaj</a></li>
   <li>Zapisnik 5. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/5_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 6. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/6_seja.pdf">tukaj</a></li>
 </ul>
 
 <h2 id='templates'>Predloge za mnenja</h2>
