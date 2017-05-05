@@ -137,6 +137,8 @@ SVG).</p>
 
 <h2>Plakati</h2>
 <ul>
+  <li><a href="/dokumenti/plakati/mafijski_piknik_prostovoljci2017.pdf">Nabiranje prostovoljcev za piknik 2017</a></li>
+  <li><a href="/dokumenti/plakati/mafijski_piknik2017.pdf">Mafijksi piknik 2017</a></li>
   <li><a href="/dokumenti/plakati/mafijska_majica2017.pdf">Natečaj za majico za Mafijski piknik 2017</a></li>
   <li><a href="/dokumenti/plakati/pi_predstava2017.pdf">Reklama za predstavo Nika Škrleca "Naj gre vse v pi" 2017</a></li>
   <li><a href="/dokumenti/plakati/pi_dan2017.pdf">Reklama za pi dan 2017</a></li>
@@ -150,8 +152,8 @@ SVG).</p>
   <li><a href="/dokumenti/plakati/maraton.pdf">Skupinska prijava na Ljubljanski maraton</a>. Pripadajoča <a href="/ljm">stran</a></li>
   <li><a href="/dokumenti/plakati/pi_predstava.pdf">Reklama za predstavo Nika Škrleca o Pi-ju 2016</a></li>
   <li><a href="/dokumenti/plakati/mafijski_piknik_after.pdf">Reklama za after party</a></li>
-  <li><a href="/dokumenti/plakati/mafijski_piknik_prostovoljci.pdf">Nabiranje prostovoljcev za piknik</a></li>
-  <li><a href="/dokumenti/plakati/mafijski_piknik.pdf">Mafijksi piknik</a></li>
+  <li><a href="/dokumenti/plakati/mafijski_piknik_prostovoljci.pdf">Nabiranje prostovoljcev za piknik 2016</a></li>
+  <li><a href="/dokumenti/plakati/mafijski_piknik.pdf">Mafijksi piknik 2016</a></li>
   <li><a href="/dokumenti/plakati/pi_dan.pdf">Reklama za pi dan 2016</a></li>
   <li><a href="/dokumenti/plakati/kenguru.pdf">Kenguru za študente</a></li>
   <li><a href="/dokumenti/plakati/mafijska_majica.pdf">Natečaj za majico za Mafijski piknik</a></li>
