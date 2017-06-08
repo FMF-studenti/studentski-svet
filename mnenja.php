@@ -13,8 +13,10 @@ bolj natančno. S tem imate zelo močen vpliv na kvaliteto predavanj!
 <h2>V postopku izvolitve so naslednji pedagoški delavci:</h2>
 <!--  <p class="smallfont">Trenutno ni v izvolitvi noben pedagoški delavec.</p> -->
 <ol>
-  <li>Rok Žitnik</li>
-  <li>Nika Novak</li>
+  <li>Gregor Dolinar</li>
+  <li>Martin Horvat</li>
+  <li>Miha Ravnik</li>
+  <li>Andrija Volkanovski</li>
 </ol>
 <p>Za te pedagoške delavce bo Študentski svet FMF v kratkem izdelal študentsko
 mnenje, ki se upošteva pri kriteriju pedagoške usposobljenosti, kar je pogoj za
@@ -27,14 +29,25 @@ Oddelka za fiziko. Tvoje mnenje bo obravnavano anonimno!</p>
 <h2 id='templates'>Predloge za mnenja</h2>
 <ul>
   <li>Obrazec za mnenje je na voljo <a href="/dokumenti/mnenja_templates/obrazec_mnenje.pdf">tukaj</a></li>
-  <li>Obrazec za mnenje (2 strani) je na voljo <b>fixme</b> <a href="/dokumenti/mnenja_templates/obrazec_mnenje_dvostransko.pdf">tukaj</a></li>
+  <li>Obrazec za mnenje (2 strani) je na voljo <a href="/dokumenti/mnenja_templates/obrazec_mnenje_dvostransko.pdf">tukaj</a></li>
   <li>Obrazec za mnenje z zadržkom je na voljo <a href="/dokumenti/mnenja_templates/obrazec_mnenje_z_zadrzkom.pdf">tukaj</a></li>
   <li>Obrazec za mnenje z zadržkom (2 strani) je na voljo <a href="/dokumenti/mnenja_templates/obrazec_mnenje_z_zadrzkom_dvostransko.pdf">tukaj</a></li>
 </ul>
 
 <h2>V šolskem 2016/17 letu je SŠ FMF izdal mnenja naslednjim pedagoškim delavcem:</h2>
 <ol reversed="reversed">
+  <li>Matej Pregelj</li>
+  <li>Miha Mihovilovič</li>
+  <li>Miloš Borovšak</li>
+  <li>Nika Novak</li>
+  <li>Rok Žitnik</li>
+  <li>Jan Grošelj</li>
+  <li>Katarina Kosovelj</li>
+  <li>Ambrož Kregar</li>
+  <li>Blaž Jelenc</li>
+  <li>Emil Polajnar</li>
   <li>Marko Medenjak</li>
+  <li>Pavle Saksida</li>
   <li>Mitja Krnel</li>
   <li>Daniel Svenšek</li>
   <li>Aleš Mohorčič</li>

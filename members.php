@@ -37,6 +37,11 @@ njegova namestnica je Ines Meršak.</p>
   <li>Ines Meršak, namestnica Ana Kregar</li>
 </ul>
 
+<h2>UO (upravni odbor) FMF</h2>
+<ul>
+  <li>Klemen Ducman, namestnik Miha Srdinšek</li>
+</ul>
+
 <h2>ZPS (znanstveno pedagoški svet)</h2>
 <ul>
   <li>Oddelek za matematiko: Rok Gregorič, namestnica Ana Smerdu</li>
@@ -55,7 +60,7 @@ njegova namestnica je Ines Meršak.</p>
 <h2>Komisija za etična vprašanja</h2>
 <ul>
   <li>Saša Marolt, namestnik Miha Srdinšek</li>
-  <li>Mojca Žilavec, namestnica Ana Smerdu</li>
+<!--  <li>Mojca Žilavec, namestnica Ana Smerdu</li> -->
 </ul>
 
 <h2>Komisija za kakovost</h2>
