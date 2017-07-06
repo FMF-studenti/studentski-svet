@@ -17,6 +17,8 @@ bolj natančno. S tem imate zelo močen vpliv na kvaliteto predavanj!
   <li>Martin Horvat</li>
   <li>Miha Ravnik</li>
   <li>Andrija Volkanovski</li>
+  <li>Alen Orbanič</li>
+  <li>Žiga Virk</li>
 </ol>
 <p>Za te pedagoške delavce bo Študentski svet FMF v kratkem izdelal študentsko
 mnenje, ki se upošteva pri kriteriju pedagoške usposobljenosti, kar je pogoj za

@@ -45,7 +45,20 @@
 <!--
   <p>Trenutno v postopku izvolitve ni pedagoških delavcev. <a href="/mnenja">Več...<a></p>
 -->
-  <p>Trenutno so v postopku izvolitve <strong>4</strong> pedagoški delavci. <a href="/mnenja">Več...<a></p>
+<?php
+    $izv = 6;
+    if ($izv == 0) {
+        echo "<p>Trenutno v postopku izvolitve ni pedagoških delavcev. <a href='/mnenja'>Več...<a></p>";
+    } else if ($izv % 100 == 1) {
+        echo "<p>Trenutno je v postopku izvolitve <b>$izv</b> pedagoški delavec. <a href='/mnenja'>Več...<a></p>";
+    } else if ($izv % 100 == 2) {
+        echo "<p>Trenutno sta v postopku izvolitve <b>$izv</b> pedagoška delavca. <a href='/mnenja'>Več...<a></p>";
+    } else if ($izv % 100 == 3 || $izv % 100 == 4) {
+        echo "<p>Trenutno so v postopku izvolitve <b>$izv</b> pedagoški delavci. <a href='/mnenja'>Več...<a></p>";
+    } else {
+        echo "<p>Trenutno je v postopku izvolitve <b>$izv</b> pedagoških delavcev. <a href='/mnenja'>Več...<a></p>";
+    }
+?>
   </div>
 </div>
 
