@@ -1,7 +1,7 @@
 <?php require_once('header.php'); ?>
 
 <div id="title">
-  <h1>Ljubljanski maraton 2016</h1>
+  <h1>Ljubljanski maraton 2017</h1>
 </div>
 
 <h2>Skupinska prijava</h2>
@@ -22,7 +22,7 @@ potrdila) ne bo mogoče.  </p>
 
 <p>Za prijavo:</p>
 <ul>
-  <li>Izpolni <a href='http://goo.gl/forms/vupaeaVegefgUkqK2'>anketo</a> z osebnimi podatki za prijavo (uporabili jih bomo samo za prijavo).</li>
+  <li>Izpolni <a href='https://goo.gl/m3We2k'>anketo</a> z osebnimi podatki za prijavo (uporabili jih bomo samo za prijavo).</li>
   <li>Greti Forster prinesi štartnino na recepcijo Jadranske 19.  Denar lahko pustiš tudi pri katerem drugem vratarju na fiziki, vendar naj bo jasno za kaj gre.</li>
 </ul>
 
