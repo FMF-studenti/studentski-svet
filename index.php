@@ -46,7 +46,7 @@
   <p>Trenutno v postopku izvolitve ni pedagoških delavcev. <a href="/mnenja">Več...<a></p>
 -->
 <?php
-    $izv = 0;
+    $izv = 9;
     if ($izv == 0) {
         echo "<p>Trenutno v postopku izvolitve ni pedagoških delavcev. <a href='/mnenja'>Več...<a></p>";
     } else if ($izv % 100 == 1) {
