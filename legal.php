@@ -51,6 +51,7 @@
   <li>Zapisnik 7. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/7_seja.pdf">tukaj</a></li>
   <li>Zapisnik 8. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/8_seja.pdf">tukaj</a></li>
   <li>Zapisnik 9. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/9_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 1. izredne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/1_izredna_seja.pdf">tukaj</a></li>
 </ul>
 
 <h2 id='templates'>Predloge za mnenja</h2>
