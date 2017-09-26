@@ -50,7 +50,7 @@
   <li>Zapisnik 6. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/6_seja.pdf">tukaj</a></li>
   <li>Zapisnik 7. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/7_seja.pdf">tukaj</a></li>
   <li>Zapisnik 8. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/8_seja.pdf">tukaj</a></li>
-  <li>Zapisnik 9. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/9_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 9. redne seje (1. dopisne) je na voljo <a href="/dokumenti/zapisniki/2016_17/9_seja.pdf">tukaj</a></li>
   <li>Zapisnik 1. izredne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/1_izredna_seja.pdf">tukaj</a></li>
 </ul>
 
