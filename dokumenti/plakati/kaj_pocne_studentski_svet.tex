@@ -1,0 +1,148 @@
+\documentclass[a4paper,oneside,12pt]{article}
+
+\usepackage[slovene]{babel}    % slovenian language and hyphenation
+\usepackage[utf8]{inputenc}    % make čšž work on input
+\usepackage[T1]{fontenc}       % make čšž work on output
+\usepackage[reqno]{amsmath}    % basic ams math environments and symbols
+\usepackage{amssymb,amsthm}    % ams symbols and theorems
+\usepackage{mathtools}         % extends ams with arrows and stuff
+\usepackage{url}               % \url and \href for links
+\usepackage{icomma}            % make comma a thousands separator with correct spacing
+\usepackage{units}             % \unit[1]{m} and unitfrac
+\usepackage{enumerate}         % enumerate style
+\usepackage{array}             % mutirow
+\usepackage[usenames]{color}   % colors with names
+\usepackage{graphicx}          % images
+
+\usepackage[bookmarks, colorlinks=true, linkcolor=black, anchorcolor=black,
+  citecolor=black, filecolor=black, menucolor=black, runcolor=black,
+  urlcolor=black, pdfencoding=unicode]{hyperref}  % clickable references, pdf toc
+\usepackage[
+  paper=a4paper,
+  top=2.5cm,
+  bottom=2.5cm,
+  left=2.5cm,
+  right=2.5cm
+% textheight=24cm,
+]{geometry}  % page geomerty
+
+\newtheorem{izrek}{Izrek}
+\newtheorem{posledica}{Posledica}
+
+\theoremstyle{definition}
+\newtheorem{definicija}{Definicija}
+\newtheorem{opomba}{Opomba}
+\newtheorem{zgled}{Zgled}
+
+% basic sets
+\newcommand{\R}{\ensuremath{\mathbb{R}}}
+\newcommand{\N}{\ensuremath{\mathbb{N}}}
+\newcommand{\Z}{\ensuremath{\mathbb{Z}}}
+\renewcommand{\C}{\ensuremath{\mathbb{C}}}
+\newcommand{\Q}{\ensuremath{\mathbb{Q}}}
+\newcommand{\T}{\ensuremath{\mathsf{T}}}
+
+% greek letters
+\let\oldphi\phi
+\let\oldtheta\theta
+\newcommand{\eps}{\varepsilon}
+\renewcommand{\phi}{\varphi}
+\renewcommand{\theta}{\vartheta}
+
+% vektorska analiza
+\newcommand{\grad}{\operatorname{grad}}
+\newcommand{\rot}{\operatorname{rot}}
+\renewcommand{\div}{\operatorname{div}}
+
+% lists with less vertical space
+\newenvironment{itemize*}{\vspace{-1.5\parskip}\begin{itemize}\setlength{\itemsep}{0pt}\setlength{\parskip}{2pt}}{\end{itemize}\vspace{-1\parskip}}
+\newenvironment{enumerate*}{\vspace{-1.5\parskip}\begin{enumerate}\setlength{\itemsep}{0pt}\setlength{\parskip}{2pt}}{\end{enumerate}\vspace{-1\parskip}}
+\newenvironment{description*}{\vspace{-6pt}\begin{description}\setlength{\itemsep}{0pt}\setlength{\parskip}{2pt}}{\end{description}\vspace{-1\parskip}}
+
+\newcommand{\Title}{Kaj počne študentski svet?}
+\newcommand{\Author}{Jure Slak}
+\title{\Title}
+\author{\Author}
+\date{\today}
+\hypersetup{pdftitle={\Title}, pdfauthor={\Author}, pdfcreator={\Author},
+            pdfproducer={\Author}, pdfsubject={}, pdfkeywords={}}  % setup pdf metadata
+
+\pagestyle{empty}              % vse strani prazne
+\setlength{\parindent}{0pt}    % zamik vsakega odstavka
+\setlength{\parskip}{10pt}     % prazen prostor po odstavku
+\setlength{\overfullrule}{30pt}  % oznaci predlogo vrstico z veliko črnine
+
+\begin{document}
+
+% \thispagestyle{empty}  % ta stran prazna
+
+\section*{Kaj dela Študentski svet?}
+
+Študentski svet je organ študentov v okviru fakultete. Je edini organ, ki uradno predstavlja
+študente znotraj fakultete in univerze. Sestavlja ga 9 do 13 štedntov, ki se volijo letno,
+sodelovanje pa je prostovoljno (brez plačila). Je predvsem administrativen organ, ki se ukvarja s
+tekočimi študijskimi zadevami. Med najpomembnejše sodijo:
+\begin{itemize}
+  \item pisanje mnenj ob izvolitvah pedagoških delavcev
+  \item obravnavanje predlogov in pritožb študentov glede študija ali pedagoških delavcev
+\end{itemize}
+
+\textbf{Študentski svet je na fakulteti zaradi študentov. Vsak študent se lahko na ŠS obrne s
+kakršno koli težavo ali vprašanjem študijske ali socialne narave. Obravnavali ga bomo resno in
+svetovali po najboljših močeh ter ga po potrebi usmerili na drug bolj primeren organ ali osebo.}
+
+Elektronski naslov Sveta je \texttt{studentski.svet@fmf.uni-lj.si} uradna spletna stran pa
+\texttt{svet.fmf.si}.
+
+\subsection*{Pozicije znotraj Sveta}
+\begin{description*}
+  \item[Predsednik ŠS FMF] skrbi za nemoteno delovanje Sveta. Vodi seje in dodeljuje tekoče naloge
+    drugim članom. Prevzema odgovornost za komunikacijo z vodstvom fakultete in predstavlja
+    študentski svet. Običajno pozicija letno alternira med matematiki in fiziki.
+  \item[Podpredsednik ŠS FMF] nadomešča predsednika v njegovi odsotnosti in mu pomaga pri tekočih
+    zadevah. Običajno je iz nasprotnega oddelka kot predsednik in skrbi za zadeve, ki se tičejo
+    njegovega oddelka.
+  \item[Tajnik ŠS FMF] zapisuje dogajanje med sejami in pripravi zapisnik sej Sveta. Skrbi za
+    natančen povzetek sej sveta in njihovo objavo ter posredno za dobro obveščenost študentov.
+  \item[Predstavnik za stike z RC] skrbi za spletno stran in elektronski naslov Sveta ter ostalo
+    informacijsko podporo s pomočjo RC FMF.
+  \item[Komisija za študentska mnenja] piše študentska mnenja o profesorjih in asistentih ob
+    izvolitvah s pomočjo študentskih anket. Za uspešno izvolitev mora pedagoški delavec dobiti
+    pozitivno študentsko mnenje. V primeru negativnega mnenja ŠS z vodstvom fakultete in
+    obravnavanim kandidatom izvede sestanek in sprejme ukrepe za njegovo izboljšanje.
+  \item[Predstavniki letnikov] so študenti vseh letnikov vsakega programa na fakulteti. Vsak letnik
+    izbere svojega predstavnika in ga prek vodstva fakultete posreduje ŠS FMF. ŠS preko
+    predstavnikov letnikov sporoča pomembne informacije vsem študentov ali pa dobiva informacije o
+    posameznih študijskih programih ali pa se pozanima o kvaliteti izvajanja predavanj ali vaj pri
+    določenem profesorju ali asistentu.
+\end{description*}
+
+\subsection*{Predstavniki v organih FMF}
+\begin{description*}
+  \item[Senat FMF] je najvišji organ fakultete in ima zaključne odločitve pri tekočih izvolitvah,
+    spremembah programov in ostalih tekočih zadevah. ŠS ima v senatu 3 predstavnike. Senat se
+    sestaja mesečno.
+  \item[Upravni odbor FMF] se odloča o finančnih zadevah fakultete, med drugim o cenah storitev, ki
+    vplivajo na študente. ŠS ima v UO 1 prestavnika.
+  \item[Znanstevno pedagoški svet] na vsakem oddelku posebej odloča o raziskovalnih in pedagoških
+    zadevah, npr.~izvolitvah, spremembah programov ipd. Sestaja se mesečno, odločitve se posredujejo
+    senatu FMF.  ŠS ima v vsakem ZPS po 1 predstavnika.
+  \item[Akademski zbor] je zbor vseh pedagoških delavcev, ki se sestanejo enkrat letno in dajejo
+    predloge in pobude senatu. Prav tako se izraža podporo kandidatom za dekana ob volitvah. ŠS ima
+    v akademskem zboru 20 predstavnikov.
+  \item[Disciplinska komisija] se sestane kadar pride do goljufij pri preverjanju znanja ali pri
+    drugih kršitvah pravilnika s strani študentov. ŠS ima v disciplinski komisiji 2 predstavnika.
+  \item[Komisija za etična vprašanja] se sestane v primeru etičnih vprašanj glede raziskovalnega ali
+    pedagoškega dela. ŠS ima v njej enega predstavnika.
+  \item[Komisija za kakovost] se sestane skupaj z Nacionalno agencijo RS za kakovost v visokem
+    šolstvu ob ponovni akreditaciji študijskih programov. Običajno se poleg članov Sveta sestanejo
+    tudi s študenti študijskih programov v obravnavi.
+  \item[Komisija za samoevaluacijo] pripravlja notranje poročilo o kakovosti fakultete in njenega
+    delovanja. ŠS ima v njej 2 predstavnika, sestanki pa so zelo redki.
+\end{description*}
+
+\end{document}
+% vim: syntax=tex
+% vim: spell spelllang=sl
+% vim: foldlevel=99
+% Latex template: Jure Slak, jure.slak@gmail.com
