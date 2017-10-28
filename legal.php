@@ -18,8 +18,8 @@
   <li><a href="/dokumenti/poslovnik-star.pdf" target="_blank">
     Poslovnik ŠS FMF (star)</a></li>
 -->
-  <li><a href="http://www.uni-lj.si/o_univerzi_v_ljubljani/organi_in_vodstvo/studentski_svet/dokumenti/akti_pravilniki_in_poslovniki.aspx" target="_blank">
-    Poslovnik ŠS UL</li>
+  <li><a href="http://www.uni-lj.si/o_univerzi_v_ljubljani/organizacija__pravilniki_in_porocila/organi_univerze/studentski_svet/dokumenti/akti__pravilniki_in_poslovniki/">
+    Poslovnik ŠS UL</a></li>
 </ul>
 
 <h2>Temeljni akti Univerze in ostali pravilniki</h2>

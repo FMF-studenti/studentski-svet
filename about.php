@@ -9,6 +9,12 @@ se zavzemamo za študente, vas vabimo, da prebrskate našo spletno stran. Upamo
 in želimo, da bomo na ta način delo ŠS približali študentom, saj je ustanovljen
 predvsem in ravno zaradi njih.</p>
 
+<p><strong>Vsak študent se lahko na
+ŠS obrne s kakršno koli težavo ali vprašanjem študijske ali socialne narave.
+Obravnavali ga bomo resno in svetovali po najboljših močeh ter ga po potrebi
+usmerili na drug bolj primeren organ ali osebo.</strong> Naslov sveta je <a
+href="mailto:studentski.svet@fmf.uni-lj.si">studentski.svet@fmf.uni-lj.si</a>.</p>
+
 <p>Prva vprašanja, ki se porajajo študentom ob omembi ŠS, so navadno naslednja:
 &raquo;Kaj pa je to? Kaj pa tam delajo? A ima sploh kakšen namen? ... &laquo;
 Začnimo lepo po vrsti.</p>

@@ -11,19 +11,9 @@ Najbolj pomagajo tekstovna mnenja z VIS-a, zato prosimo, da jih rešujete čim
 bolj natančno. S tem imate zelo močen vpliv na kvaliteto predavanj!
 
 <h2>V postopku izvolitve so naslednji pedagoški delavci:</h2>
-<!--
 <p class="smallfont">Trenutno ni v obravnavi nobenega pedagoškega delavca.</p>
--->
+<!--
 <ol>
-    <li>Gregor Posnjak</li>
-    <li>Jure Aplinc</li>
-    <li>Matija Milanič</li>
-    <li>Emil Žagar</li>
-    <li>Gregor Kladnik</li>
-    <li>Rok Hren</li>
-    <li>Jaka Mur</li>
-    <li>Gašper Jaklič</li>
-    <li>Klemen Bucar</li>
 </ol>
 <p>Za te pedagoške delavce bo Študentski svet FMF v kratkem izdelal študentsko
 mnenje, ki se upošteva pri kriteriju pedagoške usposobljenosti, kar je pogoj za
@@ -32,6 +22,7 @@ izvolitev kandidata v naziv.</p>
 lahko kadarkoli posreduješ na naslov <a href="mailto:studentski.svet@fmf.uni-lj.si">
   studentski.svet@fmf.uni-lj.si</a> ali pa oddaš v predalček Sveta na recepciji
 Oddelka za fiziko. Tvoje mnenje bo obravnavano anonimno!</p>
+-->
 
 <h2 id='templates'>Predloge za mnenja</h2>
 <ul>
@@ -43,11 +34,21 @@ Oddelka za fiziko. Tvoje mnenje bo obravnavano anonimno!</p>
 
 <h2>V šolskem 2016/17 letu je SŠ FMF izdal mnenja naslednjim pedagoškim delavcem:</h2>
 <ol reversed="reversed">
-    <li>Anton Gradišek</li>
+  <li>Miha Mihovilovič</li>
+  <li>Gregor Posnjak</li>
+  <li>Jure Aplinc</li>
+  <li>Matija Milanič</li>
+  <li>Emil Žagar</li>
+  <li>Gregor Kladnik</li>
+  <li>Rok Hren</li>
+  <li>Jaka Mur</li>
+  <li>Gašper Jaklič</li>
+  <li>Klemen Bucar</li>
+  <li>Anton Gradišek</li>
   <li>Gregor Dolinar</li>
   <li>Martin Horvat</li>
   <li>Miha Ravnik</li>
-    <li>Peter Jeglič</li>
+  <li>Peter Jeglič</li>
   <li>Andrija Volkanovski</li>
   <li>Alen Orbanič</li>
   <li>Žiga Virk</li>
