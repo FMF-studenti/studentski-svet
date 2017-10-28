@@ -63,6 +63,14 @@
   <li>Obrazec za mnenje z zadržkom (2 strani) je na voljo <a href="/dokumenti/mnenja_templates/obrazec_mnenje_z_zadrzkom_dvostransko.pdf">tukaj</a></li>
 </ul>
 
+<h2>Obrazci za volitve</h2>
+<ul>
+  <li>Obrazec za kandidaturo v na volitvah v Študentski svet <a href="/dokumenti/obrazec_kandidatura.pdf">(pdf)</a>,
+      <a href="/dokumenti/obrazec_kandidatura.tex">(tex)</a></li>
+  <li>Potrdilo o oddani kandidaturi <a href="/dokumenti/potrdilo_o_kandidaturi.pdf">(pdf)</a>,
+      <a href="/dokumenti/potrdilo_o_kandidaturi.tex">(tex)</a></li>
+</ul>
+
 <h2 id='logos'>Logotipi sveta</h2>
 <p>Spodaj so povezave na vse uradne logotipe, kot jih je potrdil svet na 9. redni seji v letu 2015/16.</p>
 
