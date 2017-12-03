@@ -42,17 +42,7 @@
 
 <h2>Zapisniki s sej sveta</h2>
 <ul>
-  <li>Zapisnik 1. redne (konstitutivne) seje je na voljo <a href="/dokumenti/zapisniki/2016_17/1_seja.pdf">tukaj</a></li>
-  <li>Zapisnik 2. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/2_seja.pdf">tukaj</a></li>
-  <li>Zapisnik 3. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/3_seja.pdf">tukaj</a></li>
-  <li>Zapisnik 4. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/4_seja.pdf">tukaj</a></li>
-  <li>Zapisnik 5. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/5_seja.pdf">tukaj</a></li>
-  <li>Zapisnik 6. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/6_seja.pdf">tukaj</a></li>
-  <li>Zapisnik 7. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/7_seja.pdf">tukaj</a></li>
-  <li>Zapisnik 8. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/8_seja.pdf">tukaj</a></li>
-  <li>Zapisnik 9. redne seje (1. dopisne) je na voljo <a href="/dokumenti/zapisniki/2016_17/9_seja.pdf">tukaj</a></li>
-  <li>Zapisnik 1. izredne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/1_izredna_seja.pdf">tukaj</a></li>
-  <li>Zapisnik 10. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/10_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 1. redne (konstitutivne) seje je na voljo <a href="/dokumenti/zapisniki/2017_18/1_seja.pdf">tukaj</a></li>
 </ul>
 
 <h2 id='templates'>Predloge za mnenja</h2>
@@ -186,6 +176,21 @@ SVG).</p>
   <li><a href="/dokumenti/kobal.pdf">Uradno mnenje ŠS FMF glede elektronskega sporočila doc. Kobala</a></li>
   <li><a href="/dokumenti/poziv_mafija.pdf">Poziv k ureditvi kavarne Mafija tako, da bo tam mogoče dobiti obrok s študentskimi boni</a></li>
   <li><a href="/dokumenti/pi_recitacija.pdf">Decimalke števila pi, kot jih bodo imeli sodniki</a>, <a href="/dokumenti/pi_recitacija.tex">(tex)</a>, <a href="/dokumenti/pi_finished.txt">(data)</a></li>
+</ul>
+
+<h2>Zapisniki s sej sveta 2016/17</h2>
+<ul>
+  <li>Zapisnik 1. redne (konstitutivne) seje je na voljo <a href="/dokumenti/zapisniki/2016_17/1_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 2. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/2_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 3. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/3_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 4. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/4_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 5. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/5_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 6. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/6_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 7. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/7_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 8. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/8_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 9. redne seje (1. dopisne) je na voljo <a href="/dokumenti/zapisniki/2016_17/9_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 1. izredne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/1_izredna_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 10. redne seje je na voljo <a href="/dokumenti/zapisniki/2016_17/10_seja.pdf">tukaj</a></li>
 </ul>
 
 <h2>Zapisniki s sej sveta 2015/16</h2>
