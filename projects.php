@@ -17,7 +17,7 @@
   <li>tutorstvo</li>
   <li>karierni centri</li>
   <li>sodelovanje s podjetji</li>
-  <li>športne aktivnosti -- <a href="/ljm">prijava na Ljubljanski maraton 2016</a></li>
+  <li>športne aktivnosti -- <a href="/ljm">prijava na Ljubljanski maraton</a></li>
 </ul>
 
 <?php require_once('footer.php'); ?>
