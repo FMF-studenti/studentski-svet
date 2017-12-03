@@ -8,7 +8,7 @@
 
 <h2>Člani Študentskega sveta FMF</h2>
 <table>
-  <tr><td style="width: 220px;">Aljaž Bavec,</td><td style="width:160px;"> fizikalna merilna tehnika,</td><td style="width: 80px;">1. stopnja, </td><td>1. letnik</td></tr>
+  <tr><td style="width: 180px;">Aljaž Bavec,</td><td style="width:240px;"> fizikalna merilna tehnika,</td><td style="width: 80px;">1. stopnja, </td><td>1. letnik</td></tr>
   <tr><td>Neža Dimec,                </td><td> matematika,          </td><td>2. stopnja, </td><td>2. letnik</td></tr>
   <tr><td>Klemen Ducman,             </td><td> fizika,              </td><td>1. stopnja, </td><td>2. letnik</td></tr>
   <tr><td>Matej Janežič,             </td><td> matematika,          </td><td>1. stopnja, </td><td>1. letnik</td></tr>
