@@ -277,3 +277,15 @@ ol li {
   float: right;
   margin: 10px;
 }
+
+#footer > .email {
+  float: left;
+}
+
+#footer > .author {
+  float: right;
+}
+
+#sbmarwbthv5 {
+  clear: both;
+}

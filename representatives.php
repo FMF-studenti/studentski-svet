@@ -8,7 +8,7 @@
 
 <h2>Matematika</h2>
 <table>
-  <tr><td style="width: 180px;">Matej Janežič,</td><td style="width:240px;"> matematika,</td><td style="width: 80px;">1. stopnja, </td><td>1. letnik</td></tr>
+  <tr><td style="width: 230px;">Matej Janežič,</td><td style="width:190px;"> matematika,</td><td style="width: 90px;">1. stopnja, </td><td>1. letnik</td></tr>
   <tr><td>Katarina Koderman,             </td><td> matematika,          </td><td>1. stopnja, </td><td>2. letnik</td></tr>
   <tr><td>Ada Šadl Praprotnik,           </td><td> matematika,          </td><td>1. stopnja, </td><td>3. letnik</td></tr>
   <tr><td>Jakob Zarnik,                  </td><td>finančna matematika,  </td><td>1. stopnja, </td><td>1. letnik</td></tr>
