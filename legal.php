@@ -1,7 +1,3 @@
-
-
-
-
 <?php require_once 'header.php'; ?>
 
 <div id="title">
@@ -129,7 +125,7 @@ SVG).</p>
   </li>
 </ul>
 
-<p class='shrink-down'>Drugi logotipi:</p>
+<p class='shrink-down'>Drugi logotipi in dizajni:</p>
   <ul>
   <li>Logotip mafijskega piknika 2015/16
     <a href="/img/logos/piknik_logo.pdf">(PDF, 8 KiB)</a>,
@@ -137,6 +133,15 @@ SVG).</p>
     <a href="/img/logos/piknik_logo.svg">(SVG, 24 KiB)</a>
   </li>
   <li><a href="/img/logos/tshirt_logos.svg">Ostali logotipi za majice (ŠOU, ŠO FMF, ŠS FMF)</a> (103 KiB) </li>
+  <li>Dizajn za FMF hoodie: spredaj
+  <a href="/dokumenti/hoodie/fiz_front.eps">(fiz .eps)</a>,
+  <a href="/dokumenti/hoodie/mat_front.ai">(mat .ai)</a>,
+  <a href="/dokumenti/hoodie/mat_front.eps">(mat .eps)</a>,
+  zadaj:
+  <a href="/dokumenti/hoodie/fiz_back.eps">(fiz .eps)</a>,
+  <a href="/dokumenti/hoodie/mat_back.ai">(mat .ai)</a>,
+  <a href="/dokumenti/hoodie/mat_back.eps">(mat .eps)</a>
+  </li>
 </ul>
 
 <h2>Plakati</h2>
