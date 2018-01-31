@@ -11,9 +11,11 @@ Najbolj pomagajo tekstovna mnenja z VIS-a, zato prosimo, da jih rešujete čim
 bolj natančno. S tem imate zelo močen vpliv na kvaliteto predavanj!
 
 <h2>V postopku izvolitve so naslednji pedagoški delavci:</h2>
-<p class="smallfont">Trenutno ni v obravnavi nobenega pedagoškega delavca.</p>
-<!--
+<!--<p class="smallfont">Trenutno ni v obravnavi nobenega pedagoškega delavca.</p>-->
 <ol>
+  <li>Dean Cvetko</li>
+  <li>Boštjan Drolc</li>
+  <li>Damir Franetič</li>
 </ol>
 <p>Za te pedagoške delavce bo Študentski svet FMF v kratkem izdelal študentsko
 mnenje, ki se upošteva pri kriteriju pedagoške usposobljenosti, kar je pogoj za
@@ -22,7 +24,6 @@ izvolitev kandidata v naziv.</p>
 lahko kadarkoli posreduješ na naslov <a href="mailto:studentski.svet@fmf.uni-lj.si">
   studentski.svet@fmf.uni-lj.si</a> ali pa oddaš v predalček Sveta na recepciji
 Oddelka za fiziko. Tvoje mnenje bo obravnavano anonimno!</p>
--->
 
 <h2 id='templates'>Predloge za mnenja</h2>
 <ul>
@@ -32,7 +33,19 @@ Oddelka za fiziko. Tvoje mnenje bo obravnavano anonimno!</p>
   <li>Obrazec za mnenje z zadržkom (2 strani) je na voljo <a href="/dokumenti/mnenja_templates/obrazec_mnenje_z_zadrzkom_dvostransko.pdf">tukaj</a></li>
 </ul>
 
-<h2>V šolskem 2016/17 letu je SŠ FMF izdal mnenja naslednjim pedagoškim delavcem:</h2>
+<h2>V šolskem 2017/18 letu je ŠS FMF izdal mnenja naslednjim pedagoškim delavcem:</h2>
+<ol reversed="reversed">
+  <li>Andrej Mihelič</li>
+  <li>Mojca Vilfan</li>
+  <li>Žiga Kos</li>
+  <li>Gregor Skačej</li>
+  <li>Tilen Marc</li>
+  <li>Matej Praprotnik</li>
+  <li>Damijan Škrk</li>
+  <li>Matjaž Vencelj</li>
+</ol>
+
+<h2>V šolskem 2016/17 letu je ŠS FMF izdal mnenja naslednjim pedagoškim delavcem:</h2>
 <ol reversed="reversed">
   <li>Miha Mihovilovič</li>
   <li>Gregor Posnjak</li>
@@ -89,7 +102,7 @@ Oddelka za fiziko. Tvoje mnenje bo obravnavano anonimno!</p>
   <li>Vlado Malačič</li>
 </ol>
 
-<h2>V šolskem 2015/16 letu je SŠ FMF izdal mnenja naslednjim pedagoškim delavcem:</h2>
+<h2>V šolskem 2015/16 letu je ŠS FMF izdal mnenja naslednjim pedagoškim delavcem:</h2>
 <ol reversed="reversed">
   <li>Aleš Vavpetič</li>
   <li>Miha Nemevšek</li>

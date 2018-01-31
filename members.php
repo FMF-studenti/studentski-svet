@@ -3,7 +3,7 @@
 ?>
 
 <div id="title">
-  <h1>Člani Študentskega sveta FMF v študijskem letu 2015/16</h1>
+  <h1>Člani Študentskega sveta FMF v študijskem letu 2017/18</h1>
 </div>
 
 <h2>Člani Študentskega sveta FMF</h2>
@@ -39,9 +39,13 @@ informacijsko podporo s pomočjo RC FMF.
 </p>
 
 <p><strong>Predsednik</strong> sveta je Klemen Ducman, <strong>podpredsednica</strong> pa je Ines
-Meršak.  Njuna namestnika sta aljaž Bavec in Ana Kregar. <strong>Tajnik</strong> sveta je Matej
+Meršak.  Njuna namestnika sta Aljaž Bavec in Ana Kregar. <strong>Tajnik</strong> sveta je Matej
 Janežič, namestnica je Neža Dimec. <strong>Skrbnik informacijske tehnologije</strong> je Ines
 Meršak, njena pomočnika sta Neža Dimec in Jure Slak.</p>
+
+<h1>Predstavniki letnikov</h1>
+<p>ŠS pomembne novice vsakemu programu posebej sporoča prek predstavnikov letnikov. Seznam teh je na voljo 
+<a href="/representatives">tukaj</a>.
 
 <h1>Predstavniki v organih FMF</h1>
 <h2>Senat FMF</h2>
@@ -70,7 +74,7 @@ senatu FMF.  Predstavnika študentov: </p>
   <li>Oddelek za fiziko: Teo Trifkovič, namestnik Aljaž Bavec</li>
 </ul>
 
-<h2>Komisija za študenstka mnenja</h2>
+<h2>Komisija za študentska mnenja</h2>
 <p>Komisija za študentska mnenja piše študentska mnenja o profesorjih in asistentih ob izvolitvah s
 pomočjo študentskih anket. Za uspešno izvolitev mora pedagoški delavec dobiti pozitivno študentsko
 mnenje. V primeru negativnega mnenja ŠS z vodstvom fakultete in obravnavanim kandidatom izvede
