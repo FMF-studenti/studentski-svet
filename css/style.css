@@ -278,14 +278,10 @@ ol li {
   margin: 10px;
 }
 
-#footer > .email {
+#footer > span.email {
   float: left;
 }
 
-#footer > .author {
+#footer > span.author {
   float: right;
-}
-
-#sbmarwbthv5 {
-  clear: both;
 }
