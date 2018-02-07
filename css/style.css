@@ -285,3 +285,7 @@ ol li {
 #footer > span.author {
   float: right;
 }
+
+#footer > br.clear {
+  clear: both;
+}
