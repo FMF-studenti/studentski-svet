@@ -109,7 +109,7 @@ ob ponovni akreditaciji študijskih programov. Običajno se poleg članov Sveta 
 <h1>Člani organov in komisij senata Univerze v Ljubljani</h1>
 <h2>Člani Študentskega sveta Univerze v Ljubljani</h2>
 <ul>
-  <li>Klemen Ducman, namestnik AljaŽ Bavec</li>
+  <li>Klemen Ducman, namestnik Aljaž Bavec</li>
   <li>Ines Meršak, namestnica Ana Kregar</li>
 </ul>
 

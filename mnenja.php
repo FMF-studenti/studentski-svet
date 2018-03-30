@@ -14,8 +14,7 @@ bolj natančno. S tem imate zelo močen vpliv na kvaliteto predavanj!
 <!--<p class="smallfont">Trenutno ni v obravnavi nobenega pedagoškega delavca.</p>-->
 <ol>
   <li>Dean Cvetko</li>
-  <li>Boštjan Drolc</li>
-  <li>Damir Franetič</li>
+  <li>Aljaž Čufar</li>
 </ol>
 <p>Za te pedagoške delavce bo Študentski svet FMF v kratkem izdelal študentsko
 mnenje, ki se upošteva pri kriteriju pedagoške usposobljenosti, kar je pogoj za
@@ -35,6 +34,12 @@ Oddelka za fiziko. Tvoje mnenje bo obravnavano anonimno!</p>
 
 <h2>V šolskem 2017/18 letu je ŠS FMF izdal mnenja naslednjim pedagoškim delavcem:</h2>
 <ol reversed="reversed">
+  <li>Barbara Ikica</li>
+  <li>Gregor Šega</li>
+  <li>Andrej Muhič</li>
+  <li>Rok Dolenec</li>
+  <li>Stanislav Vrtnik</li>
+  <li>Damir Franetič</li>
   <li>Andrej Mihelič</li>
   <li>Mojca Vilfan</li>
   <li>Žiga Kos</li>

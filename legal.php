@@ -39,6 +39,9 @@
 <h2>Zapisniki s sej sveta</h2>
 <ul>
   <li>Zapisnik 1. redne (konstitutivne) seje je na voljo <a href="/dokumenti/zapisniki/2017_18/1_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 2. redne seje je na voljo <a href="/dokumenti/zapisniki/2017_18/2_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 3. redne seje je na voljo <a href="/dokumenti/zapisniki/2017_18/3_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 4. redne seje je na voljo <a href="/dokumenti/zapisniki/2017_18/4_seja.pdf">tukaj</a></li>
 </ul>
 
 <h2 id='templates'>Predloge za mnenja</h2>

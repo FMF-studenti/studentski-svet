@@ -12,7 +12,7 @@
   <li>reševanje študentskih problemov (neprijazni profesorji, preobremenjenost, pitna voda &hellip;)</li>
   <li>skupaj s ŠO FMF organiziramo Mafijski piknik, pi dan, novoletno stojnico, &hellip; </li>
 </ul>
-<h2>Zunanji projekti pri katerih sodelujemo</h2>
+<h2>Zunanji projekti, pri katerih sodelujemo</h2>
 <ul>
   <li>tutorstvo</li>
   <li>karierni centri</li>
