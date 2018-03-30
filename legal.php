@@ -156,7 +156,7 @@ SVG).</p>
   <li><a href="/dokumenti/plakati/mafijska_majica2017.pdf">Natečaj za majico za Mafijski piknik 2017</a></li>
   <li><a href="/dokumenti/plakati/pi_predstava2017.pdf">Reklama za predstavo Nika Škrleca "Naj gre vse v pi" 2017</a></li>
   <li><a href="/dokumenti/plakati/pi_dan2017.pdf">Reklama za pi dan 2017</a></li>
-  <li><a href="/dokumenti/plakati/hoodie_plakat.png">Matematični hoodie</a>, design: <a href="/dokumenti/plakati/hoodie_front.png">spredaj</a>, <a href="/dokumenti/plakati/hoodie_back.png">zadaj</a>, naročila: <a href="https://goo.gl/forms/rqIna1WD8lITlKsE3">https://goo.gl/forms/rqIna1WD8lITlKsE3</a></li>
+  <li><a href="/dokumenti/plakati/hoodie_plakat.png">Matematični hoodie</a>, design: <a href="/dokumenti/plakati/hoodie_front.png">spredaj</a>, <a href="/dokumenti/plakati/hoodie_back_mat.png">zadaj</a>, naročila: <a href="https://goo.gl/forms/rqIna1WD8lITlKsE3">https://goo.gl/forms/rqIna1WD8lITlKsE3</a></li>
   <li><a href="/dokumenti/plakati/hashcode.pdf">Google Hash code 2017</a></li>
   <li><a href="/dokumenti/plakati/zagreb.pdf">Obisk zagrebških študentov matematike</a>, <a href="/dokumenti/zagreb_visit.zip">slike z dogodka (18 slik, 170 MB)</a></li>
   <li><a href="/dokumenti/plakati/vabilo_smrekca.png">Vabilo na okraševanje novoletne jelke</a></li>

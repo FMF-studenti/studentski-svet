@@ -79,7 +79,7 @@
     <td>2. stopnja</td>
     <td></td>
     </tr>
-    <tr><td></td><td>finančna matematika</td><td></td><td></td>
+    <tr><td></td><td></td><td>finančna matematika</td><td></td><td></td>
   </tr>
 </table>
 
