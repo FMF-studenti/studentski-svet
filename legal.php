@@ -42,6 +42,11 @@
   <li>Zapisnik 2. redne seje je na voljo <a href="/dokumenti/zapisniki/2017_18/2_seja.pdf">tukaj</a></li>
   <li>Zapisnik 3. redne seje je na voljo <a href="/dokumenti/zapisniki/2017_18/3_seja.pdf">tukaj</a></li>
   <li>Zapisnik 4. redne seje je na voljo <a href="/dokumenti/zapisniki/2017_18/4_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 5. redne seje je na voljo <a href="/dokumenti/zapisniki/2017_18/5_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 6. redne seje (1. dopisne) je na voljo <a href="/dokumenti/zapisniki/2017_18/6_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 7. redne seje je na voljo <a href="/dokumenti/zapisniki/2017_18/7_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 8. redne seje je na voljo <a href="/dokumenti/zapisniki/2017_18/8_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 9. redne seje je na voljo <a href="/dokumenti/zapisniki/2017_18/9_seja.pdf">tukaj</a></li>
 </ul>
 
 <h2 id='templates'>Predloge za mnenja</h2>
