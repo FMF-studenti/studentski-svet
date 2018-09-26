@@ -89,6 +89,12 @@ drugih kršitvah pravilnika s strani študentov. Predstavnika:
   <li>Katarina Šipec, namestnik Miha Šifrer</li>
 </ul>
 
+<h2>Komisija za študijske zadeve</h2>
+<p>Komisija za študijske zadeve odloča med drugim o odobritvah prošenj za izredne vpise v isti in višji letnik.<p>
+<ul>
+  <li>Matej Janežič, namestnica Ines Meršak</li>
+</ul>
+
 <h2>Komisija za etična vprašanja</h2>
 <p>Komisija za etična vprašanja se sestane v primeru etičnih vprašanj glede raziskovalnega ali
 pedagoškega dela. Predstavnica študentov:</p>
