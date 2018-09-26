@@ -35,8 +35,7 @@ nekaj dolžnosti:</p>
     posreduje ŠS v razpravo ter potrditev.</li>
   <li>Poskušamo reševati večje in manjše probleme, ki se pojavljajo tekom
     študijskega leta (npr. preobremenjenost študentov).</li>
-  <li>Sodelujemo pri prenovi študijskih programov v okviru Bolonjske
-    reforme.</li>
+  <li>Sodelujemo pri prenovi študijskih programov.</li>
   <li>Podajamo mnenja o kandidatih za dekana fakultete.</li>
   <li>Pripravljamo mnenja o vseh aktih fakultete, ki se tičejo študentov in
     njihovih pravic (tudi dolžnosti), sodelujemo z RC, sodelujemo v ŠS Univerze,
