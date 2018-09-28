@@ -156,6 +156,8 @@ SVG).</p>
 
 <h2>Plakati</h2>
 <ul>
+  <li><a href="/dokumenti/plakati/letak_informacije_bruci.pdf">Letak z informacijami za bruce ob vpisu 2018</a>
+  <li><a href="/dokumenti/plakati/guzva_referat_2018.pdf">Napotki za manjšo gnečo v referatu 2018</a>
   <li><a href="/dokumenti/plakati/guzva_referat_2018.pdf">Napotki za manjšo gnečo v referatu 2018</a>
   <li><a href="/dokumenti/plakati/guzva_referat_2017.pdf">Napotki za manjšo gnečo v referatu 2017</a>
   <li><a href="/dokumenti/plakati/maraton2017.pdf">Skupinska prijava na Ljubljanski maraton 2017</a>. Pripadajoča <a href="/ljm">stran</a></li>
