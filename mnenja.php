@@ -13,8 +13,13 @@ bolj natančno. S tem imate zelo močen vpliv na kvaliteto predavanj!
 <h2>V postopku izvolitve so naslednji pedagoški delavci:</h2>
 <!--<p class="smallfont">Trenutno ni v obravnavi nobenega pedagoškega delavca.</p>-->
 <ol>
-  <li>Dean Cvetko</li>
-  <li>Aljaž Čufar</li>
+  <li>George Mejak</li>
+  <li>Marko Žnidarič</li>
+  <li>Rok Podlipec</li>
+  <li>Tomaž Rejec</li>
+  <li>Bojan Hiti</li>
+  <li>Ivan Kukuljan</li>
+  <li>Vladimir Radulović</li>
 </ol>
 <p>Za te pedagoške delavce bo Študentski svet FMF v kratkem izdelal študentsko
 mnenje, ki se upošteva pri kriteriju pedagoške usposobljenosti, kar je pogoj za
@@ -34,6 +39,32 @@ Oddelka za fiziko. Tvoje mnenje bo obravnavano anonimno!</p>
 
 <h2>V šolskem 2017/18 letu je ŠS FMF izdal mnenja naslednjim pedagoškim delavcem:</h2>
 <ol reversed="reversed">
+  <li>Pino Koc</li>
+  <li>Anton Gradišek</li>
+  <li>Marjetka Conradi</li>
+  <li>Leon Lampret</li>
+  <li>Davorin Lešnik</li>
+  <li>Urban Simončič</li>
+  <li>Matjaž Zaveršnik</li>
+  <li>Primož Moravec</li>
+  <li>Dunja Fabjan</li>
+  <li>David Dolžan</li>
+  <li>Klemen Šivic</li>
+  <li>Oliver Dragičević</li>
+  <li>Dušan Ponikvar</li>
+  <li>Martin Raič</li>
+  <li>Nik Stopar</li>
+  <li>Urša Skerbiš Štok</li>
+  <li>Mitja Uršič</li>
+  <li>Matija Vidmar</li>
+  <li>Aljaž Zalar</li>
+  <li>Riste Škrekovski</li>
+  <li>Lenart Zadnik</li>
+  <li>Boštjan Maček</li>
+  <li>Janoš Vidali</li>
+  <li>Maruša Turk</li>
+  <li>Aljaž Čufar</li>
+  <li>Dean Cvetko</li>
   <li>Barbara Ikica</li>
   <li>Gregor Šega</li>
   <li>Andrej Muhič</li>
