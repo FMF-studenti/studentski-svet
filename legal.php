@@ -32,23 +32,25 @@
     Pravilnik o izvajanju študentskih anket</a></li>
   <li><a href="https://www.uni-lj.si/o_univerzi_v_ljubljani/organizacija__pravilniki_in_porocila/predpisi_statut_ul_in_pravilniki/2013071216390406/" target="_blank">
     Pravilnik o podeljevanju študentskih Prešernovih nagrad</a></li>
-  <li><a href=https://www.uni-lj.si/o_univerzi_v_ljubljani/organizacija__pravilniki_in_porocila/predpisi_statut_ul_in_pravilniki/" target="_blank">
+  <li><a href="https://www.uni-lj.si/o_univerzi_v_ljubljani/organizacija__pravilniki_in_porocila/predpisi_statut_ul_in_pravilniki/" target="_blank">
     Ostali pravilniki</a></li>
 </ul>
 
 <h2>Zapisniki s sej sveta</h2>
 <ul>
-  <li>Zapisnik 1. redne (konstitutivne) seje je na voljo <a href="/dokumenti/zapisniki/2017_18/1_seja.pdf">tukaj</a></li>
-  <li>Zapisnik 2. redne seje je na voljo <a href="/dokumenti/zapisniki/2017_18/2_seja.pdf">tukaj</a></li>
-  <li>Zapisnik 3. redne seje je na voljo <a href="/dokumenti/zapisniki/2017_18/3_seja.pdf">tukaj</a></li>
-  <li>Zapisnik 4. redne seje je na voljo <a href="/dokumenti/zapisniki/2017_18/4_seja.pdf">tukaj</a></li>
-  <li>Zapisnik 5. redne seje je na voljo <a href="/dokumenti/zapisniki/2017_18/5_seja.pdf">tukaj</a></li>
-  <li>Zapisnik 6. redne seje (1. dopisne) je na voljo <a href="/dokumenti/zapisniki/2017_18/6_seja.pdf">tukaj</a></li>
-  <li>Zapisnik 7. redne seje je na voljo <a href="/dokumenti/zapisniki/2017_18/7_seja.pdf">tukaj</a></li>
-  <li>Zapisnik 8. redne seje je na voljo <a href="/dokumenti/zapisniki/2017_18/8_seja.pdf">tukaj</a></li>
-  <li>Zapisnik 9. redne seje je na voljo <a href="/dokumenti/zapisniki/2017_18/9_seja.pdf">tukaj</a></li>
-  <li>Zapisnik 10. redne seje (2. dopisne) je na voljo <a href="/dokumenti/zapisniki/2017_18/10_seja.pdf">tukaj</a></li>
-  <li>Zapisnik 11. redne seje (3. dopisne) je na voljo <a href="/dokumenti/zapisniki/2017_18/11_seja.pdf">tukaj</a></li>
+  <li>Poročilo volilne komisije je na voljo <a href="/dokumenti/zapisniki/2018_19/porocilo_volilne_komisije.pdf">tukaj</a></li>
+<!--  <li>Zapisnik 1. redne (konstitutivne) seje je na voljo <a href="/dokumenti/zapisniki/2018_19/1_seja.pdf">tukaj</a></li> -->
+<!--    <li>Zapisnik 2. redne seje je na voljo <a href="/dokumenti/zapisniki/2018_19/2_seja.pdf">tukaj</a></li>  -->
+<!--    <li>Zapisnik 3. redne seje je na voljo <a href="/dokumenti/zapisniki/2018_19/3_seja.pdf">tukaj</a></li>  -->
+<!--    <li>Zapisnik 4. redne seje je na voljo <a href="/dokumenti/zapisniki/2018_19/4_seja.pdf">tukaj</a></li>  -->
+<!--    <li>Zapisnik 5. redne seje je na voljo <a href="/dokumenti/zapisniki/2018_19/5_seja.pdf">tukaj</a></li>  -->
+<!--    <li>Zapisnik 6. redne seje (1. dopisne) je na voljo <a href="/dokumenti/zapisniki/2018_19/6_seja.pdf">tukaj</a></li>  -->
+<!--    <li>Zapisnik 7. redne seje je na voljo <a href="/dokumenti/zapisniki/2018_19/7_seja.pdf">tukaj</a></li>  -->
+<!--    <li>Zapisnik 8. redne seje je na voljo <a href="/dokumenti/zapisniki/2018_19/8_seja.pdf">tukaj</a></li>  -->
+<!--    <li>Zapisnik 9. redne seje je na voljo <a href="/dokumenti/zapisniki/2018_19/9_seja.pdf">tukaj</a></li>  -->
+<!--    <li>Zapisnik 10. redne seje (2. dopisne) je na voljo <a href="/dokumenti/zapisniki/2018_19/10_seja.pdf">tukaj</a></li>  -->
+<!--    <li>Zapisnik 11. redne seje (3. dopisne) je na voljo <a href="/dokumenti/zapisniki/2018_19/11_seja.pdf">tukaj</a></li>  -->
+<!--    <li>Zapisnik 12. redne seje je na voljo <a href="/dokumenti/zapisniki/2018_19/12_seja.pdf">tukaj</a></li>  -->
 </ul>
 
 <h2 id='templates'>Predloge za mnenja</h2>
@@ -190,10 +192,27 @@ SVG).</p>
 <h2>Razno</h2>
 <ul>
   <li><a href="/dokumenti/navodila_za_vezanje.pdf">Navodila za uporabo stroja za vezanje v tutorski klepetalnici</a></li>
+  <li><a href="/dokumenti/pi_recitacija.pdf">Decimalke števila pi, kot jih bodo imeli sodniki</a>, <a href="/dokumenti/pi_recitacija.tex">(tex)</a>, <a href="/dokumenti/pi_finished.txt">(data)</a></li>
   <li><a href="/dokumenti/poziv_lgbt.pdf">Poziv FMF za pridobitev certifikata</a> <a href="http://www.ljubljana.si/si/zivljenje-v-ljubljani/lgbt/">LGBT prijazno</a></li>
   <li><a href="/dokumenti/kobal.pdf">Uradno mnenje ŠS FMF glede elektronskega sporočila doc. Kobala</a></li>
   <li><a href="/dokumenti/poziv_mafija.pdf">Poziv k ureditvi kavarne Mafija tako, da bo tam mogoče dobiti obrok s študentskimi boni</a></li>
-  <li><a href="/dokumenti/pi_recitacija.pdf">Decimalke števila pi, kot jih bodo imeli sodniki</a>, <a href="/dokumenti/pi_recitacija.tex">(tex)</a>, <a href="/dokumenti/pi_finished.txt">(data)</a></li>
+</ul>
+
+<h2>Zapisniki s sej sveta 2017/18</h2>
+<ul>
+  <li>Poročilo volilne komisije je na voljo <a href="/dokumenti/zapisniki/2017_18/porocilo_volilne_komisije.pdf">tukaj</a></li>
+  <li>Zapisnik 1. redne (konstitutivne) seje je na voljo <a href="/dokumenti/zapisniki/2017_18/1_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 2. redne seje je na voljo <a href="/dokumenti/zapisniki/2017_18/2_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 3. redne seje je na voljo <a href="/dokumenti/zapisniki/2017_18/3_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 4. redne seje je na voljo <a href="/dokumenti/zapisniki/2017_18/4_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 5. redne seje je na voljo <a href="/dokumenti/zapisniki/2017_18/5_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 6. redne seje (1. dopisne) je na voljo <a href="/dokumenti/zapisniki/2017_18/6_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 7. redne seje je na voljo <a href="/dokumenti/zapisniki/2017_18/7_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 8. redne seje je na voljo <a href="/dokumenti/zapisniki/2017_18/8_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 9. redne seje je na voljo <a href="/dokumenti/zapisniki/2017_18/9_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 10. redne seje (2. dopisne) je na voljo <a href="/dokumenti/zapisniki/2017_18/10_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 11. redne seje (3. dopisne) je na voljo <a href="/dokumenti/zapisniki/2017_18/11_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 12. redne seje je na voljo <a href="/dokumenti/zapisniki/2017_18/12_seja.pdf">tukaj</a></li>
 </ul>
 
 <h2>Zapisniki s sej sveta 2016/17</h2>
