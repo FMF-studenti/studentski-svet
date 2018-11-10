@@ -65,7 +65,9 @@ Oddelka za fiziko. Tvoje mnenje bo obravnavano anonimno!</p>
   <li>Maruša Turk</li>
   <li>Aljaž Čufar</li>
   <li>Dean Cvetko</li>
+  <li>Žiga Štancar</li>
   <li>Barbara Ikica</li>
+  <li>Boštjan Drolc</li>
   <li>Gregor Šega</li>
   <li>Andrej Muhič</li>
   <li>Rok Dolenec</li>
@@ -74,6 +76,7 @@ Oddelka za fiziko. Tvoje mnenje bo obravnavano anonimno!</p>
   <li>Andrej Mihelič</li>
   <li>Mojca Vilfan</li>
   <li>Žiga Kos</li>
+  <li>Dean Cvetko</li>
   <li>Gregor Skačej</li>
   <li>Tilen Marc</li>
   <li>Matej Praprotnik</li>
