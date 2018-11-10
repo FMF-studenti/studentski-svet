@@ -39,7 +39,7 @@
 <h2>Zapisniki s sej sveta</h2>
 <ul>
   <li>Poročilo volilne komisije je na voljo <a href="/dokumenti/zapisniki/2018_19/porocilo_volilne_komisije.pdf">tukaj</a></li>
-<!--  <li>Zapisnik 1. redne (konstitutivne) seje je na voljo <a href="/dokumenti/zapisniki/2018_19/1_seja.pdf">tukaj</a></li> -->
+  <li>Zapisnik 1. redne (konstitutivne) seje je na voljo <a href="/dokumenti/zapisniki/2018_19/1_seja.pdf">tukaj</a></li>
 <!--    <li>Zapisnik 2. redne seje je na voljo <a href="/dokumenti/zapisniki/2018_19/2_seja.pdf">tukaj</a></li>  -->
 <!--    <li>Zapisnik 3. redne seje je na voljo <a href="/dokumenti/zapisniki/2018_19/3_seja.pdf">tukaj</a></li>  -->
 <!--    <li>Zapisnik 4. redne seje je na voljo <a href="/dokumenti/zapisniki/2018_19/4_seja.pdf">tukaj</a></li>  -->

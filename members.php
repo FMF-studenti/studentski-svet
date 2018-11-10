@@ -8,15 +8,15 @@
 
 <h2>Člani Študentskega sveta FMF</h2>
 <table>
-  <tr><td style="width: 180px;">Matej Janežič,             </td><td style="width:240px;"> matematika,          </td><td style="width: 80px;">1. stopnja, </td><td>1. letnik</td></tr>
+  <tr><td style="width: 180px;">Matej Janežič,             </td><td style="width:240px;"> matematika,          </td><td style="width: 80px;">1. stopnja, </td><td>2. letnik</td></tr>
   <tr><td>Rok Kaufman,               </td><td> fizika,              </td><td>2. stopnja, </td><td>1. letnik</td></tr>
   <tr><td>Pia Klemenc,               </td><td> pedagoška matematika,</td><td>1. stopnja, </td><td>2. letnik</td></tr>
-  <tr><td>Ines Meršak,               </td><td> matematika,          </td><td>2. stopnja, </td><td>2. letnik</td></tr>
+  <tr><td>Ines Meršak,               </td><td> matematika,          </td><td>2. stopnja, </td><td>dodatno leto</td></tr>
   <tr><td>Klementina Pirc            </td><td> matematika,          </td><td>1. stopnja, </td><td>2. letnik</td></tr>
   <tr><td>Aljoša Rebolj,             </td><td> finančna matematika, </td><td>1. stopnja, </td><td>1. letnik</td></tr>
-  <tr><td>Jure Slak,                 </td><td> matematika,          </td><td>3. stopnja, </td><td>1. letnik</td></tr>
+  <tr><td>Jure Slak,                 </td><td> matematika,          </td><td>3. stopnja, </td><td>2. letnik</td></tr>
   <tr><td>Miha Srdinšek,             </td><td> fizika,              </td><td>2. stopnja, </td><td>2. letnik</td></tr>
-  <tr><td>Katarina Šipec             </td><td> matematika,          </td><td>1. stopnja, </td><td>1. letnik</td></tr>
+  <tr><td>Katarina Šipec             </td><td> matematika,          </td><td>1. stopnja, </td><td>2. letnik</td></tr>
 </table>
 
 <h1>Vodstvo sveta</h1>
