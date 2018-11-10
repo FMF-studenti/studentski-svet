@@ -63,8 +63,7 @@
 
 <h2>Obrazci za volitve</h2>
 <ul>
-  <li>Razpis volitev v Študentski svet 2017/18<a href="/dokumenti/razpis_volitev 2017_18.docx">(docx)</a>,
-      <a href="/dokumenti/obrazec_kandidatura.tex">(tex)</a></li>
+  <li>Razpis volitev v Študentski svet 2017/18 <a href="/dokumenti/razpis_volitev 2017_18.docx">(docx)</a></li>
   <li>Obrazec za kandidaturo v na volitvah v Študentski svet <a href="/dokumenti/obrazec_kandidatura.pdf">(pdf)</a>,
       <a href="/dokumenti/obrazec_kandidatura.tex">(tex)</a></li>
   <li>Potrdilo o oddani kandidaturi <a href="/dokumenti/potrdilo_o_kandidaturi.pdf">(pdf)</a>,
