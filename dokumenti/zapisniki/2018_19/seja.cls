@@ -100,11 +100,11 @@ Ljubljana, \DateZapisnik
 % na koncu
 \AtEndDocument{
 
-Zapisala Mojca Žilavec, pregledal Jure Slak
+Zapisal Rok Kaufmann,
 
 \begin{flushright}
-  Predsednik ŠS FMF \\
-  Jure Slak
+  Predsednica ŠS FMF \\
+  Ines Meršak
 \end{flushright}
 }
 % vim: set ft=tex:
