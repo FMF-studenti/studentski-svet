@@ -93,14 +93,14 @@ Ljubljana, \DateZapisnik
 \begin{center}
   \bfseries\large
   \Title \\
-  v študijskem letu 2016/17, \DateSeja
+  v študijskem letu 2018/19, \DateSeja
 \end{center}
 }
 
 % na koncu
 \AtEndDocument{
 
-Zapisal Rok Kaufmann,
+Zapisal Rok Kaufman, pregledala Ines Meršak
 
 \begin{flushright}
   Predsednica ŠS FMF \\
