@@ -160,6 +160,7 @@ SVG).</p>
 
 <h2>Plakati</h2>
 <ul>
+  <li><a href="/dokumenti/plakati/pi_dan2019.pdf">Reklama za pi dan 2019</a></li>
   <li><a href="/dokumenti/plakati/letak_informacije_bruci.pdf">Letak z informacijami za bruce ob vpisu 2018</a>
   <li><a href="/dokumenti/plakati/guzva_referat_2018.pdf">Napotki za manjšo gnečo v referatu 2018</a>
   <li><a href="/dokumenti/plakati/guzva_referat_2018.pdf">Napotki za manjšo gnečo v referatu 2018</a>
