@@ -195,9 +195,10 @@ SVG).</p>
 <ul>
   <li><a href="/dokumenti/navodila_za_vezanje.pdf">Navodila za uporabo stroja za vezanje v tutorski klepetalnici</a></li>
   <li><a href="/dokumenti/pi_recitacija.pdf">Decimalke števila pi, kot jih bodo imeli sodniki</a>, <a href="/dokumenti/pi_recitacija.tex">(tex)</a>, <a href="/dokumenti/pi_finished.txt">(data)</a></li>
+  <li><a href="/dokumenti/pi_pravila.pdf">Pravila tekmovanja v recitiranju decimalk števila pi</a></li>
   <li><a href="/dokumenti/poziv_lgbt.pdf">Poziv FMF za pridobitev certifikata</a> <a href="http://www.ljubljana.si/si/zivljenje-v-ljubljani/lgbt/">LGBT prijazno</a></li>
-  <li><a href="/dokumenti/kobal.pdf">Uradno mnenje ŠS FMF glede elektronskega sporočila doc. Kobala</a></li>
-  <li><a href="/dokumenti/poziv_mafija.pdf">Poziv k ureditvi kavarne Mafija tako, da bo tam mogoče dobiti obrok s študentskimi boni</a></li>
+<!--  <li><a href="/dokumenti/kobal.pdf">Uradno mnenje ŠS FMF glede elektronskega sporočila doc. Kobala</a></li> -->
+<!--  <li><a href="/dokumenti/poziv_mafija.pdf">Poziv k ureditvi kavarne Mafija tako, da bo tam mogoče dobiti obrok s študentskimi boni</a></li> -->
 </ul>
 
 <h2>Zapisniki s sej sveta 2017/18</h2>
