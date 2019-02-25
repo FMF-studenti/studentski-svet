@@ -1,0 +1,136 @@
+\documentclass[a4paper,oneside,12pt]{article}
+
+\usepackage[slovene]{babel}    % slovenian language and hyphenation
+\usepackage[utf8]{inputenc}    % make čšž work on input
+\usepackage[T1]{fontenc}       % make čšž work on output
+\usepackage[reqno]{amsmath}    % basic ams math environments and symbols
+\usepackage{amssymb,amsthm}    % ams symbols and theorems
+\usepackage{mathtools}         % extends ams with arrows and stuff
+\usepackage{url}               % \url and \href for links
+\usepackage{icomma}            % make comma a thousands separator with correct spacing
+\usepackage{units}             % \unit[1]{m} and unitfrac
+\usepackage{enumerate}         % enumerate style
+\usepackage{array}             % mutirow
+\usepackage[usenames]{color}   % colors with names
+\usepackage{graphicx}          % images
+
+\usepackage[bookmarks, colorlinks=true, linkcolor=black, anchorcolor=black,
+citecolor=black, filecolor=black, menucolor=black, runcolor=black,
+urlcolor=black, pdfencoding=unicode]{hyperref}  % clickable references, pdf toc
+\usepackage[
+paper=a4paper,
+top=2.5cm,
+bottom=2.5cm,
+textwidth=15cm,
+% textheight=24cm,
+]{geometry}  % page geomerty
+
+\newtheorem{izrek}{Izrek}
+\newtheorem{posledica}{Posledica}
+
+\theoremstyle{definition}
+\newtheorem{definicija}{Definicija}
+\newtheorem{opomba}{Opomba}
+\newtheorem{zgled}{Zgled}
+
+% basic sets
+\newcommand{\R}{\ensuremath{\mathbb{R}}}
+\newcommand{\N}{\ensuremath{\mathbb{N}}}
+\newcommand{\Z}{\ensuremath{\mathbb{Z}}}
+\renewcommand{\C}{\ensuremath{\mathbb{C}}}
+\newcommand{\Q}{\ensuremath{\mathbb{Q}}}
+
+% greek letters
+\let\oldphi\phi
+\let\oldtheta\theta
+\newcommand{\eps}{\varepsilon}
+\renewcommand{\psi}{\varpsi}
+\renewcommand{\theta}{\vartheta}
+
+% vektorska analiza
+\newcommand{\grad}{\operatorname{grad}}
+\newcommand{\rot}{\operatorname{rot}}
+\renewcommand{\div}{\operatorname{div}}
+
+% lists with less vertical space
+\newenvironment{itemize*}{\vspace{-6pt}\begin{itemize}\setlength{\itemsep}{0pt}\setlength{\parskip}{2pt}}{\end{itemize}}
+\newenvironment{enumerate*}{\vspace{-6pt}\begin{enumerate}\setlength{\itemsep}{0pt}\setlength{\parskip}{2pt}}{\end{enumerate}}
+\newenvironment{description*}{\vspace{-6pt}\begin{description}\setlength{\itemsep}{0pt}\setlength{\parskip}{2pt}}{\end{description}}
+
+\newcommand{\Title}{}
+\newcommand{\Author}{Jure Slak}
+\title{\Title}
+\author{\Author}
+\date{\today}
+\hypersetup{pdftitle={\Title}, pdfauthor={\Author}, pdfcreator={\Author},
+  pdfproducer={\Author}, pdfsubject={}, pdfkeywords={}}  % setup pdf metadata
+
+% \pagestyle{empty}              % vse strani prazne
+\setlength{\parindent}{0pt}    % zamik vsakega odstavka
+% \setlength{\parskip}{10pt}     % prazen prostor po odstavku
+%\setlength{\overfullrule}{30pt}  % oznaci predlogo vrstico z veliko črnine
+%\usepackage{pst-barcode}
+%\usepackage{auto-pst-pdf} % uncomment this if used with pdflatex
+
+\usepackage{eurosym}
+\usepackage{xfrac}
+
+\begin{document}
+
+  \thispagestyle{empty}  % ta stran prazna
+
+  \vspace*{-9ex}
+
+  \begin{flushright}
+    \hspace*{-1cm}\scalebox{30}{$\sfrac{\scalebox{1.5}{$\pi$}\!\!}
+      {\hspace{-1pt}\raisebox{-2pt}{\scalebox{1.2}{\includegraphics[width=6pt]{pie.pdf}}}}$}
+  \end{flushright}
+
+  \vspace{3ex}
+
+  \begin{center}
+    \fontsize{14}{24}\selectfont
+    ŠS FMF organizira 13.\ tekmovanje v \emph{recitiranju števila $\pi$} \\[-10pt]
+    \fontsize{60}{64}\selectfont
+    \bf
+    14.\ 3.\ 2019, 13:00 \\[-1.5ex]
+    dvorišče FMF
+  \end{center}
+
+  \setlength{\parskip}{10pt}
+  \fontsize{20}{24}\selectfont
+
+  \hspace*{4.5cm}  1. nagrada: 314 \euro, \\
+  \hspace*{4.5cm}  2. nagrada: 159 \euro, \\
+  \hspace*{4.5cm}  3. nagrada: \ \,65 \euro \\[-30px]
+
+  \fontsize{14}{24}\selectfont
+  \begin{center}
+    in tekmovanje za \emph{najboljšo pito} \\[10px]
+    \fontsize{30}{34}\selectfont
+    {\bf
+      ob približno 12ih \\[12px]
+    }
+    \fontsize{20}{24}\selectfont
+    z nagradami 60 \euro, 30 \euro{} in 20 \euro.
+  \end{center}
+
+  \vspace{-1ex}
+
+  {\small
+    Prijavite se na obrazcih, ki so na voljo na spletni strani FMF, ŠS FMF ali na FB ŠS FMF.}
+
+  %\begin{center}
+  %\scalebox{1.5}{
+  %\begin{pspicture}(2in,2in)
+  %  \psbarcode{https://fb.com/events/1119665018143500/}{eclevel=M}{qrcode}
+  %\end{pspicture}}
+  %\end{center}
+
+  % text here
+
+\end{document}
+% vim: syntax=tex
+% vim: spell spelllang=sl
+% vim: foldlevel=99
+% Latex template: Jure Slak, jure.slak@gmail.com

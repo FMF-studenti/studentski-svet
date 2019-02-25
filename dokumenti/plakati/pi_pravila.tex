@@ -1,0 +1,133 @@
+% !TeX spellcheck = sl_SI
+\documentclass[a4paper,oneside,12pt]{article}
+
+\usepackage[slovene]{babel}    % slovenian language and hyphenation
+\usepackage[utf8]{inputenc}    % make čšž work on input
+\usepackage[T1]{fontenc}       % make čšž work on output
+\usepackage[reqno]{amsmath}    % basic ams math environments and symbols
+\usepackage{amssymb,amsthm}    % ams symbols and theorems
+\usepackage{mathtools}         % extends ams with arrows and stuff
+\usepackage{url}               % \url and \href for links
+\usepackage{icomma}            % make comma a thousands separator with correct spacing
+\usepackage{units}             % \unit[1]{m} and unitfrac
+\usepackage{enumerate}         % enumerate style
+\usepackage{array}             % mutirow
+\usepackage[usenames]{color}   % colors with names
+\usepackage{graphicx}          % images
+
+\usepackage[bookmarks, colorlinks=true, linkcolor=black, anchorcolor=black,
+  citecolor=black, filecolor=black, menucolor=black, runcolor=black,
+  urlcolor=black, pdfencoding=unicode]{hyperref}  % clickable references, pdf toc
+\usepackage[
+  paper=a4paper,
+  top=2.5cm,
+  bottom=2.5cm,
+  left=2.5cm,
+  right=2.5cm
+% textheight=24cm,
+]{geometry}  % page geomerty
+
+\newtheorem{izrek}{Izrek}
+\newtheorem{posledica}{Posledica}
+
+\theoremstyle{definition}
+\newtheorem{definicija}{Definicija}
+\newtheorem{opomba}{Opomba}
+\newtheorem{zgled}{Zgled}
+
+% basic sets
+\newcommand{\R}{\ensuremath{\mathbb{R}}}
+\newcommand{\N}{\ensuremath{\mathbb{N}}}
+\newcommand{\Z}{\ensuremath{\mathbb{Z}}}
+\renewcommand{\C}{\ensuremath{\mathbb{C}}}
+\newcommand{\Q}{\ensuremath{\mathbb{Q}}}
+\newcommand{\T}{\ensuremath{\mathsf{T}}}
+
+% greek letters
+\let\oldphi\phi
+\let\oldtheta\theta
+\newcommand{\eps}{\varepsilon}
+\renewcommand{\phi}{\varphi}
+\renewcommand{\theta}{\vartheta}
+
+% vektorska analiza
+\newcommand{\grad}{\operatorname{grad}}
+\newcommand{\rot}{\operatorname{rot}}
+\renewcommand{\div}{\operatorname{div}}
+\newcommand{\dpar}[2]{\frac{\partial #1}{\partial #2}}
+
+% lists with less vertical space
+\newenvironment{itemize*}{\vspace{-1.5\parskip}\begin{itemize}\setlength{\itemsep}{0pt}\setlength{\parskip}{2pt}}{\end{itemize}\vspace{-1\parskip}}
+\newenvironment{enumerate*}{\vspace{-1.5\parskip}\begin{enumerate}\setlength{\itemsep}{0pt}\setlength{\parskip}{2pt}}{\end{enumerate}\vspace{-1\parskip}}
+\newenvironment{description*}{\vspace{-6pt}\begin{description}\setlength{\itemsep}{0pt}\setlength{\parskip}{2pt}}{\end{description}\vspace{-1\parskip}}
+
+\newcommand{\Title}{Pravila tekmovanja v recitiranju števila pi}
+\newcommand{\Author}{Jure Slak}
+\title{\Title}
+\author{\Author}
+\date{\today}
+\hypersetup{pdftitle={\Title}, pdfauthor={\Author}, pdfcreator={\Author},
+            pdfproducer={\Author}, pdfsubject={}, pdfkeywords={}}  % setup pdf metadata
+
+\pagestyle{empty}              % vse strani prazne
+\setlength{\parindent}{0pt}    % zamik vsakega odstavka
+\setlength{\parskip}{10pt}     % prazen prostor po odstavku
+\setlength{\overfullrule}{30pt}  % oznaci predlogo vrstico z veliko črnine
+
+\hyphenation{ob-jav-lje-nih}
+
+\begin{document}
+
+\section*{Pravila tekmovanja v recitiranju decimalk števila $\boldsymbol \pi$}
+
+\vspace{3ex}
+
+\begin{enumerate}
+  \item Tekmovalci recitirajo število $\pi$ v desetiškem sistemu, začenši z $3,14159$ \ldots
+  \item Tekmovalec ima v okviru tekmovanja možnost recitirati samo enkrat.
+  \item Tekmovalce se po koncu tekmovanja razvrsti padajoče po številu pravilnih decimalk, ki so jih povedali.
+    Tekmovalci, ki so povedali enako število decimalk, si mesta delijo.
+
+    Primer: \\[-20pt]
+    \begin{itemize}
+      \item Tekmovalec, ki pove ``3,14159'', je uspešno povedal 5 decimalk.
+    \end{itemize}
+
+  \item Pravilnost recitiranja preverja vsaj tričlanska komisija s pomočjo predhodno objavljenih
+    decimalk.
+
+  \item Recitacija se konča, ko tekmovalec prostovoljno zaključi ali pa naredi dokončno napako
+    (glej točko \ref{itm:napake}).
+
+  \item \label{itm:napake} Če se tekmovalec zmoti, ima možnost napako popraviti, v kolikor to stori še preden  nadaljuje
+    recitiranje z naslednjo decimalko. Če tega ne stori, napaka postane dokončna in komisija prekine
+    recitacijo.
+
+    Primera: \\[-20pt]
+    \begin{itemize}
+      \item ``3 cela 1 4 1 4, ne, narobe, 5, 9, \ldots'' \\
+        Tekmovalec je napako popravil, preden je povedal naslednjo decimalko, kar
+        je dovoljeno, in lahko nadaljuje z recitacijo.
+      \item ``3 cela 1 4 1 4 9, ne, narobe, 5, 9, \ldots'' \\
+        Tekmovalec je po napačni decimalki ``4'' povedal sicer pravilno ``9'', a napačne ``4'' pred
+        tem ni popravil in zato komisija recitacijo prekine. Tekmovalec je uspešno povedal 3 decimalke.
+    \end{itemize}
+  \item Tekmovalec mora decimalke recitirati na pamet brez dodatnih pripomočkov.
+  \item O vseh morebitnih nejasnostih odloča komisija tekmovanja.
+  \item Odločitve komisije so dokončne.
+\end{enumerate}
+
+\vspace{3ex}
+
+Pravila sprejel ŠS FMF na 6.~redni seji dne 26.~2.~2019. \\
+
+\hspace*{\fill} predsednica ŠS FMF \\
+\hspace*{\fill} Ines Meršak
+
+\end{document}
+% vim: syntax=tex
+% vim: spell spelllang=sl
+% vim: foldlevel=99
+% Latex template: Jure Slak, jure.slak@gmail.com
+
+
