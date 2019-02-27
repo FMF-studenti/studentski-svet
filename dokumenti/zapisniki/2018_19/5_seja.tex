@@ -1,0 +1,54 @@
+\documentclass{seja}
+
+\newcommand{\SejaNum}{5}
+\newcommand{\Title}{Zapisnik \SejaNum.~redne (2.~dopisne) seje Študentskega sveta FMF}
+\newcommand{\DateSeja}{19.~2.--21.~2.~2019}
+\newcommand{\DateZapisnik}{22.~2.~2019}
+
+\begin{document}
+
+Prisotni člani in članice ŠS FMF UL:
+Matej Janežič,
+Rok Kaufman,
+Pia Klemenc,
+Ines Meršak,
+Klementina Pirc,
+Aljoša Rebolj,
+Jure Slak,
+Miha Srdinšek,
+Katarina Šipec.
+
+\begin{red*}
+	\item Sprejem zapisnika 4.~redne seje
+	\item Sprejem študentskih mnenj
+\end{red*}
+
+\begin{ad}
+	\item
+	\begin{sklep*}
+		Svet potrjuje zapisnik 4.~redne seje.
+	\end{sklep*}
+
+	\item
+	\begin{sklep*}
+		Svet sprejme študentska mnenja o naslednjih kandidatih:
+		\begin{itemize}
+		    \item Jan Kralj
+		    \item Gregor Skok
+		\end{itemize}
+
+		Svet zaradi pomanjkanja informacij ne izda mnenja o kandidatu Ivu Kljenjaku.
+	\end{sklep*}
+\end{ad}
+
+% spremeni footer
+\makeatletter \global\let\@enddocumenthook\@empty \makeatother
+\AtEndDocument{
+	Zapisala Ines Meršak, pregledal Matej Janežič.
+
+	\begin{flushright}
+		Predsednica ŠS FMF \\
+		Ines Meršak
+\end{flushright}}
+
+\end{document}
