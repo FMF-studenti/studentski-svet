@@ -10,20 +10,6 @@ VIS-u</strong>, če pa je situacija kritična, se obrnemo še na interne ankete.
 Najbolj pomagajo tekstovna mnenja z VIS-a, zato prosimo, da jih rešujete čim
 bolj natančno. S tem imate zelo močen vpliv na kvaliteto predavanj!
 
-<h2>V postopku izvolitve so naslednji pedagoški delavci:</h2>
-<!--<p class="smallfont">Trenutno ni v obravnavi nobenega pedagoškega delavca.</p>-->
-<ol>
-  <li>George Mejak</li>
-  <li>Marko Žnidarič</li>
-  <li>Rok Podlipec</li>
-  <li>Tomaž Rejec</li>
-  <li>Bojan Hiti</li>
-  <li>Ivan Kukuljan</li>
-  <li>Vladimir Radulović</li>
-</ol>
-<p>Za te pedagoške delavce bo Študentski svet FMF v kratkem izdelal študentsko
-mnenje, ki se upošteva pri kriteriju pedagoške usposobljenosti, kar je pogoj za
-izvolitev kandidata v naziv.</p>
 <p>Če imaš kakršno koli mnenje o zgornjih delavcih, pozitivno ali negativno, ga
 lahko kadarkoli posreduješ na naslov <a href="mailto:studentski.svet@fmf.uni-lj.si">
   studentski.svet@fmf.uni-lj.si</a> ali pa oddaš v predalček Sveta na recepciji
