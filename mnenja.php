@@ -23,6 +23,56 @@ Oddelka za fiziko. Tvoje mnenje bo obravnavano anonimno!</p>
   <li>Obrazec za mnenje z zadržkom (2 strani) je na voljo <a href="/dokumenti/mnenja_templates/obrazec_mnenje_z_zadrzkom_dvostransko.pdf">tukaj</a></li>
 </ul>
 
+<h2>V šolskem 2019/20 letu je ŠS FMF izdal mnenja naslednjim pedagoškim delavcem:</h2>
+<ol reversed="reversed">
+  <li>Matjaž Konvalinka</li>
+  <li>Andreja Drobnič Vidic</li>
+  <li>Borut Kirn</li>
+  <li>Lucijan Plevnik</li>
+  <li>Sergej Faletič</li>
+  <li>Jan Grošelj</li>
+</ol>
+
+<h2>V šolskem 2018/19 letu je ŠS FMF izdal mnenja naslednjim pedagoškim delavcem:</h2>
+<ol reversed="reversed">
+  <li>Saša Prelovšek Komelj</li>  
+  <li>Aljaž Osojnik</li>
+  <li>Philipp Haselwarter</li>
+  <li>Rok Pestotnik</li>
+  <li>Maja Pohar Perme</li>
+  <li>Tim Kolar</li>
+  <li>Martin Raič</li>
+  <li>Riccardo Ugolini</li>
+  <li>Saša Prelovšek Komelj</li>
+  <li>Uroš Kuzman</li>
+  <li>Matjaž Žitnik</li>
+  <li>Andrej Zorko</li>
+  <li>Tilen Koklič</li>
+  <li>Bojan Žunkovič</li>
+  <li>Marko Ljubotina</li>
+  <li>Marion van Midden</li>
+  <li>Zoran Arsov</li>
+  <li>Martin Klanjšek</li>
+  <li>Jure Kališnik</li>
+  <li>Dunja Fabjan</li>
+  <li>Drejc Kopač</li>
+  <li>Primož Moravec</li>
+  <li>Natan Osterman</li>
+  <li>Jan Kralj</li>
+  <li>Jernej Mravlje</li>
+  <li>Luka Snoj</li>
+  <li>Jaka Smrekar</li>
+  <li>Tomaž Gyergyek</li>
+  <li>Ivan Kukuljan</li>
+  <li>Bojan Hiti</li>
+  <li>Tomaž Rejec</li>
+  <li>Rok Podlipec</li>
+  <li>Marko Žnidarič</li>
+  <li>George Mejak</li>
+  <li>Gregor Skok</li>
+</ol>
+
+
 <h2>V šolskem 2017/18 letu je ŠS FMF izdal mnenja naslednjim pedagoškim delavcem:</h2>
 <ol reversed="reversed">
   <li>Pino Koc</li>
