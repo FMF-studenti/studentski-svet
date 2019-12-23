@@ -40,8 +40,7 @@ Predstavnica študentov Oddelka za matematiko je Ines Meršak, Oddelka za fiziko
 <strong>Tajnik</strong> sveta je Rok Kaufman.
 
 <h1>Predstavniki letnikov</h1>
-<p>ŠS pomembne novice vsakemu programu posebej sporoča prek predstavnikov letnikov. Seznam lanskih predstavnikov
-je na voljo <a href="/representatives">tukaj</a>, novi pa bodo na voljo v kratkem.
+<p>ŠS pomembne novice vsakemu programu posebej sporoča prek predstavnikov letnikov.
 
 <h1>Predstavniki v organih FMF</h1>
 <h2>Senat FMF</h2>
