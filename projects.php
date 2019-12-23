@@ -10,7 +10,7 @@
   <li>sodelovanje pri opravljanju študentskih anket</li>
   <li>zastopanje študentskih interesov v organih FMF in Univerze v Ljubljani</li>
   <li>reševanje študentskih problemov (neprijazni profesorji, preobremenjenost, pitna voda &hellip;)</li>
-  <li>organiziramo Mafijski piknik, pi dan, novoletno stojnico, večere družabnih iger &hellip; </li>
+  <li>organiziramo Mafijski piknik, pi dan, večere družabnih iger &hellip; </li>
   <li>letna naročila FMF puloverjev</li>
 </ul>
 <h2>Zunanji projekti, pri katerih sodelujemo</h2>
