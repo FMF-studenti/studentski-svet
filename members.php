@@ -96,9 +96,6 @@ informacijsko podporo s pomočjo RC FMF.
 Predstavnica študentov Oddelka za matematiko je Matej Janežič, Oddelka za fiziko pa Nastja Zupančič.
 <strong>Tajnik</strong> sveta je Jakob Zmrzlikar.
 
-<h1>Predstavniki letnikov</h1>
-<p>ŠS pomembne novice vsakemu programu posebej sporoča prek predstavnikov letnikov.
-
 <h1>Predstavniki v organih FMF</h1>
 <h2>Senat FMF</h2>
 <p>Senat je najvišji organ fakultete in ima zaključne odločitve pri tekočih izvolitvah, spremembah
