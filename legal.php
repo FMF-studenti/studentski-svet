@@ -41,6 +41,14 @@
   <li>Poročilo volilne komisije je na voljo <a href="/dokumenti/zapisniki/2019_20/porocilo_volilne_komisije.pdf">tukaj</a></li>
   <li>Zapisnik 1. redne (konstitutivne) seje je na voljo <a href="/dokumenti/zapisniki/2019_20/1_seja.pdf">tukaj</a></li>
   <li>Zapisnik 2. redne seje je na voljo <a href="/dokumenti/zapisniki/2019_20/2_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 3. redne (1. dopisne) seje je na voljo <a href="/dokumenti/zapisniki/2019_20/3_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 4. redne seje je na voljo <a href="/dokumenti/zapisniki/2019_20/4_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 5. redne seje je na voljo <a href="/dokumenti/zapisniki/2019_20/5_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 6. redne (2. dopisne) seje je na voljo <a href="/dokumenti/zapisniki/2019_20/6_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 7. redne (3. dopisne) seje je na voljo <a href="/dokumenti/zapisniki/2019_20/7_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 8. redne (4. dopisne) seje je na voljo <a href="/dokumenti/zapisniki/2019_20/8_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 9. redne (5. dopisne) seje je na voljo <a href="/dokumenti/zapisniki/2019_20/9_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 10. redne seje je na voljo <a href="/dokumenti/zapisniki/2019_20/10_seja.pdf">tukaj</a></li>
  
 </ul>
 
