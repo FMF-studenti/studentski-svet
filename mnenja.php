@@ -25,6 +25,43 @@ Oddelka za fiziko. Tvoje mnenje bo obravnavano anonimno!</p>
 
 <h2>V šolskem 2019/20 letu je ŠS FMF izdal mnenja naslednjim pedagoškim delavcem:</h2>
 <ol reversed="reversed">
+  <li>Sašo Grozdanov</li>
+  <li>Klemen Bučar</li>
+  <li>Peter Jeglič</li>
+  <li>Žiga Kos</li>
+  <li>Tilen Knaflič</li>
+  <li>Miloš Borovšak</li>
+  <li>Mihael Perman</li>
+  <li>Urban Jezernik</li>
+  <li>Dejan Govc</li>
+  <li>Gregor Kladnik</li>
+  <li>Tadej Mežnaršič</li>
+  <li>Marjan Jerman</li>
+  <li>Matjaž Kavčič </li>
+  <li>Nika Novak</li>
+  <li>Pavel Kos</li>
+  <li>Aleks Smolkovič</li>
+  <li>Sašo Grozdanov</li>
+  <li>Timotej Hrga</li>
+  <li>Luka Rogelj</li>
+  <li>Tomaž Podobnik</li>
+  <li>Janez Bernik</li>
+  <li>Matija Pretnar</li>
+  <li>Katarina Kosovelj</li>
+  <li>Blaž Jelenc</li>
+  <li>Marko Kandić</li>
+  <li>Boris Majaron</li>
+  <li>Andrej Trkov</li>
+  <li>Žiga Virk</li>
+  <li>Damjan Kobal</li>
+  <li>Anja Petković</li>
+  <li>Žiga Lukšič</li>
+  <li>Brett Chenoweth</li>
+  <li>Matjaž Ličer</li>
+  <li>Lara Ulčakar</li>
+  <li>Mateja Hrast</li>
+  <li>Vesna  Iršič</li>
+  <li>Jure Slak</li>
   <li>Matjaž Konvalinka</li>
   <li>Andreja Drobnič Vidic</li>
   <li>Borut Kirn</li>
