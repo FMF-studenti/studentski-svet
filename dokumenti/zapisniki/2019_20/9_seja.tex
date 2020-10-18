@@ -1,0 +1,62 @@
+\documentclass{seja}
+
+\newcommand{\SejaNum}{9}
+\newcommand{\Title}{Zapisnik \SejaNum.~redne (5.~dopisne) seje Študentskega sveta FMF}
+\newcommand{\DateSeja}{19.~9.~2020}
+\newcommand{\DateZapisnik}{5.~10.~2020}
+
+\begin{document}
+
+Prisotni člani in članice ŠS FMF UL:
+Matej Janežič,
+Jan Krneta,
+Timotej Lemut,
+Klementina Pirc,
+Aljoša Rebolj,
+Katarina Šipec,
+Luka Školč,
+Luka Umek,
+Jakob Zmrzlikar,
+Nastja Zupančič,
+Gašper Žajdela.
+
+\begin{red}
+	\item
+	Sprejem zapisnika prejšnje seje
+    \item
+    Sprejem študentskih mnenj
+	\item Potrdila o članstvu
+\end{red}
+
+\begin{ad}
+    \item
+    \begin{sklep*}
+        ŠS FMF sprejme zapisnik prejšnje seje.
+    \end{sklep*}
+    
+    \item
+    \begin{sklep*}
+    Svet sprejme študentska mnenja o naslednjih pedagoških delavcih:
+    \begin{itemize}
+        \item Miloš Borovšak
+        \item Žiga Kos
+        \item Andrej Trkov
+    \end{itemize}
+    \end{sklep*}
+    
+    	\item
+	\begin{sklep*}
+		ŠS FMF izda potrdila o članstvu.
+	\end{sklep*}
+\end{ad}
+
+% spremeni footer
+\makeatletter \global\let\@enddocumenthook\@empty \makeatother
+\AtEndDocument{
+	Zapisal Matej Janežič, pregledala Katarina Šipec.
+	
+	\begin{flushright}
+		Predsednik ŠS FMF \\
+		Matej Janežič
+\end{flushright}}
+\end{document}
