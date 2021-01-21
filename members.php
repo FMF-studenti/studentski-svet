@@ -21,18 +21,6 @@
         <td>2. letnik</td>
     </tr>
     <tr>
-        <td>Timotej Lemut,</td>
-        <td>fizika,</td>
-        <td>2. stopnja,</td>
-        <td>2. letnik</td>
-    </tr>
-    <tr>
-        <td>Klementina Pirc,</td>
-        <td>matematika,</td>
-        <td>1. stopnja, </td>
-        <td>3. letnik</td>
-    </tr>
-    <tr>
         <td>Aljoša Rebolj,</td>
         <td>finančna matematika,</td>
         <td>1. stopnja,</td>
@@ -92,8 +80,8 @@ natančen povzetek sej sveta in njihovo objavo ter posredno za dobro obveščeno
 informacijsko podporo s pomočjo RC FMF.
 </p>
 
-<p><strong>Predsednik</strong> sveta je Matej Janežič, <strong>podpredsednica</strong> pa je Klementina Pirc.  
-Predstavnica študentov Oddelka za matematiko je Matej Janežič, Oddelka za fiziko pa Nastja Zupančič.
+<p><strong>Predsednik</strong> sveta je Matej Janežič, <strong>podpredsednica</strong> pa je Nastja Zupančič.  
+Predstavnik študentov Oddelka za matematiko je Matej Janežič, Oddelka za fiziko pa Nastja Zupančič.
 <strong>Tajnik</strong> sveta je Jakob Zmrzlikar.
 
 <h1>Predstavniki v organih FMF</h1>
