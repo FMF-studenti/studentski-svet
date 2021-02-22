@@ -49,6 +49,7 @@
   <li>Zapisnik 8. redne (4. dopisne) seje je na voljo <a href="/dokumenti/zapisniki/2019_20/8_seja.pdf">tukaj</a></li>
   <li>Zapisnik 9. redne (5. dopisne) seje je na voljo <a href="/dokumenti/zapisniki/2019_20/9_seja.pdf">tukaj</a></li>
   <li>Zapisnik 10. redne seje je na voljo <a href="/dokumenti/zapisniki/2019_20/10_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 11. redne (6. dopisne) seje je na voljo <a href="/dokumenti/zapisniki/2019_20/11_seja.pdf">tukaj</a></li>
  
 </ul>
 
