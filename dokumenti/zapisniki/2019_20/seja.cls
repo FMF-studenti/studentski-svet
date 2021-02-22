@@ -93,18 +93,18 @@ Ljubljana, \DateZapisnik
 \begin{center}
   \bfseries\large
   \Title \\
-  v študijskem letu 2018/19, \DateSeja
+  v študijskem letu 2019/20, \DateSeja
 \end{center}
 }
 
 % na koncu
 \AtEndDocument{
 
-Zapisal Rok Kaufman, pregledala Ines Meršak
+Zapisal Jakob Zmrzlikar, pregledal Matej Janežič.
 
 \begin{flushright}
-  Predsednica ŠS FMF \\
-  Ines Meršak
+  Predsednik ŠS FMF \\
+  Matej Janežič
 \end{flushright}
 }
 % vim: set ft=tex:
