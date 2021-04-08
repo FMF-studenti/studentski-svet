@@ -3,7 +3,7 @@
 ?>
 
 <div id="title">
-  <h1>Člani Študentskega sveta FMF v študijskem letu 2019/20</h1>
+  <h1>Člani Študentskega sveta FMF v študijskem letu 2020/21</h1>
 </div>
 
 <h2>Člani Študentskega sveta FMF</h2>
@@ -22,13 +22,13 @@
     </tr>
     <tr>
         <td>Matevž Kopač,</td>
-        <td>matematika,</td>
+        <td>finančna matematika,</td>
         <td>1. stopnja,</td>
         <td>2. letnik</td>
     </tr>
     <tr>
         <td>Žan Mikola,</td>
-        <td>matematika,</td>
+        <td>finančna matematika,</td>
         <td>1. stopnja,</td>
         <td>3. letnik</td>
     </tr>
@@ -46,7 +46,7 @@
     </tr>
     <tr>
         <td>Klara Širca,</td>
-        <td>matematika,</td>
+        <td>finančna matematika,</td>
         <td>1. stopnja,</td>
         <td>2. letnik</td>
     </tr>
@@ -58,13 +58,13 @@
     </tr>
     <tr>
         <td>Tjaša Vagaja,</td>
-        <td>matematika,</td>
+        <td>finančna matematika,</td>
         <td>1. stopnja,</td>
         <td>1. letnik</td>
     </tr>
     <tr>
         <td>Nina Velkavrh,</td>
-        <td>matematika,</td>
+        <td>finančna matematika,</td>
         <td>1. stopnja,</td>
         <td>2. letnik</td>
     </tr>
