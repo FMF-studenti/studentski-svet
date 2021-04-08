@@ -24,13 +24,13 @@
         <td>Matevž Kopač,</td>
         <td>matematika,</td>
         <td>1. stopnja,</td>
-        <td>3. letnik</td>
+        <td>2. letnik</td>
     </tr>
     <tr>
         <td>Žan Mikola,</td>
         <td>matematika,</td>
         <td>1. stopnja,</td>
-        <td>2. letnik</td>
+        <td>3. letnik</td>
     </tr>
     <tr>
         <td>Aljoša Rebolj,</td>
@@ -42,7 +42,7 @@
         <td>Katarina Šipec,</td>
         <td>matematika,</td>
         <td>1. stopnja,</td>
-        <td>3. letnik</td>
+        <td>dodatno leto</td>
     </tr>
     <tr>
         <td>Klara Širca,</td>
@@ -54,13 +54,13 @@
         <td>Matic Tonin,</td>
         <td>fizika,</td>
         <td>1. stopnja,</td>
-        <td>3. letnik</td>
+        <td>2. letnik</td>
     </tr>
     <tr>
         <td>Tjaša Vagaja,</td>
         <td>matematika,</td>
         <td>1. stopnja,</td>
-        <td>2. letnik</td>
+        <td>1. letnik</td>
     </tr>
     <tr>
         <td>Nina Velkavrh,</td>
@@ -77,14 +77,14 @@
     <tr>
         <td>Nastja Zupančič,</td>
         <td>fizika,</td>
-        <td>1. stopnja,</td>
-        <td>3. letnik</td>
+        <td>2. stopnja,</td>
+        <td>1. letnik</td>
     </tr>
     <tr>
         <td>Gašper Žajdela,</td>
         <td>matematika,</td>
         <td>1. stopnja,</td>
-        <td>3. letnik</td>
+        <td>dodatno leto</td>
     </tr>
 </table>
 
