@@ -9,7 +9,7 @@
 <h2>Člani Študentskega sveta FMF</h2>
 <table>
     <tr>
-        <td style="width: 180px;">Klemen Ducman,</td>
+        <td style="width: 180px;">Nastja,</td>
         <td style="width:240px;"> fizika,</td>
         <td style="width: 80px;">2. stopnja,</td>
         <td>1. letnik</td>
