@@ -9,16 +9,16 @@
 <h2>Člani Študentskega sveta FMF</h2>
 <table>
     <tr>
-        <td style="width: 180px;">Nastja,</td>
-        <td style="width:240px;"> fizika,</td>
+        <td style="width: 180px;">Eva Babnik,</td>
+        <td style="width:240px;">finančna matematika,</td>
         <td style="width: 80px;">2. stopnja,</td>
         <td>1. letnik</td>
     </tr>
     <tr>
-        <td>Matej Janežič,</td>
-        <td>matematika,</td>
+        <td>Nejc Jenko,</td>
+        <td>finančna matematika,</td>
         <td>1. stopnja,</td>
-        <td>2. letnik</td>
+        <td>3. letnik</td>
     </tr>
     <tr>
         <td>Matevž Kopač,</td>
@@ -27,26 +27,26 @@
         <td>2. letnik</td>
     </tr>
     <tr>
-        <td>Žan Mikola,</td>
+        <td>Tilen Klinc,</td>
         <td>finančna matematika,</td>
         <td>1. stopnja,</td>
-        <td>3. letnik</td>
+        <td>2. letnik</td>
     </tr>
     <tr>
-        <td>Aljoša Rebolj,</td>
+        <td>Anže Mramor,</td>
         <td>finančna matematika,</td>
-        <td>1. stopnja,</td>
-        <td>3. letnik</td>
+        <td>2. stopnja,</td>
+        <td>1. letnik</td>
     </tr>
     <tr>
-        <td>Katarina Šipec,</td>
-        <td>matematika,</td>
+        <td>Urban Pečoler,</td>
+        <td>fizika,</td>
         <td>1. stopnja,</td>
-        <td>dodatno leto</td>
+        <td>2. letnik</td>
     </tr>
     <tr>
-        <td>Klara Širca,</td>
-        <td>finančna matematika,</td>
+        <td>Miha Pompe,</td>
+        <td>fizika,</td>
         <td>1. stopnja,</td>
         <td>2. letnik</td>
     </tr>
@@ -54,25 +54,25 @@
         <td>Matic Tonin,</td>
         <td>fizika,</td>
         <td>1. stopnja,</td>
-        <td>2. letnik</td>
+        <td>3. letnik</td>
     </tr>
     <tr>
-        <td>Tjaša Vagaja,</td>
-        <td>finančna matematika,</td>
+        <td>Domen Romih,</td>
+        <td>fizika,</td>
         <td>1. stopnja,</td>
-        <td>1. letnik</td>
+        <td>2. letnik</td>
     </tr>
     <tr>
         <td>Nina Velkavrh,</td>
         <td>finančna matematika,</td>
         <td>1. stopnja,</td>
-        <td>2. letnik</td>
+        <td>3. letnik</td>
     </tr>
     <tr>
-        <td>Jakob Zmrzlikar,</td>
-        <td>matematika,</td>
+        <td>Luka Skeledžija,</td>
+        <td>fizika,</td>
         <td>1. stopnja,</td>
-        <td>3. letnik</td>
+        <td>2. letnik</td>
     </tr>
     <tr>
         <td>Nastja Zupančič,</td>
@@ -83,8 +83,8 @@
     <tr>
         <td>Gašper Žajdela,</td>
         <td>matematika,</td>
-        <td>1. stopnja,</td>
-        <td>dodatno leto</td>
+        <td>2. stopnja,</td>
+        <td>1. letnik</td>
     </tr>
 </table>
 
@@ -104,9 +104,9 @@ natančen povzetek sej sveta in njihovo objavo ter posredno za dobro obveščeno
 informacijsko podporo s pomočjo RC FMF.
 </p>
 
-<p><strong>Predsednik</strong> sveta je Matej Janežič, <strong>podpredsednica</strong> pa je Nastja Zupančič.  
-Predstavnik študentov Oddelka za matematiko je Matej Janežič, Oddelka za fiziko pa Nastja Zupančič.
-<strong>Tajnica</strong> sveta je Klara Širca.
+<p><strong>Predsednik</strong> sveta je Matevž Kopač, <strong>podpredsednica</strong> pa je Nastja Zupančič.  
+Predstavnik študentov Oddelka za matematiko je Gašper Žajdela, Oddelka za fiziko pa Nastja Zupančič.
+<strong>Tajnik</strong> sveta je Nejc Jenko.
 
 <h1>Predstavniki v organih FMF</h1>
 <h2>Senat FMF</h2>
@@ -114,16 +114,16 @@ Predstavnik študentov Oddelka za matematiko je Matej Janežič, Oddelka za fizi
 programov in ostalih tekočih zadevah. ŠS ima v senatu 3 predstavnike. Senat se sestaja mesečno.
 Predstavniki študentov:</p>
 <ul>
-  <li>Matej Janežič, namestnik Gašper Žajdela</li>
-  <li>Aljoša Rebolj, namestnica Nina Velkavrh</li>
-  <li>Katarina Šipec, namestnik Jakob Zmrzlikar</li>
+  <li>Matevž Kopač, namestnica Nina Velkavrh</li>
+  <li>Nastja Zupančil, namestnik Matic Tonin</li>
+  <li>Urban Pečoler, namestnik Luka Skeledžija</li>
 </ul>
 
 <h2>UO (upravni odbor) FMF</h2>
 <p>Upravni odbor FMF se odloča o finančnih zadevah fakultete, med drugim o cenah storitev, ki
 vplivajo na študente. Predstavnik študentov:</p>
 <ul>
-  <li>Matevž Kopač, namestnik Aljoša Rebolj</li>
+  <li>Nejc Jenko, namestnik Matevž Kopač</li>
 </ul>
 
 <h2>ZPS (znanstveno pedagoški svet)</h2>
@@ -131,8 +131,8 @@ vplivajo na študente. Predstavnik študentov:</p>
 zadevah, npr. izvolitvah, spremembah programov ipd. Sestaja se mesečno, odločitve se posredujejo
 senatu FMF. Predstavnika študentov: </p>
 <ul>
-  <li>Oddelek za matematiko: Gašper Žajdela, namestnica Katarina Šipec</li>
-  <li>Oddelek za fiziko: Nastja Zupančič, namestnik Klemen Ducman</li>
+  <li>Oddelek za matematiko: Gašper Žajdela, namestnica Eva Babnik</li>
+  <li>Oddelek za fiziko: Nastja Zupančič, namestnik Miha Pompe</li>
 </ul>
 
 <h2>Komisija za študentska mnenja</h2>
@@ -147,21 +147,21 @@ sklepu Študentskega sveta ne bomo javno objavili.</p>
 drugih kršitvah pravilnika s strani študentov. Predstavnika:
 </p>
 <ul>
-  <li>Matic Tonin, namestnik Gašper Žajdela</li>
-  <li>Klara Širca, namestnica Nina Velkavrh</li>
+  <li>Eva Babnik, namestnik Anže Mramor</li>
+  <li>Urban Pečoler, namestnica Nina Velkavrh</li>
 </ul>
 
 <h2>Komisija za študijske zadeve</h2>
 <p>Komisija za študijske zadeve odloča med drugim o odobritvah prošenj za izredne vpise v isti in višji letnik. Predstavnica študentov:<p>
 <ul>
-  <li>Katarina Šipec, namestnik Matej Janežič</li>
+  <li>Matic Tonin, namestnica Eva Babnik</li>
 </ul>
 
 <h2>Komisija za etična vprašanja</h2>
 <p>Komisija za etična vprašanja se sestane v primeru etičnih vprašanj glede raziskovalnega ali
 pedagoškega dela. Predstavnik študentov:</p>
 <ul>
-  <li>Jakob Zmrzlikar, namestnica Tjaša Vagaja</li>
+  <li>Domen Romih, namestnik Miha Pompe</li>
 </ul>
 
 <h2>Komisija za kakovost</h2>
@@ -169,14 +169,14 @@ pedagoškega dela. Predstavnik študentov:</p>
 ob ponovni akreditaciji študijskih programov. Običajno se poleg članov Sveta sestanejo tudi s
 študenti študijskih programov v obravnavi. Predstavnika študentov:</p>
 <ul>
-  <li>Tjaša Vagaja, namestnik Jakob Zmrzlikar</li>
-  <li>Nina Velkavrh, namestnik Matic Tonin</li>
+  <li>Luka Skeledžija, namestnica Nina Velkavrh</li>
+  <li>Miha Pompe, namestnik Matevž Kopač</li>
 </ul>
 
 <h2>Upravni odbor ŠOFMF</h2>
 <p>Predstavnik študentov:</p>
 <ul>
-  <li>Matevž Kopač, namestnik Klemen Ducman</li>
+  <li>Matevž Kopač, namestnik Luka Skeledžija</li>
 </ul>
 
 <h1>Člani organov in komisij senata Univerze v Ljubljani</h1>
