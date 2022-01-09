@@ -23,6 +23,35 @@ Oddelka za fiziko. Tvoje mnenje bo obravnavano anonimno!</p>
   <li>Obrazec za mnenje z zadržkom (2 strani) je na voljo <a href="/dokumenti/mnenja_templates/obrazec_mnenje_z_zadrzkom_dvostransko.pdf">tukaj</a></li>
 </ul>
 
+<h2>V šolskem 2020/21 letu je ŠS FMF izdal mnenja naslednjim pedagoškim delavcem:</h2>
+<ol reversed="reversed">
+  <li>Mina Ličen</li>
+  <li>Jasna Prezelj</li>
+  <li>Zaplotnik Žiga</li>
+  <li>Gregorin Žiga</li>
+  <li>Naseska Mimoza</li>
+  <li>Špela Krušič</li>
+  <li>Mohorič Aleš</li>
+  <li>Matjaž Zaveršnik</li>
+  <li>Gregor Skok</li>
+  <li>Arjana Žitnik</li>
+  <li>Aleš Vavpetič</li>
+  <li>Janez Šter</li>
+  <li>Žiga Štrancar</li>
+  <li>Boštjan Maček</li>
+  <li>Vladimir Radulović</li>
+  <li>Ivan Kukuljan</li>
+  <li>Jernej Fesel Kamenik</li>
+  <li>Nastja Mahne</li>
+  <li>Luka Šantelj</li>
+  <li>Mitja Uršič</li>
+  <li>Tomaž Podobnik</li>
+  <li>Boštjan Končar</li>
+  <li>Jakob Novak</li>
+  <li>Janoš Vidali</li>
+  <li>Oleksiy Aleksey Kostenko</li>
+</ol>
+
 <h2>V šolskem 2019/20 letu je ŠS FMF izdal mnenja naslednjim pedagoškim delavcem:</h2>
 <ol reversed="reversed">
   <li>Sašo Grozdanov</li>
