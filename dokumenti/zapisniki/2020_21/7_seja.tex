@@ -1,0 +1,41 @@
+\documentclass{seja}
+
+\newcommand{\SejaNum}{7}
+\newcommand{\Title}{Zapisnik \SejaNum.~redne (4.~dopisne) seje Študentskega sveta FMF}
+\newcommand{\DateSeja}{13.~9.~2021}
+\newcommand{\DateZapisnik}{17.~9.~2021}
+
+\begin{document}
+
+Prisotni člani in članice ŠS FMF UL:
+Matej Janežič, Matevž Kopač, Žan Mikola, Aljoša Rebolj, Katarina Šipec, Klara Širca, Matic Tonin, Tjaša Vagaja, Nina Velkavrh, Jakob Zmrzlikar, Nastja Zupančič, Gašper Žajdela.
+
+\begin{red}
+    \item
+    Sprejem študentskih mnenj
+\end{red}
+
+\begin{ad}
+    \item
+    \begin{sklep*}
+       ŠS FMF sprejme študentska mnenja za naslednje pedagoške delavce:
+       \begin{itemize}
+            \item Špela Krušič
+            \item Aleš Mohorič
+            \item Mimoza Naseska
+            \item Gregor Skok
+            \item Matjaž Zaveršnik
+       \end{itemize}
+    \end{sklep*}
+   
+\end{ad}
+% spremeni footer
+\makeatletter \global\let\@enddocumenthook\@empty \makeatother
+\AtEndDocument{
+	Zapisal Matej Janežič, pregledala Katarina Šipec.
+	
+	\begin{flushright}
+		Predsednik ŠS FMF \\
+		Matej Janežič
+\end{flushright}}
+\end{document}
