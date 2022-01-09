@@ -3,7 +3,7 @@
 ?>
 
 <div id="title">
-  <h1>Člani Študentskega sveta FMF v študijskem letu 2020/21</h1>
+  <h1>Člani Študentskega sveta FMF v študijskem letu 2021/22</h1>
 </div>
 
 <h2>Člani Študentskega sveta FMF</h2>
@@ -115,7 +115,7 @@ programov in ostalih tekočih zadevah. ŠS ima v senatu 3 predstavnike. Senat se
 Predstavniki študentov:</p>
 <ul>
   <li>Matevž Kopač, namestnica Nina Velkavrh</li>
-  <li>Nastja Zupančil, namestnik Matic Tonin</li>
+  <li>Nastja Zupančič, namestnik Matic Tonin</li>
   <li>Urban Pečoler, namestnik Luka Skeledžija</li>
 </ul>
 
