@@ -3,7 +3,7 @@
 ?>
 
 <div id="title">
-  <h1>Člani Študentskega sveta FMF v študijskem letu 2021/22</h1>
+  <h1>Člani Študentskega sveta FMF v študijskem letu 2020/22</h1>
 </div>
 
 <h2>Člani Študentskega sveta FMF</h2>
