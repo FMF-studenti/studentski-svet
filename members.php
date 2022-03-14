@@ -24,7 +24,7 @@
         <td>Matevž Kopač,</td>
         <td>finančna matematika,</td>
         <td>1. stopnja,</td>
-        <td>2. letnik</td>
+        <td>3. letnik</td>
     </tr>
     <tr>
         <td>Tilen Klinc,</td>
@@ -80,12 +80,6 @@
         <td>2. stopnja,</td>
         <td>1. letnik</td>
     </tr>
-    <tr>
-        <td>Gašper Žajdela,</td>
-        <td>matematika,</td>
-        <td>2. stopnja,</td>
-        <td>1. letnik</td>
-    </tr>
 </table>
 
 <h1>Vodstvo sveta</h1>
@@ -105,7 +99,7 @@ informacijsko podporo s pomočjo RC FMF.
 </p>
 
 <p><strong>Predsednik</strong> sveta je Matevž Kopač, <strong>podpredsednica</strong> pa je Nastja Zupančič.  
-Predstavnik študentov Oddelka za matematiko je Gašper Žajdela, Oddelka za fiziko pa Nastja Zupančič.
+Predstavnica študentov Oddelka za matematiko je Eva Babnik, Oddelka za fiziko pa Nastja Zupančič.
 <strong>Tajnik</strong> sveta je Nejc Jenko.
 
 <h1>Predstavniki v organih FMF</h1>
@@ -131,7 +125,7 @@ vplivajo na študente. Predstavnik študentov:</p>
 zadevah, npr. izvolitvah, spremembah programov ipd. Sestaja se mesečno, odločitve se posredujejo
 senatu FMF. Predstavnika študentov: </p>
 <ul>
-  <li>Oddelek za matematiko: Gašper Žajdela, namestnica Eva Babnik</li>
+  <li>Oddelek za matematiko: Eva Babnik, namestnik Matevž Kopač</li>
   <li>Oddelek za fiziko: Nastja Zupančič, namestnik Miha Pompe</li>
 </ul>
 
@@ -152,7 +146,7 @@ drugih kršitvah pravilnika s strani študentov. Predstavnika:
 </ul>
 
 <h2>Komisija za študijske zadeve</h2>
-<p>Komisija za študijske zadeve odloča med drugim o odobritvah prošenj za izredne vpise v isti in višji letnik. Predstavnica študentov:<p>
+<p>Komisija za študijske zadeve odloča med drugim o odobritvah prošenj za izredne vpise v isti in višji letnik. Predstavnik študentov:<p>
 <ul>
   <li>Matic Tonin, namestnica Eva Babnik</li>
 </ul>
@@ -179,11 +173,16 @@ ob ponovni akreditaciji študijskih programov. Običajno se poleg članov Sveta 
   <li>Matevž Kopač, namestnik Luka Skeledžija</li>
 </ul>
 
+<h2>Upravni odbor ŠOFMF</h2>
+<p>Predstavnik študentov:</p>
+<ul>
+  <li>Matevž Kopač, namestnik Luka Skeledžija</li>
+</ul>
+
 <h1>Člani organov in komisij senata Univerze v Ljubljani</h1>
 <h2>Člani Študentskega sveta Univerze v Ljubljani</h2>
 <ul>
-  <li>Katarina Šipec, namestnik Matej Janežič</li>
-  <li>Nastja Zupančič, namestnica Klementina Pirc</li>
+  <li>Nastja Zupančič, namestnik Matevž Kopač</li>
 </ul>
 
 <h2>Člani ostalih organov Univerze v Ljubljani</h2>

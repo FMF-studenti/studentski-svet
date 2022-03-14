@@ -40,6 +40,8 @@
 <ul>
   <li>Poročilo volilne komisije je na voljo <a href="/dokumenti/zapisniki/2021_22/porocilo_volilne_komisije.pdf">tukaj</a></li>
   <li>Zapisnik 1. redne (konstitutivne) seje je na voljo <a href="/dokumenti/zapisniki/2021_22/1_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 2. redne (1. dopisne) seje je na voljo <a href="/dokumenti/zapisniki/2021_22/2_seja.pdf">tukaj</a></li>
+  <li>Zapisnik 3. redne (2. dopisne) seje je na voljo <a href="/dokumenti/zapisniki/2021_22/3_seja.pdf">tukaj</a></li>
 </ul>
 
 <h2 id='templates'>Predloge za mnenja</h2>
