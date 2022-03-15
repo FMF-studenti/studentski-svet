@@ -48,7 +48,7 @@
         <td>Miha Pompe,</td>
         <td>fizika,</td>
         <td>1. stopnja,</td>
-        <td>2. letnik</td>
+        <td>3. letnik</td>
     </tr>
     <tr>
         <td>Matic Tonin,</td>
